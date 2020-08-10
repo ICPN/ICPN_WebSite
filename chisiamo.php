@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>ICPN - Missione</title>
+  <title>About - Moderna Bootstrap Template</title>
   <meta content="" name="descriptison">
   <meta content="" name="keywords">
 
@@ -43,7 +43,7 @@
     <div class="container">
 
       <div class="logo float-left">
-        <h1 class="text-light"><a href="index.php"><span>Moderna</span></a></h1>
+        <h1 class="text-light"><a href="index.php"><span>ICPN</span></a></h1>
         <!-- Uncomment below if you prefer to use an image logo -->
         <!-- <a href="index.php"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
       </div>
@@ -51,20 +51,20 @@
       <nav class="nav-menu float-right d-none d-lg-block">
         <ul>
           <li class="active"><a href="index.php">Home</a></li>
-          <li class="drop-down"><a href="chisiamo.html">Chi Siamo</a>
+          <li class="drop-down"><a href="chisiamo.php">Chi Siamo</a>
             <ul>
-              <li><a href="missione.html">Missione</a></li>
-              <li><a href="team.html">Team</a></li>
+              <li><a href="missione.php">Missione</a></li>
+              <li><a href="team.php">Team</a></li>
             </ul>
           </li>
-          <li><a href="notizie.html">Notizie</a></li>
-          <li><a href="opportunita.html">Opportunità</a></li>
-          <li><a href="iniziative.html">Iniziative</a></li>
+          <li><a href="notizie.php">Notizie</a></li>
+          <li><a href="opportunita.php">Opportunità</a></li>
+          <li><a href="iniziative.php">Iniziative</a></li>
           <li><a href="Eventi.html">Eventi</a></li>
-          <li><a href="contatti.html">Contatti</a></li>
+          <li><a href="contatti.php">Contatti</a></li>
         </ul>
       </nav><!-- .nav-menu -->
-
+      
     </div>
   </header><!-- End Header -->
 
@@ -75,10 +75,10 @@
       <div class="container">
 
         <div class="d-flex justify-content-between align-items-center">
-          <h2>About Us</h2>
+          <h2>Chi Siamo</h2>
           <ol>
             <li><a href="index.php">Home</a></li>
-            <li>About Us</li>
+            <li>Chi Siamo</li>
           </ol>
         </div>
 

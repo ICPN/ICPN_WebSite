@@ -10,7 +10,7 @@
 
   <?php include 'partials/head-style.php'; ?>
 </head>
-try
+
 <body>
   <!-- ======= Header Navbar ======= -->
   <?php include 'partials/header-home.php'; ?>
