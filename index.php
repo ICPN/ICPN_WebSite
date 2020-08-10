@@ -8,12 +8,12 @@
   <meta content="" name="descriptison">
   <meta content="" name="keywords">
 
-  <?php include 'partials/head-style.php'; ?>
+    <?php include 'partials/head-style.php'; ?>
 </head>
 
 <body>
-  <!-- ======= Header Navbar ======= -->
-  <?php include 'partials/header-home.php'; ?>
+    <!-- ======= Header Navbar ======= -->
+    <?php include 'partials/header-home.php'; ?>
 
   <!-- ======= Hero Section ======= -->
   <section id="hero" class="d-flex justify-cntent-center align-items-center">
@@ -216,11 +216,11 @@
   </main><!-- End #main -->
 
   <!-- ======= Footer ======= -->
-  <?php include 'partials/footer.php'; ?>
+    <?php include 'partials/footer.php'; ?>
 
   <a href="#" class="back-to-top"><i class="icofont-simple-up"></i></a>
 
-  <?php include 'partials/foot-script.php'; ?>
+    <?php include 'partials/foot-script.php'; ?>
 
 </body>
 
