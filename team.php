@@ -24,10 +24,10 @@
       <div class="container">
 
         <div class="d-flex justify-content-between align-items-center">
-          <h2>Our Team</h2>
+          <h2>Il nostro Team</h2>
           <ol>
             <li><a href="index.php">Home</a></li>
-            <li>Our Team</li>
+            <li>Il nostro Team</li>
           </ol>
         </div>
 

@@ -23,10 +23,10 @@
       <div class="container">
 
         <div class="d-flex justify-content-between align-items-center">
-          <h2>About Us</h2>
+          <h2>Missione</h2>
           <ol>
             <li><a href="index.php">Home</a></li>
-            <li>About Us</li>
+            <li>Missione</li>
           </ol>
         </div>
 

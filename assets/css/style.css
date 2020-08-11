@@ -382,7 +382,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
 }
 
 #hero .btn-get-started {
-  font-family: "Roboto", sans-serif;
+  font-family: "Tahoma", sans-serif;
   font-weight: 500;
   font-size: 14px;
   letter-spacing: 1px;
@@ -484,7 +484,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
 }
 
 #hero-no-slider .btn-get-started {
-  font-family: "Roboto", sans-serif;
+  font-family: "Tahoma", sans-serif;
   font-weight: 500;
   font-size: 14px;
   letter-spacing: 1px;
@@ -939,7 +939,7 @@ section {
 .facts .counters p {
   padding: 0;
   margin: 0 0 20px 0;
-  font-family: "Roboto", sans-serif;
+  font-family: "Tahoma", sans-serif;
   font-size: 14px;
 }
 
