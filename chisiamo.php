@@ -5,17 +5,17 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-    <title>Chi Siamo - ICPN</title>
+  <title>Chi Siamo - ICPN</title>
   <meta content="" name="descriptison">
   <meta content="" name="keywords">
 
-    <?php include 'partials/head-style.php'; ?>
+  <?php include 'partials/head-style.php'; ?>
 </head>
 
 <body>
 
-    <!-- ======= Header Navbar ======= -->
-    <?php include 'partials/header.php'; ?>
+  <!-- ======= Header Navbar ======= -->
+  <?php include 'partials/header.php'; ?>
 
   <main id="main">
 
@@ -40,24 +40,24 @@
 
         <div class="row">
           <div class="col-lg-6">
-            <img src="assets/img/about.jpg" class="img-fluid" alt="">
+            <img src="assets/img/about.png" class="img-fluid" alt="">
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0">
-            <h3>Voluptatem dignissimos provident quasi corporis voluptates sit assumenda.</h3>
-            <p class="font-italic">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-              magna aliqua.
+            <h3>CHI SIAMO E LE NOSTRE ATTIVITÀ</h3>
+            <p class="text-justify">
+              ICPN è un’organizzazione no-profit, con la missione di creare una comunità di persone con forte interesse
+              e senso di appartenenza alla Cina e all’Italia e con forte credo nell’importanza dell’educazione, della
+              cultura, dello studio, della diversità e del rispetto. Il network ha l’obbiettivo di promuovere il dialogo
+              attivo fungendo da punto di contatto tra studenti, professionisti e aziende. Seguendo questi principi,
+              assieme alle competenze specifiche e alla conoscenza delle lingue italiana, cinese ed inglese ci poniamo
+              sul mondo professionale e imprenditoriale in Italia, Cina e nel resto del mondo.
             </p>
             <ul>
-              <li><i class="icofont-check-circled"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-              <li><i class="icofont-check-circled"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-              <li><i class="icofont-check-circled"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</li>
+              <li><i class="icofont-check-circled"></i> NETWORKING</li>
+              <li><i class="icofont-check-circled"></i> MENTORING</li>
+              <li><i class="icofont-check-circled"></i> OPPORTUNITÀ</li>
+              <li><i class="icofont-check-circled"></i> RECRUITING</li>
             </ul>
-            <p>
-              Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-              velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-              culpa qui officia deserunt mollit anim id est laborum
-            </p>
           </div>
         </div>
 
@@ -70,23 +70,13 @@
 
         <div class="row counters">
 
-          <div class="col-lg-3 col-6 text-center">
-            <span data-toggle="counter-up">232</span>
-            <p>Clients</p>
+          <div class="col-lg-6 col-6 text-center">
+            <span data-toggle="counter-up">900</span>
+            <p>Comunity</p>
           </div>
 
-          <div class="col-lg-3 col-6 text-center">
-            <span data-toggle="counter-up">521</span>
-            <p>Projects</p>
-          </div>
-
-          <div class="col-lg-3 col-6 text-center">
-            <span data-toggle="counter-up">1,463</span>
-            <p>Hours Of Support</p>
-          </div>
-
-          <div class="col-lg-3 col-6 text-center">
-            <span data-toggle="counter-up">15</span>
+          <div class="col-lg-6 col-6 text-center">
+            <span data-toggle="counter-up">19</span>
             <p>Hard Workers</p>
           </div>
 
@@ -100,119 +90,33 @@
       <div class="container">
 
         <div class="section-title">
-          <h2>Our Skills</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <h2>La nostra missione</h2>
+          <p class="text-justify">La nostra missione è creare una comunità di persone, accomunate da un forte interesse
+            e senso di appartenenza alla Cina e all’Italia, che siano interessate o abbiano già incominciato ad
+            intraprendere una carriera professionale.
+            Il network promuove il dialogo attivo e funge da punto di contatto tra studenti, professionisti e aziende
+            per la condivisione di opportunità.
+            Crediamo fortemente nell’importanza dell’educazione, della cultura, dello studio, della diversità e del
+            rispetto. Seguendo questi principi, assieme alle competenze specifiche e alla padronanza delle lingue
+            italiana, cinese ed inglese ci poniamo inoltre sul mondo del lavoro in Italia, Cina e nel resto del mondo. ​
+            Attualmente, fanno parte del nostro network le persone di origine cinese e non, tra cui studenti
+            liceali e universitari, studenti internazionali, professionisti e imprenditori che condividono l’importanza
+            della formazione.
+            Il background accademico dei nostri associati è molto variegato ed eterogeneo, ma sono la competenza e la
+            forte internazionalizzazione la loro caratteristica comune.
+            Tra le principali discipline degli associati, riportiamo Economia, Finanza, Marketing, Ingegneria, Lingue e
+            Giurisprudenza.</p>
         </div>
-
-        <div class="skills-content">
-
-          <div class="progress">
-            <div class="progress-bar bg-success" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">
-              <span class="skill">HTML <i class="val">100%</i></span>
-            </div>
-          </div>
-
-          <div class="progress">
-            <div class="progress-bar bg-info" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100">
-              <span class="skill">CSS <i class="val">90%</i></span>
-            </div>
-          </div>
-
-          <div class="progress">
-            <div class="progress-bar bg-warning" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100">
-              <span class="skill">JavaScript <i class="val">75%</i></span>
-            </div>
-          </div>
-
-          <div class="progress">
-            <div class="progress-bar bg-danger" role="progressbar" aria-valuenow="55" aria-valuemin="0" aria-valuemax="100">
-              <span class="skill">Photoshop <i class="val">55%</i></span>
-            </div>
-          </div>
-
-        </div>
-
       </div>
     </section><!-- End Our Skills Section -->
 
-    <!-- ======= Tetstimonials Section ======= -->
-    <section class="testimonials" data-aos="fade-up">
-      <div class="container">
-
-        <div class="section-title">
-          <h2>Tetstimonials</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
-        </div>
-
-        <div class="owl-carousel testimonials-carousel">
-
-          <div class="testimonial-item">
-            <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
-            <h3>Saul Goodman</h3>
-            <h4>Ceo &amp; Founder</h4>
-            <p>
-              <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-              Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
-              <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-            </p>
-          </div>
-
-          <div class="testimonial-item">
-            <img src="assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
-            <h3>Sara Wilsson</h3>
-            <h4>Designer</h4>
-            <p>
-              <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-              Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.
-              <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-            </p>
-          </div>
-
-          <div class="testimonial-item">
-            <img src="assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
-            <h3>Jena Karlis</h3>
-            <h4>Store Owner</h4>
-            <p>
-              <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-              Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim.
-              <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-            </p>
-          </div>
-
-          <div class="testimonial-item">
-            <img src="assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
-            <h3>Matt Brandon</h3>
-            <h4>Freelancer</h4>
-            <p>
-              <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-              Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.
-              <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-            </p>
-          </div>
-
-          <div class="testimonial-item">
-            <img src="assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
-            <h3>John Larson</h3>
-            <h4>Entrepreneur</h4>
-            <p>
-              <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-              Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.
-              <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-            </p>
-          </div>
-
-        </div>
-
-      </div>
-    </section><!-- End Ttstimonials Section -->
-
   </main><!-- End #main -->
 
-    <!-- ======= Footer ======= -->
-    <?php include 'partials/footer.php'; ?>
+  <!-- ======= Footer ======= -->
+  <?php include 'partials/footer.php'; ?>
 
-    <a href="#" class="back-to-top"><i class="icofont-simple-up"></i></a>
-    <?php include 'partials/foot-script.php'; ?>
+  <a href="#" class="back-to-top"><i class="icofont-simple-up"></i></a>
+  <?php include 'partials/foot-script.php'; ?>
 
 </body>
 
