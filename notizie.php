@@ -9,14 +9,14 @@
   <meta content="" name="descriptison">
   <meta content="" name="keywords">
 
-    <?php include 'partials/head-style.php'; ?>
+  <?php include 'partials/head-style.php'; ?>
 
 </head>
 
 <body>
 
-<!-- ======= Header Navbar ======= -->
-<?php include 'partials/header.php'; ?>
+  <!-- ======= Header Navbar ======= -->
+  <?php include 'partials/header.php'; ?>
 
   <main id="main">
 
@@ -25,16 +25,75 @@
       <div class="container">
 
         <div class="d-flex justify-content-between align-items-center">
-          <h2>Eventi</h2>
+          <h2>Notizie</h2>
 
           <ol>
             <li><a href="index.php">Home</a></li>
-            <li>Eventi</li>
+            <li>Notizie</li>
           </ol>
         </div>
 
       </div>
     </section><!-- End Blog Section -->
+
+    <!-- ======= Service Details Section ======= -->
+    <section class="service-details">
+      <div class="container">
+
+        <div class="row">
+          <div class="col-md-4 d-flex align-items-stretch" data-aos="fade-up">
+            <div class="card">
+              <div class="card-img">
+                <img src="assets/img/service-details-1.jpg" alt="...">
+              </div>
+              <div class="card-body">
+                <h5 class="card-title"><a href="#">Our Mission</a></h5>
+                <p class="card-text">Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat</p>
+                <div class="read-more"><a href="#"><i class="icofont-arrow-right"></i> Read More</a></div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4 d-flex align-items-stretch" data-aos="fade-up">
+            <div class="card">
+              <div class="card-img">
+                <img src="assets/img/service-details-2.jpg" alt="...">
+              </div>
+              <div class="card-body">
+                <h5 class="card-title"><a href="#">Our Plan</a></h5>
+                <p class="card-text">Sed ut perspiciatis unde omnis iste natus error sit voluptatem doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo</p>
+                <div class="read-more"><a href="#"><i class="icofont-arrow-right"></i> Read More</a></div>
+              </div>
+            </div>
+
+          </div>
+          <div class="col-md-4 d-flex align-items-stretch" data-aos="fade-up">
+            <div class="card">
+              <div class="card-img">
+                <img src="assets/img/service-details-3.jpg" alt="...">
+              </div>
+              <div class="card-body">
+                <h5 class="card-title"><a href="#">Our Vision</a></h5>
+                <p class="card-text">Nemo enim ipsam voluptatem quia voluptas sit aut odit aut fugit, sed quia magni dolores eos qui ratione voluptatem sequi nesciunt Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet</p>
+                <div class="read-more"><a href="#"><i class="icofont-arrow-right"></i> Read More</a></div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4 d-flex align-items-stretch" data-aos="fade-up">
+            <div class="card">
+              <div class="card-img">
+                <img src="assets/img/service-details-4.jpg" alt="...">
+              </div>
+              <div class="card-body">
+                <h5 class="card-title"><a href="#">Our Care</a></h5>
+                <p class="card-text">Nostrum eum sed et autem dolorum perspiciatis. Magni porro quisquam laudantium voluptatem. In molestiae earum ab sit esse voluptatem. Eos ipsam cumque ipsum officiis qui nihil aut incidunt aut</p>
+                <div class="read-more"><a href="#"><i class="icofont-arrow-right"></i> Read More</a></div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </section><!-- End Service Details Section -->
 
     <!-- ======= Blog Section ======= -->
     <section class="blog" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500">
@@ -285,107 +344,10 @@
   </main><!-- End #main -->
 
   <!-- ======= Footer ======= -->
-  <footer id="footer" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500">
-
-    <div class="footer-newsletter">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-6">
-            <h4>Our Newsletter</h4>
-            <p>Tamen quem nulla quae legam multos aute sint culpa legam noster magna</p>
-          </div>
-          <div class="col-lg-6">
-            <form action="" method="post">
-              <input type="email" name="email"><input type="submit" value="Subscribe">
-            </form>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <div class="footer-top">
-      <div class="container">
-        <div class="row">
-
-          <div class="col-lg-3 col-md-6 footer-links">
-            <h4>Useful Links</h4>
-            <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Home</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">About us</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Services</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Terms of service</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Privacy policy</a></li>
-            </ul>
-          </div>
-
-          <div class="col-lg-3 col-md-6 footer-links">
-            <h4>Our Services</h4>
-            <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Web Design</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Web Development</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Product Management</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Marketing</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Graphic Design</a></li>
-            </ul>
-          </div>
-
-          <div class="col-lg-3 col-md-6 footer-contact">
-            <h4>Contact Us</h4>
-            <p>
-              A108 Adam Street <br>
-              New York, NY 535022<br>
-              United States <br><br>
-              <strong>Phone:</strong> +1 5589 55488 55<br>
-              <strong>Email:</strong> info@example.com<br>
-            </p>
-
-          </div>
-
-          <div class="col-lg-3 col-md-6 footer-info">
-            <h3>About Moderna</h3>
-            <p>Cras fermentum odio eu feugiat lide par naso tierra. Justo eget nada terra videa magna derita valies darta donna mare fermentum iaculis eu non diam phasellus.</p>
-            <div class="social-links mt-3">
-              <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
-              <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
-              <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
-              <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
-            </div>
-          </div>
-
-        </div>
-      </div>
-    </div>
-
-    <div class="container">
-      <div class="copyright">
-        &copy; Copyright <strong><span>Moderna</span></strong>. All Rights Reserved
-      </div>
-      <div class="credits">
-        <!-- All the links in the footer should remain intact. -->
-        <!-- You can delete the links only if you purchased the pro version. -->
-        <!-- Licensing information: https://bootstrapmade.com/license/ -->
-        <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/free-bootstrap-template-corporate-moderna/ -->
-        Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
-      </div>
-    </div>
-  </footer><!-- End Footer -->
+  <?php include 'partials/footer.php'; ?>
 
   <a href="#" class="back-to-top"><i class="icofont-simple-up"></i></a>
-
-  <!-- Vendor JS Files -->
-  <script src="assets/vendor/jquery/jquery.min.js"></script>
-  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-  <script src="assets/vendor/jquery.easing/jquery.easing.min.js"></script>
-  <script src="assets/vendor/php-email-form/validate.js"></script>
-  <script src="assets/vendor/venobox/venobox.min.js"></script>
-  <script src="assets/vendor/waypoints/jquery.waypoints.min.js"></script>
-  <script src="assets/vendor/counterup/counterup.min.js"></script>
-  <script src="assets/vendor/owl.carousel/owl.carousel.min.js"></script>
-  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
-  <script src="assets/vendor/aos/aos.js"></script>
-
-  <!-- Template Main JS File -->
-  <script src="assets/js/main.js"></script>
+  <?php include 'partials/foot-script.php'; ?>
 
 </body>
 
