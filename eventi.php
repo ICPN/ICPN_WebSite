@@ -49,34 +49,53 @@
             </div>
 
             <div class="row portfolio-container" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500">
-
-                <div class="col-lg-4 col-md-6 filter-app">
-                    <div class="portfolio-item">
-                        <img src="assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt="">
-                        <div class="portfolio-info">
-                            <h3><a href="assets/img/portfolio/portfolio-1.jpg" data-gall="portfolioGallery" class="venobox" title="App 1">App 1</a></h3>
-                            <div>
-                                <a href="assets/img/portfolio/portfolio-1.jpg" data-gall="portfolioGallery" class="venobox" title="App 1"><i class="bx bx-plus"></i></a>
-                                <a href="portfolio-details.html" title="Portfolio Details"><i class="bx bx-link"></i></a>
+                <div class="col-lg-12 filter-app">
+                    <hr class="mx-auto" style="height: 10px;width: 100px;color: darkgray">
+                    <div class="col-lg-6 col-md-6 mx-auto">
+                        <div class="portfolio-item">
+                            <img src="assets/img/events/networking.jpg" class="img-fluid" alt="">
+                            <div class="portfolio-info">
+                                <h3><a href="assets/img/events/networking.jpg" data-gall="portfolioGallery" class="venobox" title="App 1">Closed</a></h3>
+                                <div>
+                                    <a href="assets/img/events/networking.jpg" data-gall="portfolioGallery" class="venobox" title="App 1"><i class="bx bx-plus"></i></a>
+                                    <!--<a href="" title="Portfolio Details"><i class="bx bx-link"></i></a>-->
+                                </div>
                             </div>
                         </div>
                     </div>
+                    <div class="col-lg-12">
+                        <h4 class="text-center">NETWORKING EVENT – APERITIVO</h4>
+                        <h6 class="text-center">6 LUGLIO 2019<br/>
+                            Sede: Torre Bianca, Via Luigi Camoens Milano.<br/>
+                            <a href="gallerytest.php" class="btn-get-started animate__animated animate__fadeInUp">Gallery</a></h6>
+                    </div>
+
                 </div>
 
-                <div class="col-lg-4 col-md-6 filter-web">
-                    <div class="portfolio-item">
-                        <img src="assets/img/portfolio/portfolio-2.jpg" class="img-fluid" alt="">
-                        <div class="portfolio-info">
-                            <h3><a href="assets/img/portfolio/portfolio-2.jpg" data-gall="portfolioGallery" class="venobox" title="Web 3">Web 3</a></h3>
-                            <div>
-                                <a href="assets/img/portfolio/portfolio-2.jpg" data-gall="portfolioGallery" class="venobox" title="Web 3"><i class="bx bx-plus"></i></a>
-                                <a href="portfolio-details.html" title="Portfolio Details"><i class="bx bx-link"></i></a>
+                <div class="col-lg-12 filter-app">
+                    <hr class="mx-auto" style="height: 10px;width: 100px;color: darkgray">
+                    <div class="col-lg-6 col-md-6 mx-auto">
+                        <div class="portfolio-item">
+                            <img src="assets/img/events/icpnape.jpg" class="img-fluid" alt="">
+                            <div class="portfolio-info">
+                                <h3><a href="assets/img/events/icpnape.jpg" data-gall="portfolioGallery" class="venobox" title="App 1">Closed</a></h3>
+                                <div>
+                                    <a href="assets/img/events/icpnape.jpg" data-gall="portfolioGallery" class="venobox" title="App 1"><i class="bx bx-plus"></i></a>
+                                    <!--<a href="" title="Portfolio Details"><i class="bx bx-link"></i></a>-->
+                                </div>
                             </div>
                         </div>
                     </div>
+                    <div class="col-lg-12">
+                        <h4 class="text-center">PRIMO EVENTO UFFICIALE – APERITIVO</h4>
+                        <h6 class="text-center">
+                            7 LUGLIO 2018<br/>
+                            Ringraziamo tutti gli ospiti per l’interesse e l’attiva partecipazione durante la serata.<br/>
+                            Sede: Spoon Restaurant & Lounge Bar, viale Bligny 39 Milano.</h6>
+                    </div>
                 </div>
 
-                <div class="col-lg-4 col-md-6 filter-app">
+                <!--<div class="col-lg-4 col-md-6 filter-app">
                     <div class="portfolio-item">
                         <img src="assets/img/portfolio/portfolio-3.jpg" class="img-fluid" alt="">
                         <div class="portfolio-info">
@@ -165,7 +184,7 @@
                             </div>
                         </div>
                     </div>
-                </div>
+                </div>-->
 
             </div>
 

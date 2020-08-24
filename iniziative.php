@@ -49,34 +49,25 @@
             </div>
 
             <div class="row portfolio-container" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500">
-
-                <div class="col-lg-4 col-md-6 filter-app">
-                    <div class="portfolio-item">
-                        <img src="assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt="">
-                        <div class="portfolio-info">
-                            <h3><a href="assets/img/portfolio/portfolio-1.jpg" data-gall="portfolioGallery" class="venobox" title="App 1">App 1</a></h3>
-                            <div>
-                                <a href="assets/img/portfolio/portfolio-1.jpg" data-gall="portfolioGallery" class="venobox" title="App 1"><i class="bx bx-plus"></i></a>
-                                <a href="portfolio-details.html" title="Portfolio Details"><i class="bx bx-link"></i></a>
+                <div class="row filter-app">
+                    <div class="col-lg-3 mx-auto">
+                        <div class="portfolio-item">
+                            <img src="assets/img/initiatives/donation.jpeg" class="img-fluid" alt="">
+                            <div class="portfolio-info">
+                                <h3><a href="assets/img/initiatives/donation.jpeg" data-gall="portfolioGallery" class="venobox" title="App 1">...</a></h3>
+                                <div>
+                                    <a href="assets/img/initiatives/donation.jpeg" data-gall="portfolioGallery" class="venobox" title="App 1"><i class="bx bx-plus"></i></a>
+                                    <a href="portfolio-details.html" title="Portfolio Details"><i class="bx bx-link"></i></a>
+                                </div>
                             </div>
                         </div>
                     </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6 filter-web">
-                    <div class="portfolio-item">
-                        <img src="assets/img/portfolio/portfolio-2.jpg" class="img-fluid" alt="">
-                        <div class="portfolio-info">
-                            <h3><a href="assets/img/portfolio/portfolio-2.jpg" data-gall="portfolioGallery" class="venobox" title="Web 3">Web 3</a></h3>
-                            <div>
-                                <a href="assets/img/portfolio/portfolio-2.jpg" data-gall="portfolioGallery" class="venobox" title="Web 3"><i class="bx bx-plus"></i></a>
-                                <a href="portfolio-details.html" title="Portfolio Details"><i class="bx bx-link"></i></a>
-                            </div>
-                        </div>
+                    <div class="col-lg-8 mx-auto">
+                        <h2 class="text-center mx-auto">Progetto Donazioni</h2>
                     </div>
                 </div>
 
-                <div class="col-lg-4 col-md-6 filter-app">
+                <!--<div class="col-lg-4 col-md-6 filter-app">
                     <div class="portfolio-item">
                         <img src="assets/img/portfolio/portfolio-3.jpg" class="img-fluid" alt="">
                         <div class="portfolio-info">
@@ -165,7 +156,7 @@
                             </div>
                         </div>
                     </div>
-                </div>
+                </div>-->
 
             </div>
 

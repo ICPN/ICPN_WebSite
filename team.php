@@ -53,7 +53,7 @@
                     <a href=""><i class="icofont-facebook"></i></a>
                     <a href=""><i class="icofont-instagram"></i></a>
                     -->
-                    <a href=""><i class="icofont-linkedin"></i></a>
+                    <a href="https://www.linkedin.com/in/matteohu/"><i class="icofont-linkedin"></i></a>
                   </div>
                 </div>
                 <div class="member-info">
@@ -69,7 +69,7 @@
                 <div class="member-img">
                   <img src="assets/img/team/board/simonehong.jpg" class="img-fluid" alt="">
                   <div class="social">
-                    <a href=""><i class="icofont-linkedin"></i></a>
+                    <a href="https://www.linkedin.com/in/rhshong/"><i class="icofont-linkedin"></i></a>
                   </div>
                 </div>
                 <div class="member-info">
@@ -85,7 +85,7 @@
                 <div class="member-img">
                   <img src="assets/img/team/board/francescadai.jpg" class="img-fluid" alt="">
                   <div class="social">
-                    <a href=""><i class="icofont-linkedin"></i></a>
+                    <a href="https://www.linkedin.com/in/li-shan-francesca-dai/"><i class="icofont-linkedin"></i></a>
                   </div>
                 </div>
                 <div class="member-info">
@@ -101,7 +101,7 @@
                 <div class="member-img">
                   <img src="assets/img/team/board/jun.jpg" class="img-fluid" alt="">
                   <div class="social">
-                    <a href=""><i class="icofont-linkedin"></i></a>
+                    <a href="https://www.linkedin.com/in/junguangz/"><i class="icofont-linkedin"></i></a>
                   </div>
                 </div>
                 <div class="member-info">
@@ -117,7 +117,7 @@
                 <div class="member-img">
                   <img src="assets/img/team/board/erikayu.jpg" class="img-fluid" alt="">
                   <div class="social">
-                    <a href=""><i class="icofont-linkedin"></i></a>
+                    <a href="https://www.linkedin.com/in/erika-yu-5a8087162/"><i class="icofont-linkedin"></i></a>
                   </div>
                 </div>
                 <div class="member-info">
@@ -133,7 +133,7 @@
                 <div class="member-img">
                   <img src="assets/img/team/board/claudio-zhou.jpg" class="img-fluid" alt="">
                   <div class="social">
-                    <a href=""><i class="icofont-linkedin"></i></a>
+                    <a href="https://www.linkedin.com/in/yitong-zhou-a93859a6/"><i class="icofont-linkedin"></i></a>
                   </div>
                 </div>
                 <div class="member-info">
@@ -157,7 +157,7 @@
                 <div class="member-img">
                   <img src="assets/img/team/associate/werry.jpg" class="img-fluid" alt="">
                   <div class="social">
-                    <a href=""><i class="icofont-linkedin"></i></a>
+                    <a href="https://www.linkedin.com/in/qiangwerryxu/"><i class="icofont-linkedin"></i></a>
                   </div>
                 </div>
                 <div class="member-info">
@@ -173,7 +173,7 @@
                 <div class="member-img">
                   <img src="assets/img/team/associate/maurodong.jpg" class="img-fluid" alt="">
                   <div class="social">
-                    <a href=""><i class="icofont-linkedin"></i></a>
+                    <a href="https://www.linkedin.com/in/maurodong/"><i class="icofont-linkedin"></i></a>
                   </div>
                 </div>
                 <div class="member-info">
@@ -189,7 +189,7 @@
                 <div class="member-img">
                   <img src="assets/img/team/associate/simonachen.jpg" class="img-fluid" alt="">
                   <div class="social">
-                    <a href=""><i class="icofont-linkedin"></i></a>
+                    <a href="https://www.linkedin.com/in/simona-chen/"><i class="icofont-linkedin"></i></a>
                   </div>
                 </div>
                 <div class="member-info">
@@ -205,7 +205,7 @@
                 <div class="member-img">
                   <img src="assets/img/team/associate/susanna.jpg" class="img-fluid" alt="">
                   <div class="social">
-                    <a href=""><i class="icofont-linkedin"></i></a>
+                    <a href="https://www.linkedin.com/in/susanna-yu-bai-2b972541/><i class="icofont-linkedin"></i></a>
                   </div>
                 </div>
                 <div class="member-info">
@@ -221,7 +221,7 @@
                 <div class="member-img">
                   <img src="assets/img/team/associate/luca.jpg" class="img-fluid" alt="">
                   <div class="social">
-                    <a href=""><i class="icofont-linkedin"></i></a>
+                    <a href="https://www.linkedin.com/in/luca-d-021b009a/"><i class="icofont-linkedin"></i></a>
                   </div>
                 </div>
                 <div class="member-info">
@@ -237,7 +237,7 @@
                 <div class="member-img">
                   <img src="assets/img/team/associate/soniaruan.jpg" class="img-fluid" alt="">
                   <div class="social">
-                    <a href=""><i class="icofont-linkedin"></i></a>
+                    <a href="https://www.linkedin.com/in/sonia-ruan/"><i class="icofont-linkedin"></i></a>
                   </div>
                 </div>
                 <div class="member-info">
@@ -253,7 +253,7 @@
                 <div class="member-img">
                   <img src="assets/img/team/associate/youyouzhou.jpg" class="img-fluid" alt="">
                   <div class="social">
-                    <a href=""><i class="icofont-linkedin"></i></a>
+                    <a href="https://www.linkedin.com/in/youyou-zhou-402a6a179/"><i class="icofont-linkedin"></i></a>
                   </div>
                 </div>
                 <div class="member-info">
@@ -269,7 +269,7 @@
                 <div class="member-img">
                   <img src="assets/img/team/associate/yintongzhou.jpg" class="img-fluid" alt="">
                   <div class="social">
-                    <a href=""><i class="icofont-linkedin"></i></a>
+                    <a href="https://www.linkedin.com/in/yintong-zhou-80692a166/"><i class="icofont-linkedin"></i></a>
                   </div>
                 </div>
                 <div class="member-info">
@@ -285,7 +285,7 @@
                 <div class="member-img">
                   <img src="assets/img/team/associate/luisayang.jpg" class="img-fluid" alt="">
                   <div class="social">
-                    <a href=""><i class="icofont-linkedin"></i></a>
+                    <a href="https://www.linkedin.com/in/luisa-yang-%E6%9D%A8%E8%81%AA%E6%85%A7-173048148/"><i class="icofont-linkedin"></i></a>
                   </div>
                 </div>
                 <div class="member-info">
@@ -301,7 +301,7 @@
                 <div class="member-img">
                   <img src="assets/img/team/associate/chiarawang.jpg" class="img-fluid" alt="">
                   <div class="social">
-                    <a href=""><i class="icofont-linkedin"></i></a>
+                    <a href="https://www.linkedin.com/in/chiara-ying-hong-wang-b88ab7153/"><i class="icofont-linkedin"></i></a>
                   </div>
                 </div>
                 <div class="member-info">
@@ -316,7 +316,7 @@
                 <div class="member-img">
                   <img src="assets/img/team/associate/alessiazhou.jpg" class="img-fluid" alt="">
                   <div class="social">
-                    <a href=""><i class="icofont-linkedin"></i></a>
+                    <a href="https://www.linkedin.com/in/alessiazhou/"><i class="icofont-linkedin"></i></a>
                   </div>
                 </div>
                 <div class="member-info">
@@ -344,9 +344,9 @@
             <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
               <div class="member">
                 <div class="member-img">
-                  <img src="assets/img/team/team-6.jpg" class="img-fluid" alt="">
+                  <img src="assets/img/team/associate/angelowang.jpg" class="img-fluid" alt="">
                   <div class="social">
-                    <a href=""><i class="icofont-linkedin"></i></a>
+                    <a href="https://www.linkedin.com/in/angelo-wang/"><i class="icofont-linkedin"></i></a>
                   </div>
                 </div>
                 <div class="member-info">
