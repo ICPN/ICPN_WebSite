@@ -16,7 +16,7 @@
               <li><a href="team.php">Team</a></li>
             </ul>
           </li>
-          <li><a href="../notizie.php">Notizie</a></li>
+          <li><a href="notizie.php">Notizie</a></li>
           <li><a href="opportunita.php">Opportunità</a></li>
           <li><a href="iniziative.php">Iniziative</a></li>
           <li><a href="Eventi.php">Eventi</a></li>
