@@ -9,12 +9,12 @@
   <meta content="" name="descriptison">
   <meta content="" name="keywords">
 
-  <?php include '../initiative/partials/head-style.php'; ?>
+  <?php include '../initiatives/partials/head-style.php'; ?>
 </head>
 
 <body>
   <!-- ======= Header Navbar ======= -->
-  <?php include '../initiative/partials/header.php'; ?>
+  <?php include '../initiatives/partials/header.php'; ?>
 
   <main id="main">
 
@@ -26,7 +26,7 @@
           <h2>Progetto Donazioni</h2>
           <ol>
             <li><a href="index.php">Home</a></li>
-            <li><a href="../iniziative.php">Initiative</a></li>
+            <li><a href="../iniziatives.php">Initiative</a></li>
             <li>Progetto Donazioni</li>
           </ol>
         </div>
@@ -102,11 +102,11 @@
   </main><!-- End #main -->
 
   <!-- ======= Footer ======= -->
-  <?php include '../initiative/partials/footer.php'; ?>
+  <?php include '../initiatives/partials/footer.php'; ?>
 
   <a href="#" class="back-to-top"><i class="icofont-simple-up"></i></a>
 
-  <?php include '../initiative/partials/foot-script.php'; ?>
+  <?php include '../initiatives/partials/foot-script.php'; ?>
 </body>
 
 </html>

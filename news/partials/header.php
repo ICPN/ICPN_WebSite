@@ -13,7 +13,7 @@
           <li class="active"><a href="index.php">Home</a></li>
           <li class="drop-down"><a href="chisiamo.php">Chi Siamo</a>
             <ul>
-              <li><a href="team.php">Team</a></li>
+              <li><a href="../team.php">Team</a></li>
             </ul>
           </li>
           <li><a href="../notizie.php">Notizie</a></li>

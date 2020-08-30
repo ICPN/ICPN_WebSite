@@ -1,4 +1,5 @@
-<header id="header" class="fixed-top header-transparent">
+  <!-- ======= Header ======= -->
+  <header id="header" class="fixed-top ">
     <div class="container">
 
       <div class="logo float-left">
@@ -8,18 +9,18 @@
       </div>
 
       <nav class="nav-menu float-right d-none d-lg-block">
-        <ul>
+      <ul>
           <li class="active"><a href="index.php">Home</a></li>
           <li class="drop-down"><a href="chisiamo.php">Chi Siamo</a>
             <ul>
-              <li><a href="team.php">Team</a></li>
+              <li><a href="../team.php">Team</a></li>
             </ul>
           </li>
-          <li><a href="notizie.php">Notizie</a></li>
-          <li><a href="opportunita.php">Opportunità</a></li>
-          <li><a href="iniziative.php">Iniziative</a></li>
-          <li><a href="Eventi.php">Eventi</a></li>
-          <li><a href="contatti.php">Contatti</a></li>
+          <li><a href="../notizie.php">Notizie</a></li>
+          <li><a href="../opportunita.php">Opportunità</a></li>
+          <li><a href="../iniziative.php">Iniziative</a></li>
+          <li><a href="../Eventi.php">Eventi</a></li>
+          <li><a href="../contatti.php">Contatti</a></li>
         </ul>
       </nav><!-- .nav-menu -->
 
