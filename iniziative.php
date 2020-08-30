@@ -61,7 +61,7 @@
                                         <h3><a href="assets/img/initiatives/donation.jpeg" data-gall="portfolioGallery" class="venobox"></a></h3>
                                         <div>
                                             <a href="assets/img/initiatives/donation.jpeg" data-gall="portfolioGallery" class="venobox"><i class="bx bx-plus"></i></a>
-                                            <a href="portfolio-details.php" title="Portfolio Details"><i class="bx bx-link"></i></a>
+                                            <a href="initiative/progettodonazioni.php" title="Portfolio Details"><i class="bx bx-link"></i></a>
                                         </div>
                                     </div>
                                 </div>
