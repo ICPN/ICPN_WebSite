@@ -51,7 +51,7 @@
               </div>
             </div>
           </div>
-
+          
           <div class="col-md-6 d-flex align-items-stretch" data-aos="fade-up">
             <div class="card">
               <div class="card-body">
