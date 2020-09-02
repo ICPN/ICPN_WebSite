@@ -52,7 +52,7 @@
           <h2>Progetto Donazioni</h2>
           <p class="text-justify">
             L’inizio del 2020 è stato caratterizzato da una sequenza di eventi che hanno subito una risonanza globale, l’avvento di un nuovo virus di veloce contagio che si è sparso velocemente in tutto il mondo in poco più di qualche mese, stiamo parlando del coronavirus Sars-CoV-2.
-<br><br>
+            <br><br>
             La pericolosità di questo virus è dato dal fatto che ad oggi (maggio 2020) ancora non esiste una cura che possa contrastare il virus, pertanto i paesi di tutto il mondo hanno dovuto adoperare delle misure per tutelare i propri cittadini e ridurre la percentuale dei contagi.
             <br><br>
             Questa veloce diffusione del virus ha portato ad una reazione molto lenta anche a causa di un problema di quantità per quanto riguarda i dispositivi utilizzati per la prevenzione e protezione ad uso del personale sanitario e pubblico.
@@ -62,7 +62,7 @@
             Noi di ICPN insieme ad altri enti abbiamo avviato un progetto di donazione con lo scopo di fornire a chi sta affrontando in prima linea questa situazione di emergenza, materiali sanitari di protezione attraverso l’acquisto dei dispositivi da fornitori con cui abbiamo già avuto collaborazioni in progetti precedenti.
             <br><br>
             Un forte ringraziamento va a tutti i donatori grazie ai quali siamo riusciti a raccogliere più di 23mila euro i quali sono stati poi utilizzati nell’acquisto di:
-              <br><br>
+            <br><br>
             400 tute di protezione destinate a quattro ospedali di Hubei
             978 mascherine FFP2 distribuite gratuitamente ai residenti di Milano
             522 mascherine FFP2 donate all’ASST Grande Ospedale Metropolitano Niguarda di Milano
@@ -93,7 +93,7 @@
             <br><br>
             Ringraziamo nuovamente per tutti coloro che hanno supportato in questa causa!
             <br><br>
-            Ricordiamo che per chiunque voglia approfondire l’argomento riguardo il coronavirus SARS-CoV-2 di informarsi unicamente in siti ufficiali come: <a href="https://www.who.int">https://www.who.int</a> 
+            Ricordiamo che per chiunque voglia approfondire l’argomento riguardo il coronavirus SARS-CoV-2 di informarsi unicamente in siti ufficiali come: <a href="https://www.who.int">https://www.who.int</a>
           </p>
         </div>
       </div>
