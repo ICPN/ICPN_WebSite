@@ -67,7 +67,7 @@
                         <h4 class="text-center">NETWORKING EVENT – APERITIVO</h4>
                         <h6 class="text-center">6 LUGLIO 2019<br/>
                             Sede: Torre Bianca, Via Luigi Camoens Milano.<br/>
-                            <a href="gallerytest.php" class="btn-get-started animate__animated animate__fadeInUp">Gallery</a></h6>
+                            <a href="galleries/justcav.php" class="btn-get-started animate__animated animate__fadeInUp">Gallery</a></h6>
                     </div>
 
                 </div>
@@ -91,7 +91,8 @@
                         <h6 class="text-center">
                             7 LUGLIO 2018<br/>
                             Ringraziamo tutti gli ospiti per l’interesse e l’attiva partecipazione durante la serata.<br/>
-                            Sede: Spoon Restaurant & Lounge Bar, viale Bligny 39 Milano.</h6>
+                            Sede: Spoon Restaurant & Lounge Bar, viale Bligny 39 Milano.<br/>
+                            <a href="galleries/luglio18.php" class="btn-get-started animate__animated animate__fadeInUp">Gallery</a></h6>
                     </div>
                 </div>
 
