@@ -219,22 +219,6 @@
             <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
               <div class="member">
                 <div class="member-img">
-                  <img src="assets/img/team/associate/luca.jpg" class="img-fluid" alt="">
-                  <div class="social">
-                    <a href="https://www.linkedin.com/in/luca-d-021b009a/"><i class="icofont-linkedin"></i></a>
-                  </div>
-                </div>
-                <div class="member-info">
-                  <h4>Luca De Carolis</h4>
-                  <span>Area Relazioni esterne</span>
-                  <p></p>
-                </div>
-              </div>
-            </div>
-
-            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-              <div class="member">
-                <div class="member-img">
                   <img src="assets/img/team/associate/soniaruan.jpg" class="img-fluid" alt="">
                   <div class="social">
                     <a href="https://www.linkedin.com/in/sonia-ruan/"><i class="icofont-linkedin"></i></a>
@@ -264,10 +248,10 @@
               </div>
             </div>
            
-            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+            <div class="col-lg-3 col-md-6 ">
               <div class="member">
                 <div class="member-img">
-                  <img src="assets/img/team/associate/yintongzhou.jpg" class="img-fluid" alt="">
+                  <img src="assets/img/team/associate/yintongzhou1.jpg" class="img-fluid" alt="">
                   <div class="social">
                     <a href="https://www.linkedin.com/in/yintong-zhou-80692a166/"><i class="icofont-linkedin"></i></a>
                   </div>
@@ -344,7 +328,7 @@
             <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
               <div class="member">
                 <div class="member-img">
-                  <img src="assets/img/team/associate/angelowang.jpg" class="img-fluid" alt="">
+                  <img src="assets/img/team/associate/angelowang1.jpg" class="img-fluid" alt="">
                   <div class="social">
                     <a href="https://www.linkedin.com/in/angelo-wang/"><i class="icofont-linkedin"></i></a>
                   </div>
