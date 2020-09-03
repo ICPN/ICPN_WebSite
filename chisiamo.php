@@ -44,6 +44,7 @@
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0">
             <h3>CHI SIAMO E LE NOSTRE ATTIVITÀ</h3>
+            <br>
             <p class="text-justify">
               ICPN è un’organizzazione no-profit, con la missione di creare una comunità di persone con forte interesse
               e senso di appartenenza alla Cina e all’Italia e con forte credo nell’importanza dell’educazione, della
@@ -57,47 +58,6 @@
 
       </div>
     </section><!-- End About Section -->
-
-    <!-- ======= Services Section ======= -->
-    <section class="services">
-      <div class="container">
-
-        <div class="row">
-          <div class="col-md-6 col-lg-3 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
-            <div class="icon-box icon-box-blue">
-              <div class="icon"><i class="bx bx-world"></i></div>
-              <h4 class="title"><a href="">NETWORKING</a></h4>
-              <p class="description">Attraverso l’organizzazione di eventi cercare di facilitare la conoscenza tra persone con interessi e aree di competenze comuni.</p>
-            </div>
-          </div>
-
-          <div class="col-md-6 col-lg-3 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
-            <div class="icon-box icon-box-green">
-              <div class="icon"><i class="bx bx-tachometer"></i></div>
-              <h4 class="title"><a href="">MENTORING</a></h4>
-              <p class="description">Offrire ai nostri membri opportunità di mentoring che si traducono nella condivisione di consigli professionali basati sul nostro percorso accademico e background professionale.</p>
-            </div>
-          </div>
-
-          <div class="col-md-6 col-lg-3 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
-            <div class="icon-box icon-box-cyan">
-              <div class="icon"><i class="bx bx-file"></i></div>
-              <h4 class="title"><a href="">OPPORTUNITÀ</a></h4>
-              <p class="description">Mettere tra di loro in contatto aziende o investitori con le conoscenze e capacità necessarie per intraprendere interessanti opportunità di business.</p>
-            </div>
-          </div>
-
-          <div class="col-md-6 col-lg-3 d-flex align-items-stretch" data-aos="fade-up">
-            <div class="icon-box icon-box-pink">
-              <div class="icon"><i class="bx bxl-dribbble"></i></div>
-              <h4 class="title"><a href="">RECRUITING</a></h4>
-              <p class="description">Supportare le aziende che ci contattano cercando di fornire loro i profili dei candidati con i requisiti richiesti.</p>
-            </div>
-          </div>
-        </div>
-
-      </div>
-    </section><!-- End Services Section -->
 
     <!-- ======= Facts Section ======= -->
     <section class="facts section-bg" data-aos="fade-up">

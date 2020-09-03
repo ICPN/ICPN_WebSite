@@ -23,7 +23,7 @@
       <div class="carousel-item active">
         <div class="carousel-container">
           <h2 class="animate__animated animate__fadeInDown">Welcome to <span>ICPN</span></h2>
-          <p class="animate__animated animate__fadeInUp">Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto.</p>
+          <p class="animate__animated animate__fadeInUp">ICPN è un’organizzazione no-profit, con la missione di creare una comunità di persone con forte interesse e senso di appartenenza alla Cina e all’Italia e con forte credo nell’importanza dell’educazione, della cultura, dello studio, della diversità e del rispetto.</p>
           <a href="chisiamo.php" class="btn-get-started animate__animated animate__fadeInUp">Read More</a>
         </div>
       </div>
@@ -31,8 +31,8 @@
       <!-- Slide 2 -->
       <div class="carousel-item">
         <div class="carousel-container">
-          <h2 class="animate__animated animate__fadeInDown">Lorem Ipsum Dolor</h2>
-          <p class="animate__animated animate__fadeInUp">Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto.</p>
+          <h2 class="animate__animated animate__fadeInDown">Mission</h2>
+          <p class="animate__animated animate__fadeInUp">Essere il punto di riferimento per il mondo Italocinese connettendo studenti, professionisti e aziende per la creazione e condivisione di idee, opportunità e potenziale.</p>
           <a href="chisiamo.php" class="btn-get-started animate__animated animate__fadeInUp">Read More</a>
         </div>
       </div>
@@ -40,8 +40,8 @@
       <!-- Slide 3 -->
       <div class="carousel-item">
         <div class="carousel-container">
-          <h2 class="animate__animated animate__fadeInDown">Sequi ea ut et est quaerat</h2>
-          <p class="animate__animated animate__fadeInUp">Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto.</p>
+          <h2 class="animate__animated animate__fadeInDown">Vision</h2>
+          <p class="animate__animated animate__fadeInUp">Dare forma al futuro ispirando ogni persona a credere nell'educazione, nella diversità e nel confronto.</p>
           <a href="chisiamo.php" class="btn-get-started animate__animated animate__fadeInUp">Read More</a>
         </div>
       </div>
@@ -66,38 +66,37 @@
       <div class="container">
 
         <div class="row">
-          <div class="col-md-6 col-lg-3 d-flex align-items-stretch" data-aos="fade-up">
-            <div class="icon-box icon-box-pink">
-              <div class="icon"><i class="bx bxl-dribbble"></i></div>
-              <h4 class="title"><a href="">Lorem Ipsum</a></h4>
-              <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
-            </div>
-          </div>
-
-          <div class="col-md-6 col-lg-3 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
-            <div class="icon-box icon-box-cyan">
-              <div class="icon"><i class="bx bx-file"></i></div>
-              <h4 class="title"><a href="">Sed ut perspiciatis</a></h4>
-              <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</p>
+          <div class="col-md-6 col-lg-3 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
+            <div class="icon-box icon-box-blue">
+              <div class="icon"><i class="bx bx-world"></i></div>
+              <h4 class="title"><a href="">NETWORKING</a></h4>
+              <p class="description">Attraverso l’organizzazione di eventi cercare di facilitare la conoscenza tra persone con interessi e aree di competenze comuni.</p>
             </div>
           </div>
 
           <div class="col-md-6 col-lg-3 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
             <div class="icon-box icon-box-green">
               <div class="icon"><i class="bx bx-tachometer"></i></div>
-              <h4 class="title"><a href="">Magni Dolores</a></h4>
-              <p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
+              <h4 class="title"><a href="">MENTORING</a></h4>
+              <p class="description">Offrire ai nostri membri opportunità di mentoring che si traducono nella condivisione di consigli professionali basati sul nostro percorso accademico e background professionale.</p>
             </div>
           </div>
 
-          <div class="col-md-6 col-lg-3 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
-            <div class="icon-box icon-box-blue">
-              <div class="icon"><i class="bx bx-world"></i></div>
-              <h4 class="title"><a href="">Nemo Enim</a></h4>
-              <p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</p>
+          <div class="col-md-6 col-lg-3 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
+            <div class="icon-box icon-box-cyan">
+              <div class="icon"><i class="bx bx-file"></i></div>
+              <h4 class="title"><a href="">OPPORTUNITÀ</a></h4>
+              <p class="description">Mettere tra di loro in contatto aziende o investitori con le conoscenze e capacità necessarie per intraprendere interessanti opportunità di business.</p>
             </div>
           </div>
 
+          <div class="col-md-6 col-lg-3 d-flex align-items-stretch" data-aos="fade-up">
+            <div class="icon-box icon-box-pink">
+              <div class="icon"><i class="bx bxl-dribbble"></i></div>
+              <h4 class="title"><a href="">RECRUITING</a></h4>
+              <p class="description">Supportare le aziende che ci contattano cercando di fornire loro i profili dei candidati con i requisiti richiesti.</p>
+            </div>
+          </div>
         </div>
 
       </div>
@@ -117,14 +116,14 @@
 
             <div class="icon-box">
               <div class="icon"><i class="bx bx-fingerprint"></i></div>
-              <h4 class="title"><a href="">Lorem Ipsum</a></h4>
-              <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
+              <h4 class="title"><a href="">Mission</a></h4>
+              <p class="description">Essere il punto di riferimento per il mondo Italocinese connettendo studenti, professionisti e aziende per la creazione e condivisione di idee, opportunità e potenziale.</p>
             </div>
 
             <div class="icon-box">
               <div class="icon"><i class="bx bx-gift"></i></div>
-              <h4 class="title"><a href="">Nemo Enim</a></h4>
-              <p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</p>
+              <h4 class="title"><a href="">Vision</a></h4>
+              <p class="description">Dare forma al futuro ispirando ogni persona a credere nell'educazione, nella diversità e nel confronto.</p>
             </div>
 
           </div>
