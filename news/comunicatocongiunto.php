@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Intervista Radio Popolare - ICPN</title>
+  <title>Comunicato Stampa Congiunto - ICPN</title>
   <meta content="" name="descriptison">
   <meta content="" name="keywords">
 
@@ -24,12 +24,12 @@
       <div class="container">
 
         <div class="d-flex justify-content-between align-items-center">
-          <h2>Intervista Radio Popolare</h2>
+          <h2> </h2>
 
           <ol>
             <li><a href="../index.php">Home</a></li>
             <li><a href="../notizie.php">News</a></li>
-            <li>Intervista Radio Popolare</li>
+            <li>Comunicato stampa congiunto</li>
           </ol>
         </div>
 
@@ -45,62 +45,73 @@
           <div class="col-lg-8 entries">
 
             <article class="entry entry-single">
-              <div class="entry-img">
-                <img src="../assets/img/news/radiopopolare.jpg" alt="" class="img-fluid">
-              </div>
-
-              <h2 class="entry-title">
-                <a href="#">Sentirsi 100% Italiani e 100% Cinesi</a>
-              </h2>
+                <h2 class="entry-title">
+                    <a href="#">Comunicato stampa congiunto</a>
+                </h2>
 
               <div class="entry-meta">
                 <ul>
-                  <li class="d-flex align-items-center"><i class="icofont-user"></i> <a href="../team.php">Matteo Hu</a></li>
-                  <li class="d-flex align-items-center"><i class="icofont-wall-clock"></i> <a href="#">9 April 2019</a></li>
+                  <li class="d-flex align-items-center"><i class="icofont-user"></i> <a href="../team.php">ICPN</a></li>
+                  <li class="d-flex align-items-center"><i class="icofont-wall-clock"></i> <a href="#">31 January 2020</a></li>
                 </ul>
               </div>
 
               <div class="entry-content text-justify">
                 <p>
-                  “Il modo c’è e si chiama ICPN” parola di Matteo Hu. Nell’intervista rilasciata il 23 gennaio a RadioPopolareMilano molti i temi toccati: dalla nascita di ICPN al mostruoso tasso d’abbandono degli studenti Italo-Cinesi. Per saperne di più continuate a leggere…
+                    Cari amici,
                 </p>
 
                 <p>
-                  Buongiorno! Qui è Radio Popolare Milano che vi parla. Oggi abbiamo ospite in studio Matteo Hu, studente universitario di origini cinesi, co-fondatore e presidente di ICPN (Italian Chinese professional Network).
+                    In riferimento alla recente emergenza sanitaria che ha colpito la Cina desideriamo esprimere la nostra vicinanza a tutti coloro che ne sono stati colpiti, anche in modo indiretto.
                 </p>
 
-                <!--
-                <blockquote>
-                  <i class="icofont-quote-left quote-left"></i>
-                  <p>
-                    Et vero doloremque tempore voluptatem ratione vel aut. Deleniti sunt animi aut. Aut eos aliquam
-                    doloribus minus autem quos.
+                <p>
+                    Ci teniamo a invitare tutti al mantenimento della calma e a prestare attenzione e ascolto solo alle fonti ufficiali come il sito del Ministero della Salute e dell’Organizzazione mondiale della Sanità senza permettere che la propaganda mediatica possa suscitare panico generale sfociando poi in azioni ingiustificabili.
+                </p>
+
+                <p>
+                    È doloroso, per noi, prendere atto degli episodi di razzismo e discriminazione verso gli asiatici che si sono verificati nelle ultime settimane.<br/>
+                    In passato, a causa della SARS e della disinformazione, gli asiatici purtroppo sono stati bersaglio di discriminazioni che hanno portato dei gravi danni tanto psicologici quanto economici.
+                </p>
+
+                <p>
+                    Un sentimento di profonda riconoscenza va verso chiunque ci stia aiutando con le donazioni, con il volontariato o semplicemente con il suo supporto morale.
+                </p>
+
+                <p>
+                    Grazie dell’attenzione e buon anno del topo a tutti.
+                </p>
+
+                  <p style="font-size: 10px">
+                      (I nomi sono in ordine alfabetico)<br/>
+                      AAIC – Associazione Abbigliameno Italia – Cina / Associazione ARS Genius / Associazione Beijing / Associazione Culturale della Comunità Cinese di FUJIAN in Italia / Associazione d’Amicizia dei Cinesi di Prato / Associazione degli Artisti Cinesi in Italia / Associazione degli Studenti Cinesi dell’Accademia di Belle Arti di Brera / ASSOCINA – Associazione delle Seconde Generazioni Cinesi / Associazione Generale Ramunion in Italia / Associazione Imprenditori Cinesi / Bocconi Chinese Students and Scholars Union / BCSA – Bocconi Chinese Student Association / CCSA – Cattolica Chinese Student Association / COSPE – Cooperativa per Lo Sviluppo Paesi Emergenti / Cooperativa Tangram / CRID – Centro di Ricerche interculturali e documentazione didattica Italia Cina / Chinese Ethnic European Association / Chinese Students and Scholars Union in Florence / CNA World China / CSSUI.POLIMI /ICPN – Italian Chinese Professional Network / Consiglio per la Promozione e Lo Sviluppo del Commercio Italo Cinese / ISTITUTO CONFUCIO presso l’Università di Firenze / NABA Chinese Student Association / Scuola di Lingua e Cultura Italiana a Firenze / Shanghai Florence Sino Italian Design Exchange Center / Unione degli Studenti Cinesi-Unimi / Unione Studenti Bicocca/Unione Studenti del Conservatorio “Giuseppe Verdi” di Milano / UniSR CSSA – Chinese Students & Scholars Association of Università di San Raffaelle / WOSHOU – Chinese Italian Polimi Student Association / Zhong Art International
                   </p>
-                  <i class="las la-quote-right quote-right"></i>
-                  <i class="icofont-quote-right quote-right"></i>
-                </blockquote>
-                -->
-                <h3>Ciao Matteo! Raccontaci un po’ di te e di com’è nata ICPN!</h3>
-                <p>
-                  “Salve! Anzitutto ringrazio Radio Popolare per avermi dato quest’opportunità. La storia di ICPN e la mia sono un tutt’uno, sarà difficile separarle, quindi proseguiamo con ordine. Io sono nato a Milano, da genitori Cinesi emigrati in Italia negli anni ’70. Per questo, fin da quando ero bambino, mi sono sempre chiesto quale fosse la mia identità: “Sono più Italiano o più Cinese?”. Questa domanda è sempre stata per me un chiodo fisso. Alle volte, quando andavo in Cina la risposta pareva fosse: “Italiano!”, ma appena tornavo in Italia accadeva l’opposto. La svolta c’è stata quando ho capito che per essere Italiano non dovevo rinunciare alla mia identità Cinese e viceversa. Da questa realizzazione è nato il sogno di una comunità il cui collante fosse un sentire comune: quello di essere 100% Italiani e 100% Cinesi. Da Marzo 2018 questa comunità esiste e si chiama ICPN (Italian Chinese Professional Network)”.
-                </p>
 
-                <h3>Interessante! E quali sarebbero gli scopi di ICPN?</h3>
-                <p>
-                  “Noi di ICPN crediamo di poter fare da ponte tra studenti, aziende, professionisti ed opportunità lavorative. Ciò significa: 1) Personale per le aziende cinesi che vengono ad investire in Italia e viceversa. 2) Contatti, opportunità lavorative e formative per i membri del nostro network. Il nostro core team è in Italia, e attualmente siamo presenti a Torino, Milano, Roma, Firenze e Prato. Abbiamo grandi obiettivi, puntiamo alle grandi città d’Italia e perché no, anche d’Europa!”
-                </p>
+                  <h2 class="entry-title">
+                      <a href="#">联合倡议</a>
+                  </h2>
 
-                <h3>Quali sono state le più grandi difficoltà incontrate in questi ultimi mesi?</h3>
-                <p>
-                  L’Italia è penultima in Europa per percentuale di laureati e seconda per numero di studenti che abbandonano gli studi. Insomma, è chiaro che i ragazzi Italiani preferiscono iniziare un lavoro piuttosto che continuare con l’università. Questo fenomeno è ancora più accentuato tra i ragazzi Italo-Cinesi, il cui tasso d’abbandono sfiora il 50% in alcune scuole. Ciò porta gravi conseguenze, prima fra tutte il costituirsi di una comunità a “scatole cinesi” (scusate il gioco di parole) cioè di un distacco tra chi sceglie di continuare gli studi e chi va a lavorare nell’azienda di famiglia. La causa? Crediamo sia la paura di “perdere le radici”, cioè di perdere quel senso di identità che caratterizza la comunità cinese. ICPN permetterà ai giovani Italo-Cinesi di iniziare l’università senza questa paura e con la certezza di trovare concrete opportunità. Già stiamo lavorando con istituiti come il Dagomari di Pisa proprio per affrontare questo problema”.
-                </p>
+                  <p>
+                      亲爱的朋友们，<br/>
+                      鉴于目前中国所发生的严重肺炎疫情，我们谨代表意大利华侨华人向所有中国国内和世界其他地区的受灾群众致以最诚挚的慰问。<br/>
+                      与此同时，我们呼吁广大旅意华侨华人和意大利社会各界朋友保持客观冷静，关注和留意意大利卫生部及世界卫生组织等机构的官方报道，避免不必要的紧张情绪和过激行为，避免加剧社会恐慌。<br/>
+                      对于近几周所发生的、针对亚裔族群的种族歧视行为，我们感到十分悲痛和遗憾。<br/>
+                      希望大家不要忘记，早在2003年春节期间、非典爆发之际，谣传和误导性信息就曾导致意大利亚裔族群受到严重的歧视乃至遭受攻击，给无辜的意大利亚洲族裔造成了极大的经济损失和心理伤害。<br/>
+                      春节在华人心中就如同西方人的圣诞节一般，象征着团聚和重逢；然而现在，不少人却不能够与家人团聚、不能够拥抱至亲，意味着我们华人只能沉痛地度过这一年之中最重要的节日。正因如此，也正因为今年是中意建交50周年，我们在此郑重地邀请您与我们一道，尽己所能、保持冷静、抵制谣言、传播爱心，为肺炎的防治贡献自己的力量。<br/>
+                      无论是财物捐赠、志愿者服务还是精神支持，各种形式的援助和捐赠我们都不胜感激！<br/>
+                      感谢您的留意，祝大家鼠年吉祥。
+                  </p>
 
-                <h3>Vuoi lasciare un messaggio a qualcuno in particolare?</h3>
-                <p>
-                  “Sì, vorrei lanciare un messaggio ai giovani liceali: “Come già detto, noi di ICPN crediamo sia possibile essere al 100% Italiani e al 100% Cinesi. Allo stesso modo crediamo che studio ed imprenditorialità non si escludano a vicenda ed anzi, pensiamo che lo studio vi permetta di dare di più anche all’azienda di famiglia, realizzando quella vita che voi sognate e per il quale i vostri genitori hanno faticato! Ciò che noi crediamo non è frutto di fantasie ma esperienza di vita vissuta: siamo un team di ragazzi come voi, abbiamo avuto i vostri stessi dubbi e abbiamo ancora i vostri stessi sogni! Per questo vogliamo aiutarvi, niente trucchi! Ricordate che quella dell’università è una scelta che vale una vita: la vostra!”
-                </p>
+                  <p style="font-size: 10px">
+                      （排名不分先后）<br/>
+                      米兰理工大学学联，米兰大学学联，比可卡大学学联，布雷拉美院学联，圣心天主教大学学联，博科尼大学学联，NABA学联，米兰威尔第音乐学院学联，圣拉斐尔大学学联，米理握手中意学生联合会，意大利华裔协会，中意职业联网，博科尼大学中华学会，意大利-中国贸易发展促进会，旅意福建华侨华人同乡总会，佛罗伦萨大学孔子学院，欧洲中华少数民族联谊总会，普拉托华人华侨联谊会，上海佛罗伦萨中意设计交流中心，佛罗伦萨中国学生学者联谊会，佛罗伦萨意大利语言与文化学校，意大利北京人联谊会，意大利华人服装行业协会，公羊会意大利总会，意大利华人艺术家协会,意大利保罗天才国际艺术学院，CNA中小企业协会华人组,佛罗伦萨华人华侨商贸联谊会，意中文化教育交流研究中心，中艺国际。
+                  </p>
 
-                <a href="../assets/files/intervistaradiopopolare.pdf">Download file</a>
+                <br/>
+
+                  <img src="../assets/img/news/loghi1.png" alt="" class="img-fluid">
+                  <img src="../assets/img/news/logo3.png" alt="" class="img-fluid">
+
                 <br>
               </div>
 

@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Intervista Radio Popolare - ICPN</title>
+  <title>Cinque Nuove Partnership - ICPN</title>
   <meta content="" name="descriptison">
   <meta content="" name="keywords">
 
@@ -24,12 +24,12 @@
       <div class="container">
 
         <div class="d-flex justify-content-between align-items-center">
-          <h2>Intervista Radio Popolare</h2>
+          <h2> </h2>
 
           <ol>
             <li><a href="../index.php">Home</a></li>
             <li><a href="../notizie.php">News</a></li>
-            <li>Intervista Radio Popolare</li>
+            <li>ICPN: Cinque Nuove Partnership</li>
           </ol>
         </div>
 
@@ -45,62 +45,63 @@
           <div class="col-lg-8 entries">
 
             <article class="entry entry-single">
-              <div class="entry-img">
-                <img src="../assets/img/news/radiopopolare.jpg" alt="" class="img-fluid">
-              </div>
 
               <h2 class="entry-title">
-                <a href="#">Sentirsi 100% Italiani e 100% Cinesi</a>
+                <a href="#">ICPN: Cinque Nuove Partnership per il Futuro degli Studenti Italiani e Stranieri</a>
               </h2>
 
               <div class="entry-meta">
                 <ul>
-                  <li class="d-flex align-items-center"><i class="icofont-user"></i> <a href="../team.php">Matteo Hu</a></li>
-                  <li class="d-flex align-items-center"><i class="icofont-wall-clock"></i> <a href="#">9 April 2019</a></li>
+                  <li class="d-flex align-items-center"><i class="icofont-user"></i> <a href="../team.php">Luca De Carolis, Matteo Hu</a></li>
+                  <li class="d-flex align-items-center"><i class="icofont-wall-clock"></i> <a href="#">1 August 2019</a></li>
                 </ul>
               </div>
 
               <div class="entry-content text-justify">
                 <p>
-                  “Il modo c’è e si chiama ICPN” parola di Matteo Hu. Nell’intervista rilasciata il 23 gennaio a RadioPopolareMilano molti i temi toccati: dalla nascita di ICPN al mostruoso tasso d’abbandono degli studenti Italo-Cinesi. Per saperne di più continuate a leggere…
+                    Italian Chinese Professional Network (ICPN) è un’associazione no-profit nata a Milano nel 2018. La nostra missione è di creare una comunità sempre più grande di persone accomunate da un senso di appartenenza e forte interesse verso l’Italia e la Cina. In modo tale da garantire il funzionamento di una piattaforma dove studenti, professionisti ed imprenditori possano dialogare liberamente condividendo all’interno esperienze personali, opinioni ed opportunità lavorative. Crediamo fermamente che nella capacità di comprendere, accettare e fondere le diversità culturali e professionali sia dell’Italia che della Cina, risieda una delle chiavi principali per costruire il proprio futuro. E’ importante prendersi la responsabilità di agire da ponti tra le due realtà.
                 </p>
 
                 <p>
-                  Buongiorno! Qui è Radio Popolare Milano che vi parla. Oggi abbiamo ospite in studio Matteo Hu, studente universitario di origini cinesi, co-fondatore e presidente di ICPN (Italian Chinese professional Network).
+                    Italian Chinese Professional Network (ICPN) ha recentemente firmato accordi con cinque associazioni studentesche:<br/>
+                    - Cattolica Chinese Student Association (CattolicaCSA)<br/>
+                    - Bocconi Chinese Student Association (BCSA)<br/>
+                    - WoShou del Politecnico di Milano<br/>
+                    - Associazione Cinese del Politecnico di Torino<br/>
+                    - Associazione Studenti Cinesi dell’Università di Roma Tor Vergata.
                 </p>
 
-                <!--
-                <blockquote>
-                  <i class="icofont-quote-left quote-left"></i>
+                <p>
+                    Noi di ICPN siamo partiti da un problema: la scarsa sinergia esistente tra le associazioni italo-cinesi. Allo stato attuale il mondo associativo si presenta in forma “atomica”: le associazioni sono sconnesse tra di loro e limitate a realtà locali. Ciò impedisce il raggiungimento del pieno potenziale associativo, che si tramuta in un’impossibilità di farsi carico di alcune esigenze degli associati, come la ricerca di un lavoro o la capacità di fare network al di fuori dell’associazione.
+                </p>
+
+                <p>
+                    Per questo abbiamo concepito l’accordo come catalizzatore di un network attualmente non esistente. Ciò è possibile solo se poniamo alla base progetti e valori condivisi. Vogliamo allargare gli orizzonti delle associazioni italo-cinesi per costruire una rete che sia in grado di intercettare le nuove opportunità provenienti dalla Nuova Via della Seta e dal Memorandum. E in questo contesto l’accordo è il sangue, la linfa e l’ossigeno del network, perché mira ad essere punto di intersezione tra la domanda delle associazioni e l’offerta di aziende e investitori.
+                </p>
+
+                <p>
+                    Luisa Chen, Presidentessa di CattolicaCSA: “ Spesso, le risorse e le potenzialità delle associazioni non vengono ottimizzate al meglio in quanto risulta facile cadere nell’errore di rimanere isolati e autoreferenziali.<br/>
+                    Tuttavia collaborando e mettendo a fattor comune le nostre competenze, risorse e strutture è possibile dar luogo ad un circolo virtuoso e sinergico. Una delle finalità di ICPN è proprio questa: essere un polo di incontro tra le piccole e grandi comunità, che hanno o vogliono avere un legame con la Cina, in modo da poter generare benefici non solo per sé stessi ma anche per chi ci sta intorno. “
+                </p>
+
+                <p>
+                    Guo ZongLin, Presidente di TorVergataCSA: “Spero davvero che l’accordo appena firmato porti a grandi progetti comuni, e all’intensificazione delle sinergie tra le associazioni. TorVergataCSA metterà il massimo dell’impegno nel perseguire gli obiettivi comuni.”
+                </p>
+
                   <p>
-                    Et vero doloremque tempore voluptatem ratione vel aut. Deleniti sunt animi aut. Aut eos aliquam
-                    doloribus minus autem quos.
+                      Teresa Wu, Presidentessa di BocconiCSA: “BCSA e ICPN hanno firmato un protocollo d’intesa. Grazie a questo accordo lavoreremo con altre Associazioni italo-cinesi per ampliare gli orizzonti e rafforzare la nostra rete. BCSA crede fortemente nel potenziale delle collaborazioni e riteniamo che la creazione di forti legami con associazioni che condividono con noi alcuni valori porterà ad una situazione vantaggiosa per tutti. Stay tuned per vedere i risultati di questa collaborazione!”
                   </p>
-                  <i class="las la-quote-right quote-right"></i>
-                  <i class="icofont-quote-right quote-right"></i>
-                </blockquote>
-                -->
-                <h3>Ciao Matteo! Raccontaci un po’ di te e di com’è nata ICPN!</h3>
-                <p>
-                  “Salve! Anzitutto ringrazio Radio Popolare per avermi dato quest’opportunità. La storia di ICPN e la mia sono un tutt’uno, sarà difficile separarle, quindi proseguiamo con ordine. Io sono nato a Milano, da genitori Cinesi emigrati in Italia negli anni ’70. Per questo, fin da quando ero bambino, mi sono sempre chiesto quale fosse la mia identità: “Sono più Italiano o più Cinese?”. Questa domanda è sempre stata per me un chiodo fisso. Alle volte, quando andavo in Cina la risposta pareva fosse: “Italiano!”, ma appena tornavo in Italia accadeva l’opposto. La svolta c’è stata quando ho capito che per essere Italiano non dovevo rinunciare alla mia identità Cinese e viceversa. Da questa realizzazione è nato il sogno di una comunità il cui collante fosse un sentire comune: quello di essere 100% Italiani e 100% Cinesi. Da Marzo 2018 questa comunità esiste e si chiama ICPN (Italian Chinese Professional Network)”.
-                </p>
 
-                <h3>Interessante! E quali sarebbero gli scopi di ICPN?</h3>
-                <p>
-                  “Noi di ICPN crediamo di poter fare da ponte tra studenti, aziende, professionisti ed opportunità lavorative. Ciò significa: 1) Personale per le aziende cinesi che vengono ad investire in Italia e viceversa. 2) Contatti, opportunità lavorative e formative per i membri del nostro network. Il nostro core team è in Italia, e attualmente siamo presenti a Torino, Milano, Roma, Firenze e Prato. Abbiamo grandi obiettivi, puntiamo alle grandi città d’Italia e perché no, anche d’Europa!”
-                </p>
+                  <p>
+                      Lisa Zhou, Presidentessa di WoShou PoliMi: “Creare una rete di rapporti professionali tra le associazioni delle università più prestigiose d’Italia, favorendo la condivisione di idee ed esperienze in un ambiente variegato e internazionale. Questo è il senso dell’alleanza tra WoShou-Chinese Italian Polimi Students Association e ICPN. Un accordo che contribuisce a sviluppare le potenzialità delle associazioni attraverso l’unione delle risorse, moltiplicandone il valore.”
+                  </p>
 
-                <h3>Quali sono state le più grandi difficoltà incontrate in questi ultimi mesi?</h3>
-                <p>
-                  L’Italia è penultima in Europa per percentuale di laureati e seconda per numero di studenti che abbandonano gli studi. Insomma, è chiaro che i ragazzi Italiani preferiscono iniziare un lavoro piuttosto che continuare con l’università. Questo fenomeno è ancora più accentuato tra i ragazzi Italo-Cinesi, il cui tasso d’abbandono sfiora il 50% in alcune scuole. Ciò porta gravi conseguenze, prima fra tutte il costituirsi di una comunità a “scatole cinesi” (scusate il gioco di parole) cioè di un distacco tra chi sceglie di continuare gli studi e chi va a lavorare nell’azienda di famiglia. La causa? Crediamo sia la paura di “perdere le radici”, cioè di perdere quel senso di identità che caratterizza la comunità cinese. ICPN permetterà ai giovani Italo-Cinesi di iniziare l’università senza questa paura e con la certezza di trovare concrete opportunità. Già stiamo lavorando con istituiti come il Dagomari di Pisa proprio per affrontare questo problema”.
-                </p>
+                  <p>
+                      Zuoke Pan, Presidente di CSSAPoliTo: “Sono molto onorato di aver dato il via ad una partnership con un network di una realtà così stimolante ed intraprendente, e soprattutto al passo con i tempi. Visto il palcoscenico mondiale, con un evidente ascesa della Cina, e le relative grandi tendenze sociali ed economiche in evoluzione oggigiorno, scegliere la strada giusta è un passo molto importante, soprattutto affiancati ad una compagnia fortemente consapevole delle vocazioni future”.
+                  </p>
 
-                <h3>Vuoi lasciare un messaggio a qualcuno in particolare?</h3>
-                <p>
-                  “Sì, vorrei lanciare un messaggio ai giovani liceali: “Come già detto, noi di ICPN crediamo sia possibile essere al 100% Italiani e al 100% Cinesi. Allo stesso modo crediamo che studio ed imprenditorialità non si escludano a vicenda ed anzi, pensiamo che lo studio vi permetta di dare di più anche all’azienda di famiglia, realizzando quella vita che voi sognate e per il quale i vostri genitori hanno faticato! Ciò che noi crediamo non è frutto di fantasie ma esperienza di vita vissuta: siamo un team di ragazzi come voi, abbiamo avuto i vostri stessi dubbi e abbiamo ancora i vostri stessi sogni! Per questo vogliamo aiutarvi, niente trucchi! Ricordate che quella dell’università è una scelta che vale una vita: la vostra!”
-                </p>
+                  <a href="../assets/files/articolo-icpn-partnership.docx">Download file</a>
 
-                <a href="../assets/files/intervistaradiopopolare.pdf">Download file</a>
                 <br>
               </div>
 
