@@ -27,7 +27,6 @@
             <li><i class="bx bx-chevron-right"></i> <a href="chisiamo.php">Chi Siamo</a></li>
             <li><i class="bx bx-chevron-right"></i> <a href="team.php">Team</a></li>
             <li><i class="bx bx-chevron-right"></i> <a href="notizie.php">Notizie</a></li>
-            <li><i class="bx bx-chevron-right"></i> <a href="opportunita.php">Opportunità</a></li>
             <li><i class="bx bx-chevron-right"></i> <a href="iniziative.php">Iniziative</a></li>
             <li><i class="bx bx-chevron-right"></i> <a href="eventi.php">Eventi</a></li>
             <li><i class="bx bx-chevron-right"></i> <a href="contatti.php">Contatti</a></li>
