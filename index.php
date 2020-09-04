@@ -114,6 +114,61 @@
             </div>
         </section><!-- End Services Section -->
 
+        <!--partners-->
+        <section class="testimonials" data-aos="fade-up">
+            <div class="container">
+                <div class="section-title">
+                    <h2>Our Partners</h2>
+                </div>
+
+                <div class="owl-carousel testimonials-carousel">
+
+                    <div class="testimonial-item">
+                        <img src="assets/img/partners/ccsa-quad.jpg" class="testimonial-img" alt="">
+                        <h3>CCSA</h3>
+                    </div>
+
+                    <div class="testimonial-item">
+                        <img src="assets/img/partners/bcsa.jpg" class="testimonial-img" alt="">
+                        <h3>BCSA</h3>
+                    </div>
+
+                    <div class="testimonial-item">
+                        <img src="assets/img/partners/polito.jpg" class="testimonial-img" alt="">
+                        <h3>Polito</h3>
+                    </div>
+
+                    <div class="testimonial-item">
+                        <img src="assets/img/partners/torvergata.jpg" class="testimonial-img" alt="">
+                        <h3>Tor Vergata</h3>
+                    </div>
+
+                    <div class="testimonial-item">
+                        <img src="assets/img/partners/logo_mistoreitalia_page-0001-1.jpg" class="testimonial-img" alt="">
+                        <h3>MiStore Milano</h3>
+                    </div>
+
+                    <div class="testimonial-item">
+                        <img src="assets/img/partners/valuechina.jpg" class="testimonial-img" alt="">
+                        <h3>Value China</h3>
+                    </div>
+
+                    <div class="testimonial-item">
+                        <img src="assets/img/partners/niubility-logo-pdf_page-0001.jpg" class="testimonial-img" alt="">
+                        <h3>Niu Store</h3>
+                    </div>
+
+                    <div class="testimonial-item">
+                        <img src="assets/img/partners/37express.jpg" class="testimonial-img" alt="">
+                        <h3>37 Express</h3>
+                    </div>
+
+                </div>
+
+            </div>
+        </section>
+        <!--end partners section-->
+
         <!-- ======= Why Us Section ======= -->
         <section class="why-us section-bg" data-aos="fade-up" date-aos-delay="200">
             <div class="container">
@@ -148,7 +203,7 @@
             </div>
         </section><!-- End Why Us Section -->
 
-        <!-- ======= Features Section ======= -->
+        <!-- ======= Features Section =======
         <section class="features">
             <div class="container">
 
@@ -241,7 +296,7 @@
                 </div>
 
             </div>
-        </section><!-- End Features Section -->
+        </section>--><!-- End Features Section -->
 
         <!-- ======= Tetstimonials Section ======= -->
         <section class="testimonials" data-aos="fade-up">
