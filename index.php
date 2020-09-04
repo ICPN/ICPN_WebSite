@@ -248,7 +248,7 @@
             <div class="container">
 
                 <div class="section-title">
-                    <h2>Interviews</h2>
+                    <h2>Testimonials</h2>
                 </div>
 
                 <div class="owl-carousel testimonials-carousel">

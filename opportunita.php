@@ -41,15 +41,17 @@
                     <div class="col-lg-12">
                         <ul id="portfolio-flters">
                             <li data-filter="*" class="filter-active">All</li>
+                            <!--
                             <li data-filter=".filter-app">Categoria 1
-                                <!-- class css app-->
+                                
                             </li>
                             <li data-filter=".filter-card">Categoria 2
-                                <!-- class css card-->
+                                
                             </li>
                             <li data-filter=".filter-web">Categoria 3
-                                <!-- class css web-->
+                               
                             </li>
+                            -->
                         </ul>
                     </div>
                 </div>

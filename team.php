@@ -315,7 +315,7 @@
                 <div class="member-img">
                   <img src="assets/img/team/associate/haochen.jpg" class="img-fluid" alt="">
                   <div class="social">
-                    <a href=""><i class="icofont-linkedin"></i></a>
+                    <a href="https://www.linkedin.com/in/hao-chen-b331a11a7/"><i class="icofont-linkedin"></i></a>
                   </div>
                 </div>
                 <div class="member-info">

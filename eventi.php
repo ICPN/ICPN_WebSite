@@ -50,7 +50,6 @@
 
             <div class="row portfolio-container" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500">
                 <div class="col-lg-12 filter-app">
-                    <hr class="mx-auto" style="height: 10px;width: 100px;color: darkgray">
                     <div class="col-lg-6 col-md-6 mx-auto">
                         <div class="portfolio-item">
                             <img src="assets/img/events/networking.jpg" class="img-fluid" alt="">
