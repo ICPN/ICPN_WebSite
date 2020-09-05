@@ -118,49 +118,90 @@
         <section class="testimonials" data-aos="fade-up">
             <div class="container">
                 <div class="section-title">
-                    <h2>Our Partners</h2>
+                    <h2>Partners & Sponsors</h2>
                 </div>
 
+                 <!--
                 <div class="owl-carousel testimonials-carousel">
 
                     <div class="testimonial-item">
                         <img src="assets/img/partners/ccsa-quad.jpg" class="testimonial-img" alt="">
-                        <h3>CCSA</h3>
+                        <h4>CCSA</h4>
                     </div>
 
                     <div class="testimonial-item">
                         <img src="assets/img/partners/bcsa.jpg" class="testimonial-img" alt="">
-                        <h3>BCSA</h3>
+                        <h4>BCSA</h4>
                     </div>
 
                     <div class="testimonial-item">
                         <img src="assets/img/partners/polito.jpg" class="testimonial-img" alt="">
-                        <h3>Polito</h3>
+                        <h4>Polito</h4>
                     </div>
 
                     <div class="testimonial-item">
                         <img src="assets/img/partners/torvergata.jpg" class="testimonial-img" alt="">
-                        <h3>Tor Vergata</h3>
+                        <h4>Tor Vergata</h4>
                     </div>
 
                     <div class="testimonial-item">
                         <img src="assets/img/partners/logo_mistoreitalia_page-0001-1.jpg" class="testimonial-img" alt="">
-                        <h3>MiStore Milano</h3>
+                        <h4>MiStore Milano</h4>
                     </div>
 
                     <div class="testimonial-item">
                         <img src="assets/img/partners/valuechina.jpg" class="testimonial-img" alt="">
-                        <h3>Value China</h3>
+                        <h4>Value China</h4>
                     </div>
 
                     <div class="testimonial-item">
                         <img src="assets/img/partners/niubility-logo-pdf_page-0001.jpg" class="testimonial-img" alt="">
-                        <h3>Niu Store</h3>
+                        <h4>Niu Store</h4>
                     </div>
 
                     <div class="testimonial-item">
                         <img src="assets/img/partners/37express.jpg" class="testimonial-img" alt="">
-                        <h3>37 Express</h3>
+                        <h4>37 Express</h4>
+                    </div>
+
+                    <div class="testimonial-item">
+                        <img src="assets/img/partners/woshou.jpg" class="testimonial-img" alt="">
+                        <h4>Woshou</h4>
+                    </div>
+
+                </div>-->
+
+                <div class="owl-carousel testimonials-carousel">
+
+                    <div class="testimonial-item">
+                        <div class="row">
+                            <img src="assets/img/partners/ccsa-quad.jpg" class="testimonial-img" alt="">
+
+                            <img src="assets/img/partners/bcsa.jpg" class="testimonial-img" alt="">
+
+                            <img src="assets/img/partners/polito.jpg" class="testimonial-img" alt="">
+                        </div>
+                    </div>
+
+                    <div class="testimonial-item">
+                        <div class="row">
+                            <img src="assets/img/partners/torvergata.jpg" class="testimonial-img" alt="">
+
+                            <img src="assets/img/partners/logo_mistoreitalia_page-0001-1.jpg" class="testimonial-img" alt="">
+
+                            <img src="assets/img/partners/valuechina.jpg" class="testimonial-img" alt="">
+                        </div>
+
+                    </div>
+
+                    <div class="testimonial-item">
+                        <div class="row">
+                            <img src="assets/img/partners/niubility-logo-pdf_page-0001.jpg" class="testimonial-img" alt="">
+
+                            <img src="assets/img/partners/37express.jpg" class="testimonial-img" alt="">
+
+                            <img src="assets/img/partners/woshou.jpg" class="testimonial-img" alt="">
+                        </div>
                     </div>
 
                 </div>
@@ -176,8 +217,7 @@
                 <div class="row">
                     <div class="col-lg-6 video-box">
                         <img src="assets/img/why-us.jpg" class="img-fluid" alt="">
-                        <a href="https://www.youtube.com/watch?v=jDDaplaOz7Q" class="venobox play-btn mb-4"
-                            data-vbtype="video" data-autoplay="true"></a>
+                        <a href="https://www.youtube.com/watch?v=jDDaplaOz7Q" class="venobox play-btn mb-4" data-vbtype="video" data-autoplay="true"></a>
                     </div>
 
                     <div class="col-lg-6 d-flex flex-column justify-content-center p-5">
@@ -296,7 +336,8 @@
                 </div>
 
             </div>
-        </section>--><!-- End Features Section -->
+        </section>-->
+        <!-- End Features Section -->
 
         <!-- ======= Tetstimonials Section ======= -->
         <section class="testimonials" data-aos="fade-up">

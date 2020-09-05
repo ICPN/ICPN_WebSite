@@ -45,15 +45,15 @@
 
             <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
               <div class="member">
-                <div class="member-img">
+                <div class="member-img rounded-circle">
                   <img src="assets/img/team/board/matteohu.png" class="img-fluid" alt="">
                   <div class="social">
-                     <!--
+                    <!--
                     <a href=""><i class="icofont-twitter"></i></a>
                     <a href=""><i class="icofont-facebook"></i></a>
                     <a href=""><i class="icofont-instagram"></i></a>
                     -->
-                    <a href="https://www.linkedin.com/in/matteohu/"><i class="icofont-linkedin"></i></a>
+                    <a href="https://www.linkedin.com/in/matteohu/" target="_blank"><i class="icofont-linkedin"></i></a>
                   </div>
                 </div>
                 <div class="member-info">
@@ -66,10 +66,10 @@
 
             <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
               <div class="member">
-                <div class="member-img">
-                  <img src="assets/img/team/board/simonehong.jpg" class="img-fluid" alt="">
+                <div class="member-img rounded-circle">
+                  <img src="assets/img/team/board/simonehong1.jpg" class="img-fluid" alt="">
                   <div class="social">
-                    <a href="https://www.linkedin.com/in/rhshong/"><i class="icofont-linkedin"></i></a>
+                    <a href="https://www.linkedin.com/in/rhshong/" target="_blank"><i class="icofont-linkedin"></i></a>
                   </div>
                 </div>
                 <div class="member-info">
@@ -82,10 +82,10 @@
 
             <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
               <div class="member">
-                <div class="member-img">
+                <div class="member-img rounded-circle">
                   <img src="assets/img/team/board/francescadai.jpg" class="img-fluid" alt="">
                   <div class="social">
-                    <a href="https://www.linkedin.com/in/li-shan-francesca-dai/"><i class="icofont-linkedin"></i></a>
+                    <a href="https://www.linkedin.com/in/li-shan-francesca-dai/" target="_blank"><i class="icofont-linkedin"></i></a>
                   </div>
                 </div>
                 <div class="member-info">
@@ -98,10 +98,10 @@
 
             <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
               <div class="member">
-                <div class="member-img">
+                <div class="member-img rounded-circle">
                   <img src="assets/img/team/board/jun.jpg" class="img-fluid" alt="">
                   <div class="social">
-                    <a href="https://www.linkedin.com/in/junguangz/"><i class="icofont-linkedin"></i></a>
+                    <a href="https://www.linkedin.com/in/junguangz/" target="_blank"><i class="icofont-linkedin"></i></a>
                   </div>
                 </div>
                 <div class="member-info">
@@ -113,36 +113,36 @@
             </div>
 
             <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-              <div class="member">
-                <div class="member-img">
-                  <img src="assets/img/team/board/erikayu.jpg" class="img-fluid" alt="">
-                  <div class="social">
-                    <a href="https://www.linkedin.com/in/erika-yu-5a8087162/"><i class="icofont-linkedin"></i></a>
+                <div class="member">
+                  <div class="member-img rounded-circle">
+                    <img src="assets/img/team/board/erikayu.jpg" class="img-fluid" alt="">
+                    <div class="social">
+                      <a href="https://www.linkedin.com/in/erika-yu-5a8087162/" target="_blank"><i class="icofont-linkedin"></i></a>
+                    </div>
+                  </div>
+                  <div class="member-info">
+                    <h4>Erika Yu – 余爱宁</h4>
+                    <span>Fondatrice e Consigliera</span>
+                    <p></p>
                   </div>
                 </div>
-                <div class="member-info">
-                  <h4>Erika Yu – 余爱宁</h4>
-                  <span>Fondatrice e Consigliera</span>
-                  <p></p>
-                </div>
               </div>
-            </div>
 
-            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-              <div class="member">
-                <div class="member-img">
-                  <img src="assets/img/team/board/claudio-zhou.jpg" class="img-fluid" alt="">
-                  <div class="social">
-                    <a href="https://www.linkedin.com/in/yitong-zhou-a93859a6/"><i class="icofont-linkedin"></i></a>
+              <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+                <div class="member">
+                  <div class="member-img rounded-circle">
+                    <img src="assets/img/team/board/claudio-zhou.jpg" class="img-fluid" alt="">
+                    <div class="social">
+                      <a href="https://www.linkedin.com/in/yitong-zhou-a93859a6/" target="_blank"><i class="icofont-linkedin"></i></a>
+                    </div>
+                  </div>
+                  <div class="member-info">
+                    <h4>Claudio Zhou – 周一通</h4>
+                    <span>Segretario Generale</span>
+                    <p></p>
                   </div>
                 </div>
-                <div class="member-info">
-                  <h4>Claudio Zhou – 周一通</h4>
-                  <span>Segretario Generale</span>
-                  <p></p>
-                </div>
               </div>
-            </div>
 
           </div>
         </div>
@@ -154,10 +154,10 @@
 
             <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
               <div class="member">
-                <div class="member-img">
+                <div class="member-img rounded-circle">
                   <img src="assets/img/team/associate/werry.jpg" class="img-fluid" alt="">
                   <div class="social">
-                    <a href="https://www.linkedin.com/in/qiangwerryxu/"><i class="icofont-linkedin"></i></a>
+                    <a href="https://www.linkedin.com/in/qiangwerryxu/" target="_blank"><i class="icofont-linkedin"></i></a>
                   </div>
                 </div>
                 <div class="member-info">
@@ -170,10 +170,10 @@
 
             <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
               <div class="member">
-                <div class="member-img">
+                <div class="member-img rounded-circle">
                   <img src="assets/img/team/associate/maurodong.jpg" class="img-fluid" alt="">
                   <div class="social">
-                    <a href="https://www.linkedin.com/in/maurodong/"><i class="icofont-linkedin"></i></a>
+                    <a href="https://www.linkedin.com/in/maurodong/" target="_blank"><i class="icofont-linkedin"></i></a>
                   </div>
                 </div>
                 <div class="member-info">
@@ -186,10 +186,10 @@
 
             <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
               <div class="member">
-                <div class="member-img">
+                <div class="member-img rounded-circle">
                   <img src="assets/img/team/associate/simonachen.jpg" class="img-fluid" alt="">
                   <div class="social">
-                    <a href="https://www.linkedin.com/in/simona-chen/"><i class="icofont-linkedin"></i></a>
+                    <a href="https://www.linkedin.com/in/simona-chen/" target="_blank"><i class="icofont-linkedin"></i></a>
                   </div>
                 </div>
                 <div class="member-info">
@@ -202,10 +202,10 @@
 
             <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
               <div class="member">
-                <div class="member-img">
+                <div class="member-img rounded-circle">
                   <img src="assets/img/team/associate/susanna.jpg" class="img-fluid" alt="">
                   <div class="social">
-                    <a href="https://www.linkedin.com/in/susanna-yu-bai-2b972541/><i class="icofont-linkedin"></i></a>
+                    <a href="https://www.linkedin.com/in/susanna-yu-bai-2b972541/" target="_blank"><i class="icofont-linkedin"></i></a>
                   </div>
                 </div>
                 <div class="member-info">
@@ -218,10 +218,10 @@
 
             <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
               <div class="member">
-                <div class="member-img">
+                <div class="member-img rounded-circle">
                   <img src="assets/img/team/associate/soniaruan.jpg" class="img-fluid" alt="">
                   <div class="social">
-                    <a href="https://www.linkedin.com/in/sonia-ruan/"><i class="icofont-linkedin"></i></a>
+                    <a href="https://www.linkedin.com/in/sonia-ruan/" target="_blank"><i class="icofont-linkedin"></i></a>
                   </div>
                 </div>
                 <div class="member-info">
@@ -234,10 +234,10 @@
 
             <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
               <div class="member">
-                <div class="member-img">
+                <div class="member-img rounded-circle">
                   <img src="assets/img/team/associate/youyouzhou.jpg" class="img-fluid" alt="">
                   <div class="social">
-                    <a href="https://www.linkedin.com/in/youyou-zhou-402a6a179/"><i class="icofont-linkedin"></i></a>
+                    <a href="https://www.linkedin.com/in/youyou-zhou-402a6a179/" target="_blank"><i class="icofont-linkedin"></i></a>
                   </div>
                 </div>
                 <div class="member-info">
@@ -247,13 +247,13 @@
                 </div>
               </div>
             </div>
-           
+
             <div class="col-lg-3 col-md-6 ">
               <div class="member">
-                <div class="member-img">
+                <div class="member-img rounded-circle">
                   <img src="assets/img/team/associate/yintongzhou1.jpg" class="img-fluid" alt="">
                   <div class="social">
-                    <a href="https://www.linkedin.com/in/yintong-zhou-80692a166/"><i class="icofont-linkedin"></i></a>
+                    <a href="https://www.linkedin.com/in/yintong-zhou-80692a166/" target="_blank"><i class="icofont-linkedin"></i></a>
                   </div>
                 </div>
                 <div class="member-info">
@@ -266,10 +266,10 @@
 
             <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
               <div class="member">
-                <div class="member-img">
+                <div class="member-img rounded-circle">
                   <img src="assets/img/team/associate/luisayang.jpg" class="img-fluid" alt="">
                   <div class="social">
-                    <a href="https://www.linkedin.com/in/luisa-yang-%E6%9D%A8%E8%81%AA%E6%85%A7-173048148/"><i class="icofont-linkedin"></i></a>
+                    <a href="https://www.linkedin.com/in/luisa-yang-%E6%9D%A8%E8%81%AA%E6%85%A7-173048148/" target="_blank"><i class="icofont-linkedin"></i></a>
                   </div>
                 </div>
                 <div class="member-info">
@@ -282,10 +282,10 @@
 
             <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
               <div class="member">
-                <div class="member-img">
+                <div class="member-img rounded-circle">
                   <img src="assets/img/team/associate/chiarawang.jpg" class="img-fluid" alt="">
                   <div class="social">
-                    <a href="https://www.linkedin.com/in/chiara-ying-hong-wang-b88ab7153/"><i class="icofont-linkedin"></i></a>
+                    <a href="https://www.linkedin.com/in/chiara-ying-hong-wang-b88ab7153/" target="_blank"><i class="icofont-linkedin"></i></a>
                   </div>
                 </div>
                 <div class="member-info">
@@ -297,10 +297,10 @@
 
             <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
               <div class="member">
-                <div class="member-img">
+                <div class="member-img rounded-circle">
                   <img src="assets/img/team/associate/alessiazhou.jpg" class="img-fluid" alt="">
                   <div class="social">
-                    <a href="https://www.linkedin.com/in/alessiazhou/"><i class="icofont-linkedin"></i></a>
+                    <a href="https://www.linkedin.com/in/alessiazhou/" target="_blank"><i class="icofont-linkedin"></i></a>
                   </div>
                 </div>
                 <div class="member-info">
@@ -312,10 +312,10 @@
 
             <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
               <div class="member">
-                <div class="member-img">
+                <div class="member-img rounded-circle">
                   <img src="assets/img/team/associate/haochen.jpg" class="img-fluid" alt="">
                   <div class="social">
-                    <a href="https://www.linkedin.com/in/hao-chen-b331a11a7/"><i class="icofont-linkedin"></i></a>
+                    <a href="https://www.linkedin.com/in/hao-chen-b331a11a7/" target="_blank"><i class="icofont-linkedin"></i></a>
                   </div>
                 </div>
                 <div class="member-info">
@@ -327,10 +327,10 @@
 
             <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
               <div class="member">
-                <div class="member-img">
+                <div class="member-img rounded-circle">
                   <img src="assets/img/team/associate/angelowang1.jpg" class="img-fluid" alt="">
                   <div class="social">
-                    <a href="https://www.linkedin.com/in/angelo-wang/"><i class="icofont-linkedin"></i></a>
+                    <a href="https://www.linkedin.com/in/angelo-wang/" target="_blank"><i class="icofont-linkedin"></i></a>
                   </div>
                 </div>
                 <div class="member-info">
