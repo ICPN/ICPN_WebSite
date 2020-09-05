@@ -121,7 +121,7 @@
                     <h2>Partners & Sponsors</h2>
                 </div>
 
-                 <!--
+                <!--
                 <div class="owl-carousel testimonials-carousel">
 
                     <div class="testimonial-item">
@@ -242,6 +242,46 @@
 
             </div>
         </section><!-- End Why Us Section -->
+
+        <script src="https://www.amcharts.com/lib/3/ammap.js" type="text/javascript"></script>
+        <script src="https://www.amcharts.com/lib/3/maps/js/worldHigh.js" type="text/javascript"></script>
+        <script src="https://www.amcharts.com/lib/3/themes/dark.js" type="text/javascript"></script>
+        <div class="mx-auto" id="mapdiv" style="width: 65%; height: 450px;"></div>
+        <script type="text/javascript">
+            var map = AmCharts.makeChart("mapdiv", {
+                type: "map",
+                theme: "dark",
+                projection: "equirectangular",
+                panEventsEnabled: true,
+                backgroundColor: "#9EC2F7",
+                backgroundAlpha: 1,
+                zoomControl: {
+                    zoomControlEnabled: true
+                },
+                dataProvider: {
+                    map: "worldHigh",
+                    getAreasFromMap: true,
+                    areas: [{
+                            "id": "IT",
+                            "showAsSelected": true
+                        },
+                        {
+                            "id": "CN",
+                            "showAsSelected": true
+                        }
+                    ]
+                },
+                areasSettings: {
+                    autoZoom: true,
+                    color: "#FFFFFF",
+                    colorSolid: "#233168",
+                    selectedColor: "#233168",
+                    outlineColor: "#666666",
+                    rollOverColor: "#233168",
+                    rollOverOutlineColor: "#000000"
+                }
+            });
+        </script>
 
         <!-- ======= Features Section =======
         <section class="features">
