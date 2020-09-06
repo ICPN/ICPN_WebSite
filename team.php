@@ -334,7 +334,7 @@
                   </div>
                 </div>
                 <div class="member-info">
-                  <h4>Angelo Wang</h4>
+                  <h4>Angelo Wang - 王奎伟</h4>
                   <span>IT Intern</span>
                 </div>
               </div>
