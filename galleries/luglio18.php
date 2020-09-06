@@ -27,10 +27,10 @@
         <div class="container">
 
             <div class="d-flex justify-content-between align-items-center">
-                <h2>7 Luglio 2018</h2>
+                <h2>Primo Evento Ufficiale – ICPN</h2>
                 <ol>
                     <li><a href="../index.php">Home</a></li>
-                    <li>7 Luglio 2018</li>
+                    <li>Primo Evento Ufficiale – ICPN</li>
                 </ol>
             </div>
 

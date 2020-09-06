@@ -27,10 +27,10 @@
         <div class="container">
 
             <div class="d-flex justify-content-between align-items-center">
-                <h2>6 Luglio 2019</h2>
+                <h2>Just Cavalli - Networking Event</h2>
                 <ol>
                     <li><a href="../index.php">Home</a></li>
-                    <li>6 Luglio 2019</li>
+                    <li>Just Cavalli - Networking Event</li>
                 </ol>
             </div>
 
