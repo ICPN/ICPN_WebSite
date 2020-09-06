@@ -67,11 +67,11 @@
 
           <div class="col-lg-6 col-6 text-center">
             <span data-toggle="counter-up">900</span>
-            <p>Comunity</p>
+            <p>Community</p>
           </div>
 
           <div class="col-lg-6 col-6 text-center">
-            <span data-toggle="counter-up">19</span>
+            <span data-toggle="counter-up">18</span>
             <p>Hard Workers</p>
           </div>
 

@@ -162,7 +162,7 @@
                 </div>
                 <div class="member-info">
                   <h4>Qiang Werry Xu – 徐强</h4>
-                  <span>Responsabile Marketing</span>
+                  <span>Area Marketing</span>
                   <p></p>
                 </div>
               </div>
