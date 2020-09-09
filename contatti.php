@@ -47,23 +47,17 @@
                                 <div class="info-box">
                                     <i class="bx bx-map"></i>
                                     <h3>Il nostro Indirizzo:</h3>
-                                    <p>Via Egadi, 10 <br /> Milano, 20144</p>
+                                    <p>Milano</p>
                                 </div>
                             </div>
-                            <div class="col-md-6">
+                            <div class="col-md-12">
                                 <div class="info-box">
                                     <i class="bx bx-envelope"></i>
-                                    <h3>Email Us</h3>
+                                    <h3>Email</h3>
                                     <p>contact@icpn.it</p>
                                 </div>
                             </div>
-                            <div class="col-md-6">
-                                <div class="info-box">
-                                    <i class="bx bx-phone-call"></i>
-                                    <h3>Call Us</h3>
-                                    <p>+1 5589 55488 55<br>+1 6678 254445 41</p>
-                                </div>
-                            </div>
+                          
                         </div>
 
                     </div>
@@ -92,7 +86,7 @@
                             </div>
                             <div class="form-group">
                                 <textarea class="form-control" name="message" rows="5" data-rule="required"
-                                    data-msg="Please write something for us" placeholder="Message"></textarea>
+                                    data-msg="Please write something for us" placeholder="Message">ATTUALMENTE IN MANUTENZIONE, NON INVIARE TRAMITE FORM. SCUSATE PER IL DISAGIO.</textarea>
                                 <div class="validate"></div>
                             </div>
                             <div class="mb-3">
