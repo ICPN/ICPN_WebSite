@@ -49,52 +49,6 @@
             <a href="https://www.instagram.com/icpn_official/?hl=it" class="instagram"><i class="bx bxl-instagram"></i></a>
             <a href="https://www.linkedin.com/company/icpn/?originalSubdomain=it" class="linkedin"><i class="bx bxl-linkedin"></i></a>
           </div>
-
-          <section class="testimonials" data-aos="fade-up">
-          <h3 class="text-center">Sponsors & Partners</h3>
-            <div class="container">
-
-              <div class="owl-carousel testimonials-carousel">
-
-                <div class="testimonial-item">
-                  <img src="assets/img/partners/ccsa-quad.jpg" class="testimonial-img" alt="">
-                </div>
-
-                <div class="testimonial-item">
-                  <img src="assets/img/partners/bcsa.jpg" class="testimonial-img" alt="">
-                </div>
-
-                <div class="testimonial-item">
-                  <img src="assets/img/partners/polito.jpg" class="testimonial-img" alt="">
-                </div>
-
-                <div class="testimonial-item">
-                  <img src="assets/img/partners/torvergata.jpg" class="testimonial-img" alt="">
-                </div>
-
-                <div class="testimonial-item">
-                  <img src="assets/img/partners/logo_mistoreitalia_page-0001-1.jpg" class="testimonial-img" alt="">
-                </div>
-
-                <div class="testimonial-item">
-                  <img src="assets/img/partners/valuechina.jpg" class="testimonial-img" alt="">
-                </div>
-
-                <div class="testimonial-item">
-                  <img src="assets/img/partners/niubility-logo-pdf_page-0001.jpg" class="testimonial-img" alt="">
-                </div>
-
-                <div class="testimonial-item">
-                  <img src="assets/img/partners/37express.jpg" class="testimonial-img" alt="">
-                </div>
-
-                <div class="testimonial-item">
-                  <img src="assets/img/partners/woshou.jpg" class="testimonial-img" alt="">
-                </div>
-              </div>
-
-            </div>
-          </section>
         </div>
 
       </div>
