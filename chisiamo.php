@@ -92,21 +92,17 @@
               </div>
               <div class="card-body">
                 <h5 class="card-title"><a href="#">MISSIONE</a></h5>
-                <p class="card-text">La nostra missione è creare una comunità di persone, accomunate da un forte interesse
+                <p class="card-text text-justify">La nostra missione è creare una comunità di persone, accomunate da un forte interesse
                   e senso di appartenenza alla Cina e all’Italia, che siano interessate o abbiano già incominciato ad
                   intraprendere una carriera professionale.
+                  <br>
                   Il network promuove il dialogo attivo e funge da punto di contatto tra studenti, professionisti e aziende
                   per la condivisione di opportunità.
+                  <br>
                   Crediamo fortemente nell’importanza dell’educazione, della cultura, dello studio, della diversità e del
                   rispetto. Seguendo questi principi, assieme alle competenze specifiche e alla padronanza delle lingue
                   italiana, cinese ed inglese ci poniamo inoltre sul mondo del lavoro in Italia, Cina e nel resto del mondo. ​
-                  Attualmente, fanno parte del nostro network le persone di origine cinese e non, tra cui studenti
-                  liceali e universitari, studenti internazionali, professionisti e imprenditori che condividono l’importanza
-                  della formazione.
-                  Il background accademico dei nostri associati è molto variegato ed eterogeneo, ma sono la competenza e la
-                  forte internazionalizzazione la loro caratteristica comune.
-                  Tra le principali discipline degli associati, riportiamo Economia, Finanza, Marketing, Ingegneria, Lingue e
-                  Giurisprudenza.</p>
+                  </p>
               </div>
             </div>
           </div>
@@ -117,7 +113,13 @@
               </div>
               <div class="card-body">
                 <h5 class="card-title"><a href="#">VISIONE</a></h5>
-                <p class="card-text">Sed ut perspiciatis unde omnis iste natus error sit voluptatem doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo Sed ut perspiciatis unde omnis iste natus error sit voluptatem doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicaboSed ut perspiciatis unde omnis iste natus error sit voluptatem doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicaboSed ut perspiciatis unde omnis iste natus error sit voluptatem doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicaboSed ut perspiciatis unde omnis iste natus error sit voluptatem doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo</p>
+                <p class="card-text text-justify">
+                La visione delinea quelli che sono i valori, gli ideali e le aspirazioni che ICPN s'impegna a raggiungere e a trasmettere alla comunità. 
+                <br>
+                Egli rappresenta il ruolo che la nostra associazione intende avere nel contesto economico sociale. 
+                <br>
+                ICPN da forma al futuro ispirando ogni persona a credere nell'educazione, nella diversità e nel confronto.
+                </p>
               </div>
             </div>
           </div>
