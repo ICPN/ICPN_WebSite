@@ -121,56 +121,6 @@
                     <h2>Partners & Sponsors</h2>
                 </div>
 
-                <!--
-                <div class="owl-carousel testimonials-carousel">
-
-                    <div class="testimonial-item">
-                        <img src="assets/img/partners/ccsa-quad.jpg" class="testimonial-img" alt="">
-                        <h4>CCSA</h4>
-                    </div>
-
-                    <div class="testimonial-item">
-                        <img src="assets/img/partners/bcsa.jpg" class="testimonial-img" alt="">
-                        <h4>BCSA</h4>
-                    </div>
-
-                    <div class="testimonial-item">
-                        <img src="assets/img/partners/polito.jpg" class="testimonial-img" alt="">
-                        <h4>Polito</h4>
-                    </div>
-
-                    <div class="testimonial-item">
-                        <img src="assets/img/partners/torvergata.jpg" class="testimonial-img" alt="">
-                        <h4>Tor Vergata</h4>
-                    </div>
-
-                    <div class="testimonial-item">
-                        <img src="assets/img/partners/logo_mistoreitalia_page-0001-1.jpg" class="testimonial-img" alt="">
-                        <h4>MiStore Milano</h4>
-                    </div>
-
-                    <div class="testimonial-item">
-                        <img src="assets/img/partners/valuechina.jpg" class="testimonial-img" alt="">
-                        <h4>Value China</h4>
-                    </div>
-
-                    <div class="testimonial-item">
-                        <img src="assets/img/partners/niubility-logo-pdf_page-0001.jpg" class="testimonial-img" alt="">
-                        <h4>Niu Store</h4>
-                    </div>
-
-                    <div class="testimonial-item">
-                        <img src="assets/img/partners/37express.jpg" class="testimonial-img" alt="">
-                        <h4>37 Express</h4>
-                    </div>
-
-                    <div class="testimonial-item">
-                        <img src="assets/img/partners/woshou.jpg" class="testimonial-img" alt="">
-                        <h4>Woshou</h4>
-                    </div>
-
-                </div>-->
-
                 <div class="owl-carousel testimonials-carousel">
 
                     <div class="testimonial-item">
@@ -216,9 +166,13 @@
 
                 <div class="row">
                     <div class="col-lg-6 video-box">
-                        <img src="assets/img/why-us.jpg" class="img-fluid" alt="">
-                        <a href="https://www.youtube.com/watch?v=jDDaplaOz7Q" class="venobox play-btn mb-4" data-vbtype="video" data-autoplay="true"></a>
+
+                        <iframe width="500" height="400" src="https://videopress.com/v/h9Da4oal" data-vbtype="video" data-autoplay="true">
+                        </iframe>
+                         <!--<img src="assets/img/favicon.png" class="img-fluid" alt="">
+                        <a href="https://www.youtube.com/watch?v=lB95KLmpLR4" class="venobox play-btn mb-4" data-vbtype="video" data-autoplay="true"></a> -->
                     </div>
+
 
                     <div class="col-lg-6 d-flex flex-column justify-content-center p-5">
 
@@ -242,46 +196,6 @@
 
             </div>
         </section><!-- End Why Us Section -->
-
-        <script src="https://www.amcharts.com/lib/3/ammap.js" type="text/javascript"></script>
-        <script src="https://www.amcharts.com/lib/3/maps/js/worldHigh.js" type="text/javascript"></script>
-        <script src="https://www.amcharts.com/lib/3/themes/dark.js" type="text/javascript"></script>
-        <div class="mx-auto" id="mapdiv" style="width: 65%; height: 450px;"></div>
-        <script type="text/javascript">
-            var map = AmCharts.makeChart("mapdiv", {
-                type: "map",
-                theme: "dark",
-                projection: "equirectangular",
-                panEventsEnabled: true,
-                backgroundColor: "#9EC2F7",
-                backgroundAlpha: 1,
-                zoomControl: {
-                    zoomControlEnabled: true
-                },
-                dataProvider: {
-                    map: "worldHigh",
-                    getAreasFromMap: true,
-                    areas: [{
-                            "id": "IT",
-                            "showAsSelected": true
-                        },
-                        {
-                            "id": "CN",
-                            "showAsSelected": true
-                        }
-                    ]
-                },
-                areasSettings: {
-                    autoZoom: true,
-                    color: "#FFFFFF",
-                    colorSolid: "#233168",
-                    selectedColor: "#233168",
-                    outlineColor: "#666666",
-                    rollOverColor: "#233168",
-                    rollOverOutlineColor: "#000000"
-                }
-            });
-        </script>
 
         <!-- ======= Features Section =======
         <section class="features">

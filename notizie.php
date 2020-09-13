@@ -45,6 +45,24 @@
           <div class="col-md-6 d-flex align-items-stretch" data-aos="fade-up">
             <div class="card">
               <div class="card-body">
+                <h5 class="card-title"><a href="news/highschoolhub.php">High School Hub</a></h5>
+                <p class="card-text">High School Hub si rivolge a tutti i ragazzi frequentanti le scuole superiori, che siano licei, istituti tecnici, professionali o accademie, con l’obiettivo di creare una rete estesa a livello nazionale che possa unire studenti di origini italo-cinesi o con uno spiccato interesse verso la Cina in un’unica piattaforma.</p>
+                <div class="read-more"><a href="news/highschoolhub.php"><i class="icofont-arrow-right"></i> Read More</a></div>
+              </div>
+            </div>
+          </div>
+          
+          <div class="col-md-6 d-flex align-items-stretch" data-aos="fade-up">
+            
+          </div>
+        </div>
+
+        <br>
+
+        <div class="row">
+          <div class="col-md-6 d-flex align-items-stretch" data-aos="fade-up">
+            <div class="card">
+              <div class="card-body">
                 <h5 class="card-title"><a href="initiatives/progettodonazioni.php">Progetto Donazioni</a></h5>
                 <p class="card-text">L’inizio del 2020 è stato caratterizzato da una sequenza di eventi che hanno subito una risonanza globale, l’avvento di un nuovo virus di veloce contagio che si è sparso velocemente in tutto il mondo in poco più di qualche mese, stiamo parlando del coronavirus Sars-CoV-2.</p>
                 <div class="read-more"><a href="initiatives/progettodonazioni.php"><i class="icofont-arrow-right"></i> Read More</a></div>
