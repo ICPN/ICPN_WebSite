@@ -41,9 +41,9 @@
         <div class="section-title">
           <h2>Consiglio Direttivo</h2>
 
-          <div class="row">
+          <div class="row justify-content-center">
 
-            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+            <div class="col-lg-2 col-md-5 d-flex align-items-stretch">
               <div class="member">
                 <div class="member-img rounded-circle">
                   <img src="assets/img/team/board/matteohu.png" class="img-fluid" alt="">
@@ -64,7 +64,7 @@
               </div>
             </div>
 
-            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+            <div class="col-lg-2 col-md-5 d-flex align-items-stretch">
               <div class="member">
                 <div class="member-img rounded-circle">
                   <img src="assets/img/team/board/simonehong1.jpg" class="img-fluid" alt="">
@@ -80,7 +80,7 @@
               </div>
             </div>
 
-            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+            <div class="col-lg-2 col-md-5 d-flex align-items-stretch">
               <div class="member">
                 <div class="member-img rounded-circle">
                   <img src="assets/img/team/board/francescadai.jpg" class="img-fluid" alt="">
@@ -96,7 +96,7 @@
               </div>
             </div>
 
-            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+            <div class="col-lg-2 col-md-5 d-flex align-items-stretch">
               <div class="member">
                 <div class="member-img rounded-circle">
                   <img src="assets/img/team/board/jun.jpg" class="img-fluid" alt="">
@@ -112,38 +112,58 @@
               </div>
             </div>
 
-            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-                <div class="member">
-                  <div class="member-img rounded-circle">
-                    <img src="assets/img/team/board/erikayu.jpg" class="img-fluid" alt="">
-                    <div class="social">
-                      <a href="https://www.linkedin.com/in/erika-yu-5a8087162/" target="_blank"><i class="icofont-linkedin"></i></a>
-                    </div>
-                  </div>
-                  <div class="member-info">
-                    <h4>Erika Yu – 余爱宁</h4>
-                    <span>Fondatrice e Consigliera</span>
-                    <p></p>
+
+
+          </div>
+
+          <div class="row justify-content-center">
+            <div class="col-lg-2 col-md-5 d-flex align-items-stretch">
+              <div class="member">
+                <div class="member-img rounded-circle">
+                  <img src="assets/img/team/board/erikayu.jpg" class="img-fluid" alt="">
+                  <div class="social">
+                    <a href="https://www.linkedin.com/in/erika-yu-5a8087162/" target="_blank"><i class="icofont-linkedin"></i></a>
                   </div>
                 </div>
-              </div>
-
-              <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-                <div class="member">
-                  <div class="member-img rounded-circle">
-                    <img src="assets/img/team/board/claudio-zhou.jpg" class="img-fluid" alt="">
-                    <div class="social">
-                      <a href="https://www.linkedin.com/in/yitong-zhou-a93859a6/" target="_blank"><i class="icofont-linkedin"></i></a>
-                    </div>
-                  </div>
-                  <div class="member-info">
-                    <h4>Claudio Zhou – 周一通</h4>
-                    <span>Segretario Generale</span>
-                    <p></p>
-                  </div>
+                <div class="member-info">
+                  <h4>Erika Yu – 余爱宁</h4>
+                  <span>Fondatrice e Consigliera</span>
+                  <p></p>
                 </div>
               </div>
+            </div>
 
+            <div class="col-lg-2 col-md-5 d-flex align-items-stretch">
+              <div class="member">
+                <div class="member-img rounded-circle">
+                  <img src="assets/img/team/board/claudio-zhou.jpg" class="img-fluid" alt="">
+                  <div class="social">
+                    <a href="https://www.linkedin.com/in/yitong-zhou-a93859a6/" target="_blank"><i class="icofont-linkedin"></i></a>
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>Claudio Zhou – 周一通</h4>
+                  <span>Segretario Generale</span>
+                  <p></p>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-lg-2 col-md-5 d-flex align-items-stretch">
+              <div class="member">
+                <div class="member-img rounded-circle">
+                  <img src="assets/img/team/board/emanuela1.jpg" class="img-fluid" alt="">
+                  <div class="social">
+                    <a href="https://www.linkedin.com/in/emanuela-%E7%8F%8A%E7%8F%8A-wu-27b22a62/" target="_blank"><i class="icofont-linkedin"></i></a>
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>Emanuela Wu – 吴珊珊</h4>
+                  <span>Consigliera</span>
+                  <p></p>
+                </div>
+              </div>
+            </div>
           </div>
         </div>
 
@@ -152,7 +172,7 @@
 
           <div class="row">
 
-            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+            <div class="col-lg-2 col-md-5 d-flex align-items-stretch">
               <div class="member">
                 <div class="member-img rounded-circle">
                   <img src="assets/img/team/associate/werry.jpg" class="img-fluid" alt="">
@@ -168,7 +188,7 @@
               </div>
             </div>
 
-            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+            <div class="col-lg-2 col-md-5 d-flex align-items-stretch">
               <div class="member">
                 <div class="member-img rounded-circle">
                   <img src="assets/img/team/associate/maurodong.jpg" class="img-fluid" alt="">
@@ -184,7 +204,7 @@
               </div>
             </div>
 
-            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+            <div class="col-lg-2 col-md-5 d-flex align-items-stretch">
               <div class="member">
                 <div class="member-img rounded-circle">
                   <img src="assets/img/team/associate/simonachen.jpg" class="img-fluid" alt="">
@@ -200,7 +220,7 @@
               </div>
             </div>
 
-            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+            <div class="col-lg-2 col-md-5 d-flex align-items-stretch">
               <div class="member">
                 <div class="member-img rounded-circle">
                   <img src="assets/img/team/associate/susanna.jpg" class="img-fluid" alt="">
@@ -216,7 +236,24 @@
               </div>
             </div>
 
-            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+            <div class="col-lg-2 col-md-5 d-flex align-items-stretch">
+              <div class="member">
+                <div class="member-img rounded-circle">
+                  <img src="assets/img/team/associate/luca.jpg" class="img-fluid" alt="">
+                  <div class="social">
+                    <a href="https://www.linkedin.com/in/luca-d-021b009a/" target="_blank"><i class="icofont-linkedin"></i></a>
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>Luca De Carolis</h4>
+                  <br>
+                  <span>Area Relazioni esterne</span>
+                  <p></p>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-lg-2 col-md-5 d-flex align-items-stretch">
               <div class="member">
                 <div class="member-img rounded-circle">
                   <img src="assets/img/team/associate/soniaruan.jpg" class="img-fluid" alt="">
@@ -232,7 +269,7 @@
               </div>
             </div>
 
-            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+            <div class="col-lg-2 col-md-5 d-flex align-items-stretch">
               <div class="member">
                 <div class="member-img rounded-circle">
                   <img src="assets/img/team/associate/youyouzhou.jpg" class="img-fluid" alt="">
@@ -248,7 +285,7 @@
               </div>
             </div>
 
-            <div class="col-lg-3 col-md-6 ">
+            <div class="col-lg-2 col-md-5 d-flex align-items-stretch">
               <div class="member">
                 <div class="member-img rounded-circle">
                   <img src="assets/img/team/associate/yintongzhou1.jpg" class="img-fluid" alt="">
@@ -264,7 +301,7 @@
               </div>
             </div>
 
-            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+            <div class="col-lg-2 col-md-5 d-flex align-items-stretch">
               <div class="member">
                 <div class="member-img rounded-circle">
                   <img src="assets/img/team/associate/luisayang.jpg" class="img-fluid" alt="">
@@ -274,13 +311,13 @@
                 </div>
                 <div class="member-info">
                   <h4>Luisa Yang – 杨聪慧</h4>
-                  <span>Marketing Intern</span>
+                  <span>Area Marketing</span>
                 </div>
               </div>
             </div>
 
 
-            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+            <div class="col-lg-2 col-md-5 d-flex align-items-stretch">
               <div class="member">
                 <div class="member-img rounded-circle">
                   <img src="assets/img/team/associate/chiarawang.jpg" class="img-fluid" alt="">
@@ -290,12 +327,12 @@
                 </div>
                 <div class="member-info">
                   <h4>Chiara Wang – 王樱虹</h4>
-                  <span>Marketing Intern</span>
+                  <span>Area Marketing</span>
                 </div>
               </div>
             </div>
 
-            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+            <div class="col-lg-2 col-md-5 d-flex align-items-stretch">
               <div class="member">
                 <div class="member-img rounded-circle">
                   <img src="assets/img/team/associate/alessiazhou.jpg" class="img-fluid" alt="">
@@ -305,12 +342,12 @@
                 </div>
                 <div class="member-info">
                   <h4>Alessia Zhou – 周洁</h4>
-                  <span>Marketing Intern</span>
+                  <span>Area Marketing</span>
                 </div>
               </div>
             </div>
 
-            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+            <div class="col-lg-2 col-md-5 d-flex align-items-stretch">
               <div class="member">
                 <div class="member-img rounded-circle">
                   <img src="assets/img/team/associate/haochen.jpg" class="img-fluid" alt="">
@@ -320,12 +357,13 @@
                 </div>
                 <div class="member-info">
                   <h4>Hao Chen – 陈豪</h4>
-                  <span>Marketing Intern</span>
+                  <br>
+                  <span>Area Marketing</span>
                 </div>
               </div>
             </div>
 
-            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+            <div class="col-lg-2 col-md-5 d-flex align-items-stretch">
               <div class="member">
                 <div class="member-img rounded-circle">
                   <img src="assets/img/team/associate/angelowang1.jpg" class="img-fluid" alt="">
@@ -335,7 +373,7 @@
                 </div>
                 <div class="member-info">
                   <h4>Angelo Wang - 王奎伟</h4>
-                  <span>IT Intern</span>
+                  <span>Area IT</span>
                 </div>
               </div>
             </div>

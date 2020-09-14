@@ -50,14 +50,27 @@
                                     <p>Milano</p>
                                 </div>
                             </div>
-                            <div class="col-md-12">
+                            <div class="col-md-6">
                                 <div class="info-box">
                                     <i class="bx bx-envelope"></i>
                                     <h3>Email</h3>
                                     <p>contact@icpn.it</p>
                                 </div>
                             </div>
-                          
+
+                            <div class="col-md-6">
+                                <div class="info-box">
+                                    <a href="assets/img/icpnwechat.jpg" data-gall="portfolioGallery" class="venobox"><i class="bx bx-message"></i>
+                                        <h3>WeChat</h3>
+                                        <div class="portfolio-info">
+                                            <h3><a href="assets/img/icpnwechat.jpg" data-gall="portfolioGallery" class="venobox"></a></h3>
+                                            <p>Clicca per QR Code</p>
+                                        </div>
+
+                                    </a>
+                                </div>
+                            </div>
+
                         </div>
 
                     </div>
@@ -66,27 +79,20 @@
                         <form action="forms/contact.php" method="post" role="form" class="php-email-form">
                             <div class="form-row">
                                 <div class="col-md-6 form-group">
-                                    <input type="text" name="name" class="form-control" id="name"
-                                        placeholder="Your Name" data-rule="minlen:4"
-                                        data-msg="Please enter at least 4 chars" />
+                                    <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
                                     <div class="validate"></div>
                                 </div>
                                 <div class="col-md-6 form-group">
-                                    <input type="email" class="form-control" name="email" id="email"
-                                        placeholder="Your Email" data-rule="email"
-                                        data-msg="Please enter a valid email" />
+                                    <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" data-rule="email" data-msg="Please enter a valid email" />
                                     <div class="validate"></div>
                                 </div>
                             </div>
                             <div class="form-group">
-                                <input type="text" class="form-control" name="subject" id="subject"
-                                    placeholder="Subject" data-rule="minlen:4"
-                                    data-msg="Please enter at least 8 chars of subject" />
+                                <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" data-rule="minlen:4" data-msg="Please enter at least 8 chars of subject" />
                                 <div class="validate"></div>
                             </div>
                             <div class="form-group">
-                                <textarea class="form-control" name="message" rows="5" data-rule="required"
-                                    data-msg="Please write something for us" placeholder="Message">ATTUALMENTE IN MANUTENZIONE, NON INVIARE TRAMITE FORM. SCUSATE PER IL DISAGIO.</textarea>
+                                <textarea class="form-control" name="message" rows="5" data-rule="required" data-msg="Please write something for us" placeholder="Message">ATTUALMENTE IN MANUTENZIONE, NON INVIARE TRAMITE FORM. SCUSATE PER IL DISAGIO.</textarea>
                                 <div class="validate"></div>
                             </div>
                             <div class="mb-3">
@@ -116,39 +122,39 @@
         <script src="https://www.amcharts.com/lib/3/themes/dark.js" type="text/javascript"></script>
         <div id="mapdiv" style="width: 100%; height: 450px;"></div>
         <script type="text/javascript">
-        var map = AmCharts.makeChart("mapdiv", {
-            type: "map",
-            theme: "dark",
-            projection: "equirectangular",
-            panEventsEnabled: true,
-            backgroundColor: "#9EC2F7",
-            backgroundAlpha: 1,
-            zoomControl: {
-                zoomControlEnabled: true
-            },
-            dataProvider: {
-                map: "worldHigh",
-                getAreasFromMap: true,
-                areas: [{
-                        "id": "IT",
-                        "showAsSelected": true
-                    },
-                    {
-                        "id": "CN",
-                        "showAsSelected": true
-                    }
-                ]
-            },
-            areasSettings: {
-                autoZoom: true,
-                color: "#FFFFFF",
-                colorSolid: "#233168",
-                selectedColor: "#233168",
-                outlineColor: "#666666",
-                rollOverColor: "#233168",
-                rollOverOutlineColor: "#000000"
-            }
-        });
+            var map = AmCharts.makeChart("mapdiv", {
+                type: "map",
+                theme: "dark",
+                projection: "equirectangular",
+                panEventsEnabled: true,
+                backgroundColor: "#9EC2F7",
+                backgroundAlpha: 1,
+                zoomControl: {
+                    zoomControlEnabled: true
+                },
+                dataProvider: {
+                    map: "worldHigh",
+                    getAreasFromMap: true,
+                    areas: [{
+                            "id": "IT",
+                            "showAsSelected": true
+                        },
+                        {
+                            "id": "CN",
+                            "showAsSelected": true
+                        }
+                    ]
+                },
+                areasSettings: {
+                    autoZoom: true,
+                    color: "#FFFFFF",
+                    colorSolid: "#233168",
+                    selectedColor: "#233168",
+                    outlineColor: "#666666",
+                    rollOverColor: "#233168",
+                    rollOverOutlineColor: "#000000"
+                }
+            });
         </script>
 
 
