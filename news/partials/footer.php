@@ -37,8 +37,8 @@
         <div class="col-lg-3 col-md-6 footer-links">
           <h4>Policy</h4>
           <ul>
-            <li><i class="bx bx-chevron-right"></i> <a href="cookie.php">Cookie</a></li>
-            <li><i class="bx bx-chevron-right"></i> <a href="privacy.php">Privacy</a></li>
+            <li><i class="bx bx-chevron-right"></i> <a href="../cookie.php">Cookie</a></li>
+            <li><i class="bx bx-chevron-right"></i> <a href="../privacy.php">Privacy</a></li>
           </ul>
         </div>
 
