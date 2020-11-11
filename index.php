@@ -272,8 +272,8 @@
                                 <img src="assets/img/favicon.png" class="img-fluid" alt="">
                                 <!--    
                         <iframe width="500" height="400" src="https://videopress.com/v/h9Da4oal" data-vbtype="video" data-autoplay="true">
-                        </iframe> 
-                        <a href="https://www.youtube.com/watch?v=lB95KLmpLR4" class="venobox play-btn mb-4" data-vbtype="video" data-autoplay="true"></a> -->
+                        </iframe>  -->
+                        <a href="https://www.youtube.com/watch?v=Bs0AoZgvfDc&ab_channel=ICPN-ItalianChineseProfessionalNetwork" class="venobox play-btn mb-4" data-vbtype="video" data-autoplay="true"></a>
                             </div>
 
 
