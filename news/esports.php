@@ -45,7 +45,7 @@
                     <div class="col-lg-8 entries">
 
                         <article class="entry entry-single">
-                           
+
                             <h2 class="entry-title">
                                 <a href="#">E-Sport: come si sta evolvendo il settore</a>
                             </h2>
@@ -134,18 +134,75 @@
                                         </div>
                                     </div>
                                 </div>
-                                
+
                             </div>
 
                         </article><!-- End blog entry -->
 
                     </div><!-- End blog entries list -->
 
+                    <div class="col-lg-4">
+
+                        <div class="sidebar">
+
+                            <h3 class="sidebar-title">Indice</h3>
+                            <div class="sidebar-item categories">
+                                <ul>
+                                    <li><a href="#">1.General </a></li>
+                                    <li><a href="#">2.Lifestyle </a></li>
+                                    <li><a href="#">3.Travel </a></li>
+                                    <li><a href="#">4.Design </a></li>
+                                </ul>
+
+                            </div><!-- End sidebar categories-->
+
+                            <h3 class="sidebar-title">Condividi</h3>
+                            <div class="sidebar-item share">
+                                <script async defer crossorigin="anonymous"
+                                    src="https://connect.facebook.net/it_IT/sdk.js#xfbml=1&version=v9.0"
+                                    nonce="NQ1siQQ0"></script>
+
+                                <div class="fb-share-button" data-href="https://developers.facebook.com/docs/plugins/"
+                                    data-layout="button" data-size="small"><a target="_blank"
+                                        href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;src=sdkpreparse"
+                                        class="fb-xfbml-parse-ignore">Condividi</a></div>
+
+                                <script src="https://platform.linkedin.com/in.js" type="text/javascript">
+                                lang: it-IT
+                                </script>
+                                <script type="IN/Share" data-url="https://icpn.it/"></script>
+                            </div><!-- End sidebar share-->
+
+                            <h3 class="sidebar-title">Tags</h3>
+                            <div class="sidebar-item tags">
+                                <ul>
+                                    <li><a href="#">#App</a></li>
+                                    <li><a href="#">#IT</a></li>
+                                    <li><a href="#">#Business</a></li>
+                                    <li><a href="#">#Business</a></li>
+                                    <li><a href="#">#Mac</a></li>
+                                    <li><a href="#">#Design</a></li>
+                                    <li><a href="#">#Office</a></li>
+                                    <li><a href="#">#Creative</a></li>
+                                    <li><a href="#">#Studio</a></li>
+                                    <li><a href="#">#Smart</a></li>
+                                    <li><a href="#">#Tips</a></li>
+                                    <li><a href="#">#Marketing</a></li>
+                                </ul>
+
+                            </div><!-- End sidebar tags-->
+
+                        </div><!-- End sidebar -->
+
+                    </div><!-- End blog sidebar -->
+
                 </div><!-- End row -->
 
             </div><!-- End container -->
 
         </section><!-- End Blog Section -->
+
+
 
     </main><!-- End #main -->
 
