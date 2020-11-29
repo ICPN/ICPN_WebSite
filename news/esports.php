@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-    <title>E-Sport: come si sta evolvendo il settore - ICPN</title>
+    <title>E-Sport: da passione a lavoro - ICPN</title>
     <meta content="" name="descriptison">
     <meta content="" name="keywords">
 
@@ -24,12 +24,12 @@
             <div class="container">
 
                 <div class="d-flex justify-content-between align-items-center">
-                    <h2> </h2>
+                    <h2>E-Sport: da passione a lavoro</h2>
 
                     <ol>
                         <li><a href="../index.php">Home</a></li>
                         <li><a href="../notizie.php">News</a></li>
-                        <li>ICPN: E-Sport: come si sta evolvendo il settore</li>
+                        <li>E-Sport: da passione a lavoro</li>
                     </ol>
                 </div>
 
@@ -46,10 +46,6 @@
 
                         <article class="entry entry-single">
 
-                            <h2 class="entry-title">
-                                <a href="#">E-Sport: da passione a lavoro</a>
-                            </h2>
-
                             <div class="entry-meta">
                                 <ul>
                                     <li class="d-flex align-items-center"><i class="icofont-user"></i> <a href="../team.php">ICPN</a></li>
@@ -59,14 +55,10 @@
 
                             <div class="why-us section-bg" data-aos="fade-up" date-aos-delay="200">
                                 <div class="container">
-
                                     <div class="row">
                                         <div class="col-lg-12 video-box">
-                                            <!--    <img src="../assets/img/news/hschoolhub.jpg" class="img-fluid" alt="">
-                                            <a href="../assets/intervistagamer.mov" class="venobox play-btn mb-4" data-vbtype="video" data-autoplay="true"></a>-->
-                                            <video class="embed-responsive embed-responsive-16by9" width="auto" height="400" controls>
-                                                <source src="../assets/intervistagamer.mov" type="video/mp4">
-                                            </video>
+                                            <img src="../assets/img/news/shadow.png" class="img-fluid" alt="">
+                                            <a href="https://www.youtube.com/watch?v=4jEpHnKIshY&feature=youtu.be&ab_channel=ICPN-ItalianChineseProfessionalNetwork" class="venobox play-btn mb-4" data-vbtype="video" data-autoplay="true"></a>
                                         </div>
                                     </div>
                                 </div>
@@ -93,7 +85,7 @@
                                     <h3 id="1">1. Cos’è League of Legends?</h3>
 
                                     <p>
-                                        <b><a href=”https://na.leagueoflegends.com/en-gb/” target=”_blank”>League of
+                                        <b><a href="https://na.leagueoflegends.com/en-gb/" target="_blank">League of
                                                 Legends</b></a>, conosciuto anche con l’anagramma <b>LoL</b>, è un
                                         videogioco sviluppato dalla <b>Riot Games</b> nel <b>2008.</b>
                                     </p>
@@ -124,7 +116,7 @@
                                         <li>Support</li>
                                     </ul>
 
-                                    <img src="../assets/img/news/esports1.jpg" alt="" class="img-fluid"><br><br>
+                                    <img src="../assets/img/news/botlane_lol.png" alt="" class="img-fluid"><br><br>
 
                                     <p>
                                         Il ruolo è dipeso principalmente dalla <b>corsia che si andrà a difendere</b>
@@ -152,7 +144,7 @@
                                     <p>
                                         Negli ultimi anni il settore dei <b>videogiochi</b> è cresciuto
                                         <b>esponenzialmente!</b><br>
-                                        Infatti, secondo una stima di <a href=”https://newzoo.com/key-numbers” target=”_blank”>Newzoo</a>, nel 2020 il numero di <b>videogiocatori</b> ha
+                                        Infatti, secondo una stima di <a href="https://newzoo.com/key-numbers" target="_blank">Newzoo</a>, nel 2020 il numero di <b>videogiocatori</b> ha
                                         raggiunto i <b>2,7 miliardi</b>, mentre il valore di mercato <b>174,9
                                             miliardi</b>
                                         di dollari!
@@ -170,7 +162,7 @@
                                     </p>
 
                                     <p>
-                                        Sempre secondo la <a href=”https://newzoo.com/key-numbers” target=”_blank”>Newzoo</a>, il mercato degli E-Sports nel 2020 ha generato
+                                        Sempre secondo la <a href="https://newzoo.com/key-numbers" target="_blank">Newzoo</a>, il mercato degli E-Sports nel 2020 ha generato
                                         ricavi per un importo di <b>950 milioni</b> di dollari!
                                     </p>
 
@@ -191,11 +183,12 @@
                                         pallavolo ma per <b>LoL.</b>
                                     </p>
 
-                                    <img src="../assets/img/news/botlane_lol.png" alt="" class="img-fluid"><br><br>
+                                    <img src="../assets/img/news/esports1.jpg" alt="" class="img-fluid"><br><br>
+                                  
                                 </div>
 
                                 <div id="3">
-                                    <h3>3. Come si diventa giocatori professionisti</h3>
+                                    <h3>3. Come si diventa giocatori professionisti: chiediamolo a Shadow!</h3>
 
                                     <p>
                                         Come abbiamo detto nel paragrafo precedente, al mondo ci sono oltre <b>2,7
@@ -206,12 +199,12 @@
                                     <p>
                                         Ma quindi <u><b>come si diventa un “pro”?</b></u> Noi di <b>ICPN (Italian
                                             Chinese Professional Network)</b> abbiamo avuto il piacere di intervistare
-                                        <b><a href=”https://lol.gamepedia.com/Shad0w” target=”_blank”>Shadow (Zhiqiang
+                                        <b><a href="https://lol.gamepedia.com/Shad0w" target="_blank">Shadow (Zhiqiang
                                                 Zhao)</a></b>, jungler dei <b>MAD LIONS</b>, squadra posizionata al
                                         <b>primo posto</b> della classifica europea di <b>League of Legends!</b>
                                     </p>
 
-                                    <h5>Raccontaci la tua storia!</h5>
+                                    <h5><b>Raccontaci la tua storia!</b></h5>
 
                                     <p>
                                         Ciao! Mi chiamo Zhiqiang Zhao, ma sono conosciuto come <b>Shadow</b>. Ho 19 anni
@@ -292,7 +285,7 @@
                                         fisioterapista, per poter mantenere il livello psicofisico sempre al top.
                                     </p>
 
-                                    <h3>Consigli per chi vuole intraprendere la stessa ambizione che hai avuto?</h3>
+                                    <h5><b>Consigli per chi vuole intraprendere la stessa ambizione che hai avuto?</b></h5>
 
                                     <p>Per farsi notare dai recruiters dei migliori teams, è intanto necessario
                                         dimostrare le proprie capacità nella classifica <i>SoloQ</i>. Per chi non lo
@@ -357,11 +350,12 @@
                             <div class="sidebar-item share">
                                 <script async defer crossorigin="anonymous" src="https://connect.facebook.net/it_IT/sdk.js#xfbml=1&version=v9.0" nonce="NQ1siQQ0"></script>
 
-                                <div class="fb-share-button" data-href="https://developers.facebook.com/docs/plugins/" data-layout="button" data-size="small"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Condividi</a></div>
+                                <div class="fb-share-button" data-href="https://www.icpn.it/news/esports.php" data-layout="button" data-size="small"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Condividi</a></div>
 
-                                <script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: it-IT
+                                <script src="https://platform.linkedin.com/in.js" type="text/javascript">
+                                    lang: it-IT
                                 </script>
-                                <script type="IN/Share" data-url="https://icpn.it/"></script>
+                                <script type="IN/Share" data-url="https://www.icpn.it/news/esports.php"></script>
                             </div><!-- End sidebar share-->
 
                             <h3 class="sidebar-title">Tags</h3>

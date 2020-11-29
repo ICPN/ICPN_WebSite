@@ -11,6 +11,7 @@
 
       <nav class="nav-menu float-right d-none d-lg-block">
         <ul>
+          <li><a href="../index.php">Home</a>
           <li><a href="../chisiamo.php">Chi Siamo</a>
           <li><a href="../chisiamo.php">Team</a>
           <li><a href="../notizie.php">Notizie</a></li>

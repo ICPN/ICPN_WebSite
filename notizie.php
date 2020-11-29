@@ -45,8 +45,7 @@
           <div class="col-md-6 d-flex align-items-stretch" data-aos="fade-up">
             <div class="card">
               <div class="card-body">
-                <h5 class="card-title"><a href="news/esports.php">E-Sport: come si sta evolvendo
-                    il settore</a></h5>
+                <h5 class="card-title"><a href="news/esports.php">E-Sport: da passione a lavoro</a></h5>
                 <p class="card-text">L’E-Sport, la disciplina legata ai videogiochi praticato a livello
                   competitivo, nutre da diversi decenni un grande interesse e attenzione da parte dei
                   giovani, soprattutto negli ultimi anni ha iniziato a crescere esponenzialmente fino

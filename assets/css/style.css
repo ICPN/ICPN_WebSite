@@ -2034,6 +2034,9 @@ section {
   padding: 30px;
   margin: 0 0 60px 20px;
   box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
+  position: -webkit-sticky;
+  position: sticky;
+  top: 70px;
 }
 
 .blog .sidebar .sidebar-title {
