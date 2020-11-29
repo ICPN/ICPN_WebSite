@@ -52,12 +52,27 @@
 
                             <div class="entry-meta">
                                 <ul>
-                                    <li class="d-flex align-items-center"><i class="icofont-user"></i> <a
-                                            href="../team.php">ICPN</a></li>
-                                    <li class="d-flex align-items-center"><i class="icofont-wall-clock"></i> <a
-                                            href="#">29 November 2020</a></li>
+                                    <li class="d-flex align-items-center"><i class="icofont-user"></i> <a href="../team.php">ICPN</a></li>
+                                    <li class="d-flex align-items-center"><i class="icofont-wall-clock"></i> <a href="#">29 November 2020</a></li>
                                 </ul>
                             </div>
+
+                            <div class="why-us section-bg" data-aos="fade-up" date-aos-delay="200">
+                                <div class="container">
+
+                                    <div class="row">
+                                        <div class="col-lg-12 video-box">
+                                            <!--    <img src="../assets/img/news/hschoolhub.jpg" class="img-fluid" alt="">
+                                            <a href="../assets/intervistagamer.mov" class="venobox play-btn mb-4" data-vbtype="video" data-autoplay="true"></a>-->
+                                            <video class="embed-responsive embed-responsive-16by9" width="auto" height="400" controls>
+                                                <source src="../assets/intervistagamer.mov" type="video/mp4">
+                                            </video>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <br>
 
                             <div class="entry-content text-justify">
                                 <p>
@@ -70,8 +85,7 @@
                                         of Legends.</b>
                                 </p>
                                 <p>
-                                    In questo articolo parleremo di <b><a href="https://lol.gamepedia.com/Shad0w"
-                                            target="_blank">Zhiqiang Zhao</a></b> conosciuto anche come <b>Shadow,</b>
+                                    In questo articolo parleremo di <b><a href="https://lol.gamepedia.com/Shad0w" target="_blank">Zhiqiang Zhao</a></b> conosciuto anche come <b>Shadow,</b>
                                     atleta della squadra posizionata al <b>primo posto nella classifica europea!</b>
                                 </p>
 
@@ -138,8 +152,7 @@
                                     <p>
                                         Negli ultimi anni il settore dei <b>videogiochi</b> è cresciuto
                                         <b>esponenzialmente!</b><br>
-                                        Infatti, secondo una stima di <a href=”https://newzoo.com/key-numbers”
-                                            target=”_blank”>Newzoo</a>, nel 2020 il numero di <b>videogiocatori</b> ha
+                                        Infatti, secondo una stima di <a href=”https://newzoo.com/key-numbers” target=”_blank”>Newzoo</a>, nel 2020 il numero di <b>videogiocatori</b> ha
                                         raggiunto i <b>2,7 miliardi</b>, mentre il valore di mercato <b>174,9
                                             miliardi</b>
                                         di dollari!
@@ -157,8 +170,7 @@
                                     </p>
 
                                     <p>
-                                        Sempre secondo la <a href=”https://newzoo.com/key-numbers”
-                                            target=”_blank”>Newzoo</a>, il mercato degli E-Sports nel 2020 ha generato
+                                        Sempre secondo la <a href=”https://newzoo.com/key-numbers” target=”_blank”>Newzoo</a>, il mercato degli E-Sports nel 2020 ha generato
                                         ricavi per un importo di <b>950 milioni</b> di dollari!
                                     </p>
 
@@ -280,7 +292,7 @@
                                         fisioterapista, per poter mantenere il livello psicofisico sempre al top.
                                     </p>
 
-                                    <h3>4. Consigli per chi vuole intraprendere la stessa ambizione che hai avuto?</h3>
+                                    <h3>Consigli per chi vuole intraprendere la stessa ambizione che hai avuto?</h3>
 
                                     <p>Per farsi notare dai recruiters dei migliori teams, è intanto necessario
                                         dimostrare le proprie capacità nella classifica <i>SoloQ</i>. Per chi non lo
@@ -322,23 +334,6 @@
                                     </p>
                                 </div>
 
-
-                                <div class="why-us section-bg" data-aos="fade-up" date-aos-delay="200">
-                                    <div class="container">
-
-                                        <div class="row">
-                                            <div class="col-lg-12 video-box">
-                                                <!--    <img src="../assets/img/news/hschoolhub.jpg" class="img-fluid" alt="">
-                                            <a href="../assets/intervistagamer.mov" class="venobox play-btn mb-4" data-vbtype="video" data-autoplay="true"></a>-->
-                                                <video class="embed-responsive embed-responsive-16by9" width="auto"
-                                                    height="400" controls>
-                                                    <source src="../assets/intervistagamer.mov" type="video/mp4">
-                                                </video>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-
                             </div>
 
                         </article><!-- End blog entry -->
@@ -360,17 +355,11 @@
 
                             <h3 class="sidebar-title">Condividi</h3>
                             <div class="sidebar-item share">
-                                <script async defer crossorigin="anonymous"
-                                    src="https://connect.facebook.net/it_IT/sdk.js#xfbml=1&version=v9.0"
-                                    nonce="NQ1siQQ0"></script>
+                                <script async defer crossorigin="anonymous" src="https://connect.facebook.net/it_IT/sdk.js#xfbml=1&version=v9.0" nonce="NQ1siQQ0"></script>
 
-                                <div class="fb-share-button" data-href="https://developers.facebook.com/docs/plugins/"
-                                    data-layout="button" data-size="small"><a target="_blank"
-                                        href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;src=sdkpreparse"
-                                        class="fb-xfbml-parse-ignore">Condividi</a></div>
+                                <div class="fb-share-button" data-href="https://developers.facebook.com/docs/plugins/" data-layout="button" data-size="small"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Condividi</a></div>
 
-                                <script src="https://platform.linkedin.com/in.js" type="text/javascript">
-                                lang: it-IT
+                                <script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: it-IT
                                 </script>
                                 <script type="IN/Share" data-url="https://icpn.it/"></script>
                             </div><!-- End sidebar share-->
