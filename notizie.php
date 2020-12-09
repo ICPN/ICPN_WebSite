@@ -48,9 +48,7 @@
                 <h5 class="card-title"><a href="news/esports.php">E-Sport: da passione a lavoro</a></h5>
                 <p class="card-text">L’E-Sport, la disciplina legata ai videogiochi praticato a livello
                   competitivo, nutre da diversi decenni un grande interesse e attenzione da parte dei
-                  giovani, soprattutto negli ultimi anni ha iniziato a crescere esponenzialmente fino
-                  a raggiungere un impatto anche a livello mondiale, nel 2020 si stima un numero di
-                  oltre 2,5 miliardi di videogiocatori.</p>
+                  giovani. <br>In questo articolo parleremo di Zhiqiang Zhao conosciuto anche come Shadow, atleta della squadra posizionata al primo posto nella classifica europea!</p>
                 <div class="read-more"><a href="news/esports.php"><i class="icofont-arrow-right"></i> Read More</a></div>
               </div>
             </div>

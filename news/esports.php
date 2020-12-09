@@ -24,7 +24,10 @@
             <div class="container">
 
                 <div class="d-flex justify-content-between align-items-center">
-                    <h2>E-Sport: da passione a lavoro</h2>
+                    <div>
+                        <h2>E-Sport: da passione a lavoro</h2>
+                        <p>Intervista speciale Shaodow di Mad Lions</p>
+                    </div>
 
                     <ol>
                         <li><a href="../index.php">Home</a></li>
@@ -341,7 +344,7 @@
                                 <ul>
                                     <li><a href="#1">1. Cos’è League of Legends?</a></li>
                                     <li><a href="#2">2. Videogiochi ed E-Sport</a></li>
-                                    <li><a href="#3">3. Come si diventa giocatori professionisti</a></li>
+                                    <li><a href="#3">3. Come si diventa giocatori professionisti: chiediamolo a Shadow!</a></li>
                                 </ul>
 
                             </div><!-- End sidebar categories-->
