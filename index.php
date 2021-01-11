@@ -96,7 +96,7 @@
                             Per ogni settore inviteremo a parlare studenti universitari con cui ti potrai confrontare e rivolgere tutte le tue domande!
                         </p>
                         <ul>
-                            <li><i class="icofont-check"></i><a href="https://forms.gle/Y48t4VNsc5cRdTuT8" rel="noopener noreferrer">Iscriviti subito tramite il link o scannerizzando il QR Code!</a>
+                            <li><i class="icofont-check"></i><a href="https://forms.gle/Y48t4VNsc5cRdTuT8" target="_blank" rel="noopener noreferrer">Iscriviti subito tramite il link o scannerizzando il QR Code!</a>
                             </li>
                         </ul>
                     </div>
@@ -117,7 +117,7 @@
                             spiccato interesse verso la Cina in un’unica piattaforma.
                         </p>
                         <ul>
-                            <li><i class="icofont-check"></i><a href="news/highschoolhub.php" rel="noopener noreferrer">Per saperne di più, leggi l'articolo completo.</a>
+                            <li><i class="icofont-check"></i><a href="news/highschoolhub.php" target="_blank" rel="noopener noreferrer">Per saperne di più, leggi l'articolo completo.</a>
                             </li>
                         </ul>
                     </div>

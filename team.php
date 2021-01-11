@@ -220,86 +220,7 @@
               </div>
             </div>
 
-            <div class="col-lg-2 col-md-5 d-flex align-items-stretch">
-              <div class="member">
-                <div class="member-img rounded-circle">
-                  <img src="assets/img/team/associate/susanna.jpg" class="img-fluid" alt="">
-                  <div class="social">
-                    <a href="https://www.linkedin.com/in/susanna-yu-bai-2b972541/" target="_blank"><i class="icofont-linkedin"></i></a>
-                  </div>
-                </div>
-                <div class="member-info">
-                  <h4>Susanna YiYu Bai – 白意玉</h4>
-                  <span>Area Comunicazione</span>
-                  <p></p>
-                </div>
-              </div>
-            </div>
-
-            <div class="col-lg-2 col-md-5 d-flex align-items-stretch">
-              <div class="member">
-                <div class="member-img rounded-circle">
-                  <img src="assets/img/team/associate/luca.jpg" class="img-fluid" alt="">
-                  <div class="social">
-                    <a href="https://www.linkedin.com/in/luca-d-021b009a/" target="_blank"><i class="icofont-linkedin"></i></a>
-                  </div>
-                </div>
-                <div class="member-info">
-                  <h4>Luca De Carolis</h4>
-                  <br>
-                  <span>Area Relazioni esterne</span>
-                  <p></p>
-                </div>
-              </div>
-            </div>
-
-            <div class="col-lg-2 col-md-5 d-flex align-items-stretch">
-              <div class="member">
-                <div class="member-img rounded-circle">
-                  <img src="assets/img/team/associate/soniaruan.jpg" class="img-fluid" alt="">
-                  <div class="social">
-                    <a href="https://www.linkedin.com/in/sonia-ruan/" target="_blank"><i class="icofont-linkedin"></i></a>
-                  </div>
-                </div>
-                <div class="member-info">
-                  <h4>Sonia Ruan – 阮之慧</h4>
-                  <span>Area Relazioni esterne</span>
-                  <p></p>
-                </div>
-              </div>
-            </div>
-
-            <div class="col-lg-2 col-md-5 d-flex align-items-stretch">
-              <div class="member">
-                <div class="member-img rounded-circle">
-                  <img src="assets/img/team/associate/youyouzhou.jpg" class="img-fluid" alt="">
-                  <div class="social">
-                    <a href="https://www.linkedin.com/in/youyou-zhou-402a6a179/" target="_blank"><i class="icofont-linkedin"></i></a>
-                  </div>
-                </div>
-                <div class="member-info">
-                  <h4>YouYou Zhou – 周悠悠</h4>
-                  <span>Responsabile Grafica</span>
-                  <p></p>
-                </div>
-              </div>
-            </div>
-
-            <div class="col-lg-2 col-md-5 d-flex align-items-stretch">
-              <div class="member">
-                <div class="member-img rounded-circle">
-                  <img src="assets/img/team/associate/yintongzhou1.jpg" class="img-fluid" alt="">
-                  <div class="social">
-                    <a href="https://www.linkedin.com/in/yintong-zhou-80692a166/" target="_blank"><i class="icofont-linkedin"></i></a>
-                  </div>
-                </div>
-                <div class="member-info">
-                  <h4>Yintong Zhou – 周银统</h4>
-                  <span>Responsabile IT</span>
-                  <p></p>
-                </div>
-              </div>
-            </div>
+            
 
             <div class="col-lg-2 col-md-5 d-flex align-items-stretch">
               <div class="member">
@@ -315,7 +236,6 @@
                 </div>
               </div>
             </div>
-
 
             <div class="col-lg-2 col-md-5 d-flex align-items-stretch">
               <div class="member">
@@ -359,6 +279,101 @@
                   <h4>Hao Chen – 陈豪</h4>
                   <br>
                   <span>Area Marketing</span>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-lg-2 col-md-5 d-flex align-items-stretch">
+              <div class="member">
+                <div class="member-img rounded-circle">
+                  <img src="assets/img/team/associate/susanna.jpg" class="img-fluid" alt="">
+                  <div class="social">
+                    <a href="https://www.linkedin.com/in/susanna-yu-bai-2b972541/" target="_blank"><i class="icofont-linkedin"></i></a>
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>Susanna YiYu Bai – 白意玉</h4>
+                  <span>Area Comunicazione</span>
+                  <p></p>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-lg-2 col-md-5 d-flex align-items-stretch">
+              <div class="member">
+                <div class="member-img rounded-circle">
+                  <img src="assets/img/team/associate/luca.jpg" class="img-fluid" alt="">
+                  <div class="social">
+                    <a href="https://www.linkedin.com/in/luca-d-021b009a/" target="_blank"><i class="icofont-linkedin"></i></a>
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>Luca De Carolis</h4>
+                  <span>Area Relazioni esterne</span>
+                  <p></p>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-lg-2 col-md-5 d-flex align-items-stretch">
+              <div class="member">
+                <div class="member-img rounded-circle">
+                  <img src="assets/img/team/associate/soniaruan.jpg" class="img-fluid" alt="">
+                  <div class="social">
+                    <a href="https://www.linkedin.com/in/sonia-ruan/" target="_blank"><i class="icofont-linkedin"></i></a>
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>Sonia Ruan – 阮之慧</h4>
+                  <span>Area Relazioni esterne</span>
+                  <p></p>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-lg-2 col-md-5 d-flex align-items-stretch">
+              <div class="member">
+                <div class="member-img rounded-circle">
+                  <img src="assets/img/team/associate/alessio_huang.png" class="img-fluid" alt="">
+                  <div class="social">
+                    <a href="https://www.linkedin.com/in/alessio-huang-%E9%BB%84%E5%88%A9%E5%86%AC-247a48134/" target="_blank"><i class="icofont-linkedin"></i></a>
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>Alessio Huang - 黄利冬</h4>
+                  <span>Area Relazioni Esterne</span>
+                </div>
+              </div>
+            </div>
+            
+            <div class="col-lg-2 col-md-5 d-flex align-items-stretch">
+              <div class="member">
+                <div class="member-img rounded-circle">
+                  <img src="assets/img/team/associate/youyouzhou.jpg" class="img-fluid" alt="">
+                  <div class="social">
+                    <a href="https://www.linkedin.com/in/youyou-zhou-402a6a179/" target="_blank"><i class="icofont-linkedin"></i></a>
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>YouYou Zhou – 周悠悠</h4>
+                  <span>Responsabile Grafica</span>
+                  <p></p>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-lg-2 col-md-5 d-flex align-items-stretch">
+              <div class="member">
+                <div class="member-img rounded-circle">
+                  <img src="assets/img/team/associate/yintongzhou1.jpg" class="img-fluid" alt="">
+                  <div class="social">
+                    <a href="https://www.linkedin.com/in/yintong-zhou-80692a166/" target="_blank"><i class="icofont-linkedin"></i></a>
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>Yintong Zhou – 周银统</h4>
+                  <span>Responsabile IT</span>
+                  <p></p>
                 </div>
               </div>
             </div>
