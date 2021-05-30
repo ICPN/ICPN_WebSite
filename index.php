@@ -77,26 +77,15 @@
 
                 <div class="row" data-aos="fade-up">
                     <div class="col-md-5">
-                        <img src="assets/img/orientation.png" class="img-fluid" alt="">
+                        <img src="assets/img/news/jiamingchen_interview.png" class="img-fluid" alt="">
                     </div>
                     <div class="col-md-7 pt-4">
-                        <h3>Orientation Day</h3>
-                        <p class="font-italic">
-                            Dubbi sulla scelta universitaria?
-                            ICPN presenta quattro giornate di orientamento nel mese di Dicembre:
-
+                        <h3>Intervista Jiaming Chen</h3>
+                        <p>
+                            Siamo lieti di condividere con il network #ICPN l’intervista esclusiva a Jiaming Chen, laureato alla PoliMi – XiAn in Ingegneria Elettrica e Global Product Manager a Hilti Group.
                         </p>
                         <ul>
-                            <li> - ECONOMIA</li>
-                            <li> - INGEGNERIA</li>
-                            <li> - LINGUE</li>
-                            <li> - DESIGN</li>
-                        </ul>
-                        <p class="font-italic">
-                            Per ogni settore inviteremo a parlare studenti universitari con cui ti potrai confrontare e rivolgere tutte le tue domande!
-                        </p>
-                        <ul>
-                            <li><i class="icofont-check"></i><a href="https://forms.gle/Y48t4VNsc5cRdTuT8" target="_blank" rel="noopener noreferrer">Iscriviti subito tramite il link o scannerizzando il QR Code!</a>
+                            <li><i class="icofont-check"></i><a href="https://www.icpn.it/notizie.php" target="_blank" rel="noopener noreferrer">Clicca qui per leggere l'articolo completo!</a>
                             </li>
                         </ul>
                     </div>

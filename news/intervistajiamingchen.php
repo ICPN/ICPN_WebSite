@@ -181,7 +181,7 @@
                                     <li><a href="#">#hilti</a></li>
                                     <li><a href="#">#professional</a></li>
                                     <li><a href="#">#academy</a></li>
-                                    <li><a href="#">#degree</a></li>
+                                    <li><a href="#">#wetalk</a></li>
                                 </ul>
 
                             </div><!-- End sidebar tags-->
