@@ -54,6 +54,30 @@
                 <div class="col-lg-12 filter-app">
                     <div class="col-lg-6 col-md-6 mx-auto">
                         <div class="portfolio-item">
+                            <img src="assets/img/events/milanocafe.jpg" class="img-fluid" alt="">
+                            <div class="portfolio-info">
+                                <h3><a href="assets/img/events/milanocafe.jpg" data-gall="portfolioGallery" class="venobox" title="App 1">Closed</a></h3>
+                                <div>
+                                    <a href="assets/img/events/milanocafe.jpg" data-gall="portfolioGallery" class="venobox" title="App 1"><i class="bx bx-plus"></i></a>
+                                    <!--<a href="" title="Portfolio Details"><i class="bx bx-link"></i></a>-->
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-12">
+                        <h4 class="text-center">NETWORKING EVENT – Milano Cafè</h4>
+                        <h6 class="text-center">24 LUGLIO 2021<br/>
+                            Sede: Milano Cafè, Via Procaccini 37 20154<br/>
+                            <a href="galleries/milanocafe.php" class="btn-get-started animate__animated animate__fadeInUp">Gallery</a></h6>
+                    </div>
+
+                </div>
+
+
+                <div class="col-lg-12 filter-app">
+                    <hr class="mx-auto" style="height: 10px;width: 100px;color: darkgray">
+                    <div class="col-lg-6 col-md-6 mx-auto">
+                        <div class="portfolio-item">
                             <img src="assets/img/events/networking.jpg" class="img-fluid" alt="">
                             <div class="portfolio-info">
                                 <h3><a href="assets/img/events/networking.jpg" data-gall="portfolioGallery" class="venobox" title="App 1">Closed</a></h3>

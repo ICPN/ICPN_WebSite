@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+0<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -71,12 +71,12 @@
                 <div class="row counters">
 
                     <div class="col-lg-6 col-6 text-center">
-                        <span data-toggle="counter-up">900</span>
+                        <span id="count" data-toggle="counter-up">900</span>
                         <p>Community</p>
                     </div>
 
                     <div class="col-lg-6 col-6 text-center">
-                        <span data-toggle="counter-up">20</span>
+                        <span id="count2" data-toggle="counter-up">20</span>
                         <p>Team</p>
                     </div>
 
@@ -149,7 +149,13 @@
 
     <a href="#" class="back-to-top"><i class="icofont-simple-up"></i></a>
     <?php include 'partials/foot-script.php'; ?>
-
+    <script>
+        var timer=setTimeout(function () {
+            document.getElementById("count").innerHTML="900+";
+            document.getElementById("count2").innerHTML="20";
+            clearTimeout(timer);
+        },1200);
+    </script>
 </body>
 
 </html>

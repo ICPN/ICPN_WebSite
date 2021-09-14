@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-    <title>Aperitivo ICPN 2021</title>
+    <title>Evento ICPN 2021</title>
     <meta content="" name="descriptison">
     <meta content="" name="keywords">
 
@@ -24,11 +24,11 @@
             <div class="container">
 
                 <div class="d-flex justify-content-between align-items-center">
-                    <h2>Aperivito ICPN 2021</h2>
+                    <h2>Evento ICPN 2021</h2>
 
                     <ol>
                         <li><a href="../index.php">Home</a></li>
-                        <li>Aperivito ICPN 2021</li>
+                        <li>Evento ICPN 2021</li>
                     </ol>
                 </div>
 
@@ -49,7 +49,7 @@
                             </div>
 
                             <h2 class="entry-title">
-                                <a href="#">Aperitivo ICPN 2021</a>
+                                <a href="#">Evento ICPN 2021</a>
                             </h2>
 
                             <div class="entry-meta">
@@ -65,10 +65,12 @@
                                 $name = $_POST['name'];
                                 $hobby = $_POST['hobby'];
                                 $contact = $_POST['contact'];
+                                $consenso = $_POST['consenso'];
                                 $myfile = fopen("iscritti.csv", "a+") or die("Unable to open file!");
                                 fwrite($myfile, $name.";");
                                 fwrite($myfile, $hobby.";");
-                                fwrite($myfile, $contact.";\n");
+                                fwrite($myfile, $contact.";");
+                                fwrite($myfile, $consenso.";\n");
                                 fclose($myfile);
                                 echo "<h4>La registrazione è stata completata</h4>";
                             ?>

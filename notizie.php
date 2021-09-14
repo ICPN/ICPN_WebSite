@@ -25,7 +25,7 @@
       <div class="container">
 
         <div class="d-flex justify-content-between align-items-center">
-          <h2>Notizie</h2>
+            
 
           <ol>
             <li><a href="index.php">Home</a></li>
@@ -39,7 +39,7 @@
     <!-- ======= Service Details Section ======= -->
     <section class="service-details">
       <div class="container">
-        <br><br>
+          <br><br>
 
         <div class="row">
           <div class="col-md-6 d-flex align-items-stretch" data-aos="fade-up">
@@ -56,33 +56,17 @@
 
         <br><br>
 
-        <div class="row">
-          <div class="col-md-6 d-flex align-items-stretch" data-aos="fade-up">
-            <div class="card">
-              <div class="card-body">
-                <h5 class="card-title"><a href="news/intervistamarcomarazzi.php">Intervista avv. Marco Marazzi - ICPN</a></h5>
-                <p class="card-text">Quali sono secondo te i settori e le opportunità d'investimento in crescita in questo momento? Perché?
-                  Se si guarda agli investimenti italiani in Cina, direi senz'altro tutto quello che ha a che fare con la salute (farmaceutica, dispositivi medici, assistenza medica di alto livello, etc.) ma anche quello delle energie alternative e tecnologie green.</p>
-                <div class="read-more"><a href="news/intervistamarcomarazzi.php"><i class="icofont-arrow-right"></i> Read More</a></div>
+          <div class="row">
+              <div class="col-md-6 d-flex align-items-stretch" data-aos="fade-up">
+                  <div class="card">
+                      <div class="card-body">
+                          <h5 class="card-title"><a href="news/intervistamarcomarazzi.php">Intervista avv. Marco Marazzi - ICPN</a></h5>
+                          <p class="card-text">Quali sono secondo te i settori e le opportunità d'investimento in crescita in questo momento? Perché?
+                              Se si guarda agli investimenti italiani in Cina, direi senz'altro tutto quello che ha a che fare con la salute (farmaceutica, dispositivi medici, assistenza medica di alto livello, etc.) ma anche quello delle energie alternative e tecnologie green.</p>
+                          <div class="read-more"><a href="news/intervistamarcomarazzi.php"><i class="icofont-arrow-right"></i> Read More</a></div>
+                      </div>
+                  </div>
               </div>
-            </div>
-          </div>
-          <div class="col-md-6 d-flex align-items-stretch" data-aos="fade-up">
-            <div class="card">
-              <div class="card-body">
-                <h5 class="card-title"><a href="news/esports.php">E-Sport: da passione a lavoro</a></h5>
-                <p class="card-text">L’E-Sport, la disciplina legata ai videogiochi praticato a livello
-                  competitivo, nutre da diversi decenni un grande interesse e attenzione da parte dei
-                  giovani. <br>In questo articolo parleremo di Zhiqiang Zhao conosciuto anche come Shadow, atleta della squadra posizionata al primo posto nella classifica europea!</p>
-                <div class="read-more"><a href="news/esports.php"><i class="icofont-arrow-right"></i> Read More</a></div>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <br><br>
-
-        <div class="row">
           <div class="col-md-6 d-flex align-items-stretch" data-aos="fade-up">
             <div class="card">
               <div class="card-body">
@@ -94,7 +78,11 @@
               </div>
             </div>
           </div>
+          </div>
 
+          <br><br>
+
+          <div class="row">
           <div class="col-md-6 d-flex align-items-stretch" data-aos="fade-up">
             <div class="card">
               <div class="card-body">
@@ -108,11 +96,6 @@
               </div>
             </div>
           </div>
-        </div>
-
-        <br>
-
-        <div class="row">
           <div class="col-md-6 d-flex align-items-stretch" data-aos="fade-up">
             <div class="card">
               <div class="card-body">
@@ -126,7 +109,11 @@
               </div>
             </div>
           </div>
+      </div>
 
+          <br/><br/>
+
+          <div class="row">
           <div class="col-md-6 d-flex align-items-stretch" data-aos="fade-up">
             <div class="card">
               <div class="card-body">
@@ -140,11 +127,6 @@
               </div>
             </div>
           </div>
-        </div>
-
-        <br>
-
-        <div class="row">
           <div class="col-md-6 d-flex align-items-stretch" data-aos="fade-up">
             <div class="card">
               <div class="card-body">
@@ -157,7 +139,11 @@
               </div>
             </div>
           </div>
+        </div>
 
+              <br/><br/>
+
+          <div class="row">
           <div class="col-md-6 d-flex align-items-stretch" data-aos="fade-up">
             <div class="card">
               <div class="card-body">
@@ -170,11 +156,6 @@
               </div>
             </div>
           </div>
-        </div>
-
-        <br>
-
-        <div class="row">
           <div class="col-md-6 d-flex align-items-stretch" data-aos="fade-up">
             <div class="card">
               <div class="card-body">
@@ -187,7 +168,11 @@
               </div>
             </div>
           </div>
+          </div>
 
+          <br/><br/>
+
+          <div class="row">
           <div class="col-md-6 d-flex align-items-stretch" data-aos="fade-up">
             <div class="card">
               <div class="card-body">
@@ -201,11 +186,6 @@
               </div>
             </div>
           </div>
-        </div>
-
-        <br>
-
-        <div class="row">
           <div class="col-md-6 d-flex align-items-stretch" data-aos="fade-up">
             <div class="card">
               <div class="card-body">
@@ -219,7 +199,11 @@
               </div>
             </div>
           </div>
+          </div>
 
+          <br/><br/>
+          
+          <div class="row">
           <div class="col-md-6 d-flex align-items-stretch" data-aos="fade-up">
             <div class="card">
               <div class="card-body">

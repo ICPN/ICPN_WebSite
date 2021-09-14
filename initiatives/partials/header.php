@@ -3,8 +3,7 @@
     <div class="container">
 
       <div class="logo float-left">
-        <!-- 
-        <h1 class="text-light"><a href="index.php"><span>ICPN</span></a></h1>
+       <!-- <h1 class="text-light"><a href="index.php"><span>ICPN</span></a></h1>
         Uncomment below if you prefer to use an image logo -->
         <a href="index.php"><img src="assets/img/whitelogo.png" alt="" class="img-fluid"></a>
       </div>

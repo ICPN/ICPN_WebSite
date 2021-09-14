@@ -111,6 +111,9 @@
                 </div>
               </div>
             </div>
+
+
+
           </div>
 
           <div class="row justify-content-center">
@@ -216,8 +219,6 @@
                 </div>
               </div>
             </div>
-
-            
 
             <div class="col-lg-2 col-md-5 d-flex align-items-stretch">
               <div class="member">

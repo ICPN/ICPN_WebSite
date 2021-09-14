@@ -77,6 +77,22 @@
 
                 <div class="row" data-aos="fade-up">
                     <div class="col-md-5">
+                        <img src="aperitivo2021/img/ape.jpg" class="img-fluid" alt="">
+                    </div>
+                    <div class="col-md-7 pt-4">
+                        <h3>Evento ICPN 2021</h3>
+                        <p>
+                            
+                        </p>
+                        <ul>
+                            <li><i class="icofont-check"></i><a href="https://www.icpn.it/galleries/milanocafe.php" target="_blank" rel="noopener noreferrer">Clicca qui vedere le foto dell'evento.</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="row" data-aos="fade-up">
+                    <div class="col-md-5">
                         <img src="assets/img/news/jiamingchen_interview.png" class="img-fluid" alt="">
                     </div>
                     <div class="col-md-7 pt-4">
@@ -92,8 +108,6 @@
                 </div>
 
                 <div class="row" data-aos="fade-up">
-
-
                     <div class="col-md-5">
                         <img src="assets/img/news/hschoolhub.jpg" class="img-fluid" alt="">
                     </div>
@@ -183,7 +197,8 @@
                     <div class="container">
 
                         <div class="row">
-                            <div class="col-md-6 col-lg-3 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
+                            <div class="col-md-6 col-lg-3 d-flex align-items-stretch" data-aos="fade-up"
+                                data-aos-delay="200">
                                 <div class="icon-box icon-box-blue">
                                     <div class="icon"><i class="bx bx-world"></i></div>
                                     <h4 class="title"><a href="">NETWORKING</a></h4>
@@ -193,7 +208,8 @@
                                 </div>
                             </div>
 
-                            <div class="col-md-6 col-lg-3 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
+                            <div class="col-md-6 col-lg-3 d-flex align-items-stretch" data-aos="fade-up"
+                                data-aos-delay="200">
                                 <div class="icon-box icon-box-green">
                                     <div class="icon"><i class="bx bx-tachometer"></i></div>
                                     <h4 class="title"><a href="">MENTORING</a></h4>
@@ -205,10 +221,11 @@
                                 </div>
                             </div>
 
-                            <div class="col-md-6 col-lg-3 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
+                            <div class="col-md-6 col-lg-3 d-flex align-items-stretch" data-aos="fade-up"
+                                data-aos-delay="100">
                                 <div class="icon-box icon-box-cyan">
                                     <div class="icon"><i class="bx bx-file"></i></div>
-                                    <h4 class="title"><a href="">OPPORTUNITÀ</a></h4>
+                                    <h4 class="title"><a href="">OPPORTUNITY</a></h4>
                                     <p class="description">Mettere tra di loro in contatto aziende o investitori con le
                                         conoscenze e capacità necessarie per intraprendere interessanti opportunità di
                                         business.
@@ -241,32 +258,45 @@
 
                             <div class="testimonial-item">
                                 <div class="row">
-                                    <img src="assets/img/partners/ccsa-quad.jpg" class="testimonial-img" alt="">
-
-                                    <img src="assets/img/partners/bcsa.jpg" class="testimonial-img" alt="">
-
-                                    <img src="assets/img/partners/polito.jpg" class="testimonial-img" alt="">
+                                    <div class="col">
+                                        <img src="assets/img/partners/ccsa-quad.jpg" class="testimonial-img" alt="">
+                                    </div>
+                                    <div class="col">
+                                        <img src="assets/img/partners/bcsa.jpg" class="testimonial-img" alt="">
+                                    </div>
+                                    <div class="col">
+                                        <img src="assets/img/partners/polito.jpg" class="testimonial-img" alt="">
+                                    </div>
                                 </div>
                             </div>
 
                             <div class="testimonial-item">
                                 <div class="row">
-                                    <img src="assets/img/partners/torvergata.jpg" class="testimonial-img" alt="">
+                                    <div class="col">
+                                        <img src="assets/img/partners/torvergata.jpg" class="testimonial-img" alt="">
+                                    </div>
+                                    <div class="col">
+                                        <img src="assets/img/partners/logo_mistoreitalia_page-0001-1.jpg" class="testimonial-img" alt="">
+                                    </div>
+                                    <div class="col">
+                                        <img src="assets/img/partners/valuechina.jpg" class="testimonial-img" alt="">
+                                    </div>
 
-                                    <img src="assets/img/partners/logo_mistoreitalia_page-0001-1.jpg" class="testimonial-img" alt="">
-
-                                    <img src="assets/img/partners/valuechina.jpg" class="testimonial-img" alt="">
                                 </div>
 
                             </div>
 
                             <div class="testimonial-item">
                                 <div class="row">
-                                    <img src="assets/img/partners/niubility-logo-pdf_page-0001.jpg" class="testimonial-img" alt="">
-
-                                    <img src="assets/img/partners/37express.jpg" class="testimonial-img" alt="">
-
-                                    <img src="assets/img/partners/woshou.jpg" class="testimonial-img" alt="">
+                                    <div class="col">
+                                        <img src="assets/img/partners/niubility-logo-pdf_page-0001.jpg" class="testimonial-img" alt="">
+                                    </div>
+                                    <div class="col">
+                                        <img src="assets/img/partners/37express.jpg" class="testimonial-img" alt="">
+                                    </div>
+                                    <div class="col">
+                                        <img src="assets/img/partners/woshou.jpg" class="testimonial-img" alt="">
+                                    </div>
                                 </div>
                             </div>
 
@@ -285,8 +315,8 @@
                                 <img src="assets/img/favicon.png" class="img-fluid" alt="">
                                 <!--    
                         <iframe width="500" height="400" src="https://videopress.com/v/h9Da4oal" data-vbtype="video" data-autoplay="true">
-                        </iframe>  -->
-                                <a href="https://www.youtube.com/watch?v=Bs0AoZgvfDc&ab_channel=ICPN-ItalianChineseProfessionalNetwork" class="venobox play-btn mb-4" data-vbtype="video" data-autoplay="true"></a>
+                        </iframe> -->
+                        <a href="https://www.youtube.com/watch?v=Bs0AoZgvfDc&ab_channel=ICPN-ItalianChineseProfessionalNetwork" class="venobox play-btn mb-4" data-vbtype="video" data-autoplay="true"></a> 
                             </div>
 
 

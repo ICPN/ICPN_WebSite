@@ -103,7 +103,7 @@
                     </article><!-- End blog entry -->
 
                 </div><!-- End blog entries list -->
-
+                
                 <div class="col-lg-4">
                         <div class="sidebar">
 
@@ -147,6 +147,8 @@
                         </div><!-- End sidebar -->
 
                     </div><!-- End blog sidebar -->
+
+            </div><!-- End row -->
 
             </div><!-- End row -->
 
