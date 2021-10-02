@@ -90,7 +90,7 @@
                 </div>
                 <div class="member-info">
                   <h4>Francesca Dai – 戴丽珊</h4>
-                  <span>Fondatrice e Consigliera</span>
+                  <span>Fondatrice & Area High School Hub</span>
                   <p></p>
                 </div>
               </div>
@@ -112,8 +112,6 @@
               </div>
             </div>
 
-
-
           </div>
 
           <div class="row justify-content-center">
@@ -127,7 +125,7 @@
                 </div>
                 <div class="member-info">
                   <h4>Erika Yu – 余爱宁</h4>
-                  <span>Fondatrice e Consigliera</span>
+                  <span>Fondatrice e Responsabile Marketing</span>
                   <p></p>
                 </div>
               </div>
@@ -182,7 +180,7 @@
                 </div>
                 <div class="member-info">
                   <h4>Qiang Werry Xu – 徐强</h4>
-                  <span>Area Marketing</span>
+                  <span>Area Business Development & High School Hub</span>
                   <p></p>
                 </div>
               </div>
@@ -214,7 +212,7 @@
                 </div>
                 <div class="member-info">
                   <h4>Simona Chen – 陈佳佳</h4>
-                  <span>Area Marketing</span>
+                  <span>Responsabile Business Development</span>
                   <p></p>
                 </div>
               </div>
@@ -230,7 +228,7 @@
                 </div>
                 <div class="member-info">
                   <h4>Luisa Yang – 杨聪慧</h4>
-                  <span>Area Marketing</span>
+                  <span>Responsabile High School Hub</span>
                 </div>
               </div>
             </div>
@@ -245,7 +243,7 @@
                 </div>
                 <div class="member-info">
                   <h4>Chiara Wang – 王樱虹</h4>
-                  <span>Area Marketing</span>
+                  <span>Area Business Development & High School Hub</span>
                 </div>
               </div>
             </div>
@@ -276,7 +274,7 @@
                 <div class="member-info">
                   <h4>Hao Chen – 陈豪</h4>
                   <br>
-                  <span>Area Marketing</span>
+                  <span>Area Business Development</span>
                 </div>
               </div>
             </div>
@@ -307,7 +305,7 @@
                 </div>
                 <div class="member-info">
                   <h4>Luca De Carolis</h4>
-                  <span>Area Relazioni esterne</span>
+                  <span>Area High School Hub</span>
                   <p></p>
                 </div>
               </div>
@@ -323,7 +321,7 @@
                 </div>
                 <div class="member-info">
                   <h4>Sonia Ruan – 阮之慧</h4>
-                  <span>Area Relazioni esterne</span>
+                  <span>Area Business Development</span>
                   <p></p>
                 </div>
               </div>
@@ -339,7 +337,7 @@
                 </div>
                 <div class="member-info">
                   <h4>Alessio Huang - 黄利冬</h4>
-                  <span>Area Relazioni Esterne</span>
+                  <span>Area Business Development</span>
                 </div>
               </div>
             </div>
@@ -401,7 +399,7 @@
                 </div>
                 <div class="member-info">
                   <h4>Elisa Hu - 胡佳琪</h4>
-                  <span>Area IT</span>
+                  <span>Area Marketing</span>
                 </div>
               </div>
             </div>
@@ -416,7 +414,7 @@
                 </div>
                 <div class="member-info">
                   <h4>Giorgio Fu- 傅乔治</h4>
-                  <span>Area IT</span>
+                  <span>Area Business Development</span>
                 </div>
               </div>
             </div>
@@ -431,7 +429,7 @@
                 </div>
                 <div class="member-info">
                   <h4>Yang Yimeng - 杨忆梦</h4>
-                  <span>Area IT</span>
+                  <span>Area Business Development</span>
                 </div>
               </div>
             </div>
@@ -446,7 +444,7 @@
                 </div>
                 <div class="member-info">
                   <h4>Giovanna Yu - 余忠智</h4>
-                  <span>Area IT</span>
+                  <span>Area Business Development</span>
                 </div>
               </div>
             </div>
