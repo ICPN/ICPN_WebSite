@@ -77,6 +77,23 @@
 
                 <div class="row" data-aos="fade-up">
                     <div class="col-md-5">
+                        <img src="assets/img/news/filipposticconi_interview.png" class="img-fluid" alt="">
+                    </div>
+                    <div class="col-md-7 pt-4">
+                        <h3>Intervista Filippo Sticconi</h3>
+                        <p>
+                            Per la quarta puntata della terza edizione “𝐖𝐞 𝐓𝐚𝐥𝐤” abbiamo avuto il piacere di intervistare Filippo Sticconi, senior associate presso la società di consulenza Greatway Advisory a Shanghai, esperto di diritto commerciale internazionale e di diritto di proprietà intellettuale.
+                            Filippo ci ha parlato delle motivazioni che lo hanno spinto ad orientarsi verso il mercato cinese, le sfide che ha affrontato durante il suo percorso e le opportunità che potrebbero nascere, soprattutto nel settore legale.                    
+                        </p>
+                        <ul>
+                            <li><i class="icofont-check"></i><a href="#" target="_blank" rel="noopener noreferrer">Leggi l'articolo completo che verrà pubblicato il 6 ottobre sul nostro sito!</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="row" data-aos="fade-up">
+                    <div class="col-md-5">
                         <img src="../assets/img/news/zhoutingwang_interview.png" class="img-fluid" alt="">
                     </div>
                     <div class="col-md-7 pt-4">
@@ -87,8 +104,7 @@
                             Business Development and Operations in Alibaba Group.
                         </p>
                         <ul>
-                            <li><i class="icofont-check"></i><a href="https://www.icpn.it/news/intervistazhoutingwang.php"
-                                    target="_blank" rel="noopener noreferrer">Clicca qui per leggere l'articolo
+                            <li><i class="icofont-check"></i><a href="https://www.icpn.it/news/intervistazhoutingwang.php" target="_blank" rel="noopener noreferrer">Clicca qui per leggere l'articolo
                                     completo!</a>
                             </li>
                         </ul>
@@ -107,27 +123,8 @@
                             SACE.
                         </p>
                         <ul>
-                            <li><i class="icofont-check"></i><a href="https://www.icpn.it/news/intervistajaychen.php"
-                                    target="_blank" rel="noopener noreferrer">Clicca qui per leggere l'articolo
+                            <li><i class="icofont-check"></i><a href="https://www.icpn.it/news/intervistajaychen.php" target="_blank" rel="noopener noreferrer">Clicca qui per leggere l'articolo
                                     completo!</a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-
-                <div class="row" data-aos="fade-up">
-                    <div class="col-md-5">
-                        <img src="assets/img/news/jiamingchen_interview.png" class="img-fluid" alt="">
-                    </div>
-                    <div class="col-md-7 pt-4">
-                        <h3>Intervista Jiaming Chen</h3>
-                        <p>
-                            Siamo lieti di condividere con il network #ICPN l’intervista esclusiva a Jiaming Chen,
-                            laureato alla PoliMi – XiAn in Ingegneria Elettrica e Global Product Manager a Hilti Group.
-                        </p>
-                        <ul>
-                            <li><i class="icofont-check"></i><a href="https://www.icpn.it/notizie.php" target="_blank"
-                                    rel="noopener noreferrer">Clicca qui per leggere l'articolo completo!</a>
                             </li>
                         </ul>
                     </div>
@@ -204,8 +201,7 @@
                     <div class="container">
 
                         <div class="row">
-                            <div class="col-md-6 col-lg-3 d-flex align-items-stretch" data-aos="fade-up"
-                                data-aos-delay="200">
+                            <div class="col-md-6 col-lg-3 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
                                 <div class="icon-box icon-box-blue">
                                     <div class="icon"><i class="bx bx-world"></i></div>
                                     <h4 class="title"><a href="">NETWORKING</a></h4>
@@ -215,8 +211,7 @@
                                 </div>
                             </div>
 
-                            <div class="col-md-6 col-lg-3 d-flex align-items-stretch" data-aos="fade-up"
-                                data-aos-delay="200">
+                            <div class="col-md-6 col-lg-3 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
                                 <div class="icon-box icon-box-green">
                                     <div class="icon"><i class="bx bx-tachometer"></i></div>
                                     <h4 class="title"><a href="">MENTORING</a></h4>
@@ -228,8 +223,7 @@
                                 </div>
                             </div>
 
-                            <div class="col-md-6 col-lg-3 d-flex align-items-stretch" data-aos="fade-up"
-                                data-aos-delay="100">
+                            <div class="col-md-6 col-lg-3 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
                                 <div class="icon-box icon-box-cyan">
                                     <div class="icon"><i class="bx bx-file"></i></div>
                                     <h4 class="title"><a href="">OPPORTUNITY</a></h4>
@@ -283,8 +277,7 @@
                                         <img src="assets/img/partners/torvergata.jpg" class="testimonial-img" alt="">
                                     </div>
                                     <div class="col">
-                                        <img src="assets/img/partners/logo_mistoreitalia_page-0001-1.jpg"
-                                            class="testimonial-img" alt="">
+                                        <img src="assets/img/partners/logo_mistoreitalia_page-0001-1.jpg" class="testimonial-img" alt="">
                                     </div>
                                     <div class="col">
                                         <img src="assets/img/partners/valuechina.jpg" class="testimonial-img" alt="">
@@ -297,8 +290,7 @@
                             <div class="testimonial-item">
                                 <div class="row">
                                     <div class="col">
-                                        <img src="assets/img/partners/niubility-logo-pdf_page-0001.jpg"
-                                            class="testimonial-img" alt="">
+                                        <img src="assets/img/partners/niubility-logo-pdf_page-0001.jpg" class="testimonial-img" alt="">
                                     </div>
                                     <div class="col">
                                         <img src="assets/img/partners/37express.jpg" class="testimonial-img" alt="">
@@ -325,8 +317,7 @@
                                 <!--    
                         <iframe width="500" height="400" src="https://videopress.com/v/h9Da4oal" data-vbtype="video" data-autoplay="true">
                         </iframe> -->
-                                <a href="https://www.youtube.com/watch?v=Bs0AoZgvfDc&ab_channel=ICPN-ItalianChineseProfessionalNetwork"
-                                    class="venobox play-btn mb-4" data-vbtype="video" data-autoplay="true"></a>
+                                <a href="https://www.youtube.com/watch?v=Bs0AoZgvfDc&ab_channel=ICPN-ItalianChineseProfessionalNetwork" class="venobox play-btn mb-4" data-vbtype="video" data-autoplay="true"></a>
                             </div>
 
 

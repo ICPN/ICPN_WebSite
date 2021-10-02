@@ -42,7 +42,16 @@
         <br><br>
 
         <div class="row">
-
+          <div class="col-md-6 d-flex align-items-stretch" data-aos="fade-up">
+            <div class="card">
+              <div class="card-body">
+                <h5 class="card-title"><a href="news/intervistajiamingchen.php">Intervista Filippo Stocconi - ICPN</a></h5>
+                <p class="card-text">Per la quarta puntata della terza edizione “𝐖𝐞 𝐓𝐚𝐥𝐤” abbiamo avuto il piacere di intervistare Filippo Sticconi, senior associate presso la società di consulenza Greatway Advisory a Shanghai, esperto di diritto commerciale internazionale e di diritto di proprietà intellettuale.
+                </p>
+                <div class="read-more"><a href="news/intervistajiamingchen.php"><i class="icofont-arrow-right"></i>Leggi l'articolo completo che verrà pubblicato il 6 ottobre</a></div>
+              </div>
+            </div>
+          </div>
 
           <div class="col-md-6 d-flex align-items-stretch" data-aos="fade-up">
             <div class="card">
