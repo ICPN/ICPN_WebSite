@@ -77,15 +77,39 @@
 
                 <div class="row" data-aos="fade-up">
                     <div class="col-md-5">
-                        <img src="aperitivo2021/img/ape.jpg" class="img-fluid" alt="">
+                        <img src="../assets/img/news/zhoutingwang_interview.png" class="img-fluid" alt="">
                     </div>
                     <div class="col-md-7 pt-4">
-                        <h3>Evento ICPN 2021</h3>
+                        <h3>Intervista Zhou Ting Wang</h3>
                         <p>
-                            
+                            Siamo lieti di condividere con il network #ICPN l'intervista esclusiva a Zhou Ting Wang,
+                            laureata in Double Degree in Economia alla Bocconi e Fudan University, attualmente in
+                            Business Development and Operations in Alibaba Group.
                         </p>
                         <ul>
-                            <li><i class="icofont-check"></i><a href="https://www.icpn.it/galleries/milanocafe.php" target="_blank" rel="noopener noreferrer">Clicca qui vedere le foto dell'evento.</a>
+                            <li><i class="icofont-check"></i><a href="https://www.icpn.it/news/intervistazhoutingwang.php"
+                                    target="_blank" rel="noopener noreferrer">Clicca qui per leggere l'articolo
+                                    completo!</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="row" data-aos="fade-up">
+                    <div class="col-md-5">
+                        <img src="../assets/img/news/jaychen_interview.png" class="img-fluid" alt="">
+                    </div>
+                    <div class="col-md-7 pt-4">
+                        <h3>Intervista Jay H. Chen</h3>
+                        <p>
+                            Siamo lieti di condividere con il network #ICPN l'intervista esclusiva a Jay H. Chen,
+                            laureato alla Bocconi e alla Cattolica, ora ricopre il ruolo di China Representative di
+                            SACE.
+                        </p>
+                        <ul>
+                            <li><i class="icofont-check"></i><a href="https://www.icpn.it/news/intervistajaychen.php"
+                                    target="_blank" rel="noopener noreferrer">Clicca qui per leggere l'articolo
+                                    completo!</a>
                             </li>
                         </ul>
                     </div>
@@ -98,29 +122,12 @@
                     <div class="col-md-7 pt-4">
                         <h3>Intervista Jiaming Chen</h3>
                         <p>
-                            Siamo lieti di condividere con il network #ICPN l’intervista esclusiva a Jiaming Chen, laureato alla PoliMi – XiAn in Ingegneria Elettrica e Global Product Manager a Hilti Group.
+                            Siamo lieti di condividere con il network #ICPN l’intervista esclusiva a Jiaming Chen,
+                            laureato alla PoliMi – XiAn in Ingegneria Elettrica e Global Product Manager a Hilti Group.
                         </p>
                         <ul>
-                            <li><i class="icofont-check"></i><a href="https://www.icpn.it/notizie.php" target="_blank" rel="noopener noreferrer">Clicca qui per leggere l'articolo completo!</a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-
-                <div class="row" data-aos="fade-up">
-                    <div class="col-md-5">
-                        <img src="assets/img/news/hschoolhub.jpg" class="img-fluid" alt="">
-                    </div>
-                    <div class="col-md-7 pt-4">
-                        <h3>High School Hub</h3>
-                        <p class="font-italic">
-                            High School Hub si rivolge a tutti i ragazzi frequentanti le scuole superiori, che siano
-                            licei, istituti tecnici, professionali o accademie, con l’obiettivo di creare una rete
-                            estesa a livello nazionale che possa unire studenti di origini italo-cinesi o con uno
-                            spiccato interesse verso la Cina in un’unica piattaforma.
-                        </p>
-                        <ul>
-                            <li><i class="icofont-check"></i><a href="news/highschoolhub.php" target="_blank" rel="noopener noreferrer">Per saperne di più, leggi l'articolo completo.</a>
+                            <li><i class="icofont-check"></i><a href="https://www.icpn.it/notizie.php" target="_blank"
+                                    rel="noopener noreferrer">Clicca qui per leggere l'articolo completo!</a>
                             </li>
                         </ul>
                     </div>
@@ -276,7 +283,8 @@
                                         <img src="assets/img/partners/torvergata.jpg" class="testimonial-img" alt="">
                                     </div>
                                     <div class="col">
-                                        <img src="assets/img/partners/logo_mistoreitalia_page-0001-1.jpg" class="testimonial-img" alt="">
+                                        <img src="assets/img/partners/logo_mistoreitalia_page-0001-1.jpg"
+                                            class="testimonial-img" alt="">
                                     </div>
                                     <div class="col">
                                         <img src="assets/img/partners/valuechina.jpg" class="testimonial-img" alt="">
@@ -289,7 +297,8 @@
                             <div class="testimonial-item">
                                 <div class="row">
                                     <div class="col">
-                                        <img src="assets/img/partners/niubility-logo-pdf_page-0001.jpg" class="testimonial-img" alt="">
+                                        <img src="assets/img/partners/niubility-logo-pdf_page-0001.jpg"
+                                            class="testimonial-img" alt="">
                                     </div>
                                     <div class="col">
                                         <img src="assets/img/partners/37express.jpg" class="testimonial-img" alt="">
@@ -316,7 +325,8 @@
                                 <!--    
                         <iframe width="500" height="400" src="https://videopress.com/v/h9Da4oal" data-vbtype="video" data-autoplay="true">
                         </iframe> -->
-                        <a href="https://www.youtube.com/watch?v=Bs0AoZgvfDc&ab_channel=ICPN-ItalianChineseProfessionalNetwork" class="venobox play-btn mb-4" data-vbtype="video" data-autoplay="true"></a> 
+                                <a href="https://www.youtube.com/watch?v=Bs0AoZgvfDc&ab_channel=ICPN-ItalianChineseProfessionalNetwork"
+                                    class="venobox play-btn mb-4" data-vbtype="video" data-autoplay="true"></a>
                             </div>
 
 

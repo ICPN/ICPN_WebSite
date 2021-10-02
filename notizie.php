@@ -25,7 +25,7 @@
       <div class="container">
 
         <div class="d-flex justify-content-between align-items-center">
-            
+
 
           <ol>
             <li><a href="index.php">Home</a></li>
@@ -39,16 +39,23 @@
     <!-- ======= Service Details Section ======= -->
     <section class="service-details">
       <div class="container">
-          <br><br>
+        <br><br>
 
         <div class="row">
+
+
           <div class="col-md-6 d-flex align-items-stretch" data-aos="fade-up">
             <div class="card">
               <div class="card-body">
-                <h5 class="card-title"><a href="news/intervistajiamingchen.php">Intervista Jiaming Chen - ICPN</a></h5>
-                <p class="card-text">Jiaming, per gli amici "Mingo", viene dal Friuli-Venezia Giulia. Frequentò l’università Politecnico di Milano e double master degree alla Xi’an Jiaotong University in Ingegneria Elettrica. Durante il periodo universitario ha fatto un tirocinio presso ABB in Svizzera. Dopo la laurea si è spostato a Shanghai dove è ora Global Product Manager ad Hilti Group.
+                <h5 class="card-title"><a href="news/intervistazhoutingwang.php">Intervista Zhou Ting Wang - ICPN</a>
+                </h5>
+                <p class="card-text">Zhuo Ting si è laureata in Double Degree in Economia alla Bocconi e Fudan
+                  University, un percorso di studi ibrido a metà tra Cina ed Italia. Dopo la laurea entra in FCA in Cina
+                  per una breve esperienza inconsulenza per poi tornare a Milano ed assumere il ruolo attuale in
+                  Business Development and Operations in Alibaba Group.
                 </p>
-                <div class="read-more"><a href="news/intervistajiamingchen.php"><i class="icofont-arrow-right"></i> Read More</a></div>
+                <div class="read-more"><a href="news/intervistazhoutingwang.php"><i class="icofont-arrow-right"></i> Read
+                    More</a></div>
               </div>
             </div>
           </div>
@@ -56,33 +63,74 @@
 
         <br><br>
 
-          <div class="row">
-              <div class="col-md-6 d-flex align-items-stretch" data-aos="fade-up">
-                  <div class="card">
-                      <div class="card-body">
-                          <h5 class="card-title"><a href="news/intervistamarcomarazzi.php">Intervista avv. Marco Marazzi - ICPN</a></h5>
-                          <p class="card-text">Quali sono secondo te i settori e le opportunità d'investimento in crescita in questo momento? Perché?
-                              Se si guarda agli investimenti italiani in Cina, direi senz'altro tutto quello che ha a che fare con la salute (farmaceutica, dispositivi medici, assistenza medica di alto livello, etc.) ma anche quello delle energie alternative e tecnologie green.</p>
-                          <div class="read-more"><a href="news/intervistamarcomarazzi.php"><i class="icofont-arrow-right"></i> Read More</a></div>
-                      </div>
-                  </div>
+        <div class="row">
+          <div class="col-md-6 d-flex align-items-stretch" data-aos="fade-up">
+            <div class="card">
+              <div class="card-body">
+                <h5 class="card-title"><a href="news/intervistajaychen.php">Intervista Jay H. Chen - ICPN</a></h5>
+                <p class="card-text">In possesso di una Laurea Triennale in Economia e Finanza presso la Bocconi e di
+                  una laurea magistrale presso la Cattolica.
+                  Ha lavorato per la PWC di Milano nel team di “Transaction Services, Due Diligence Finanziaria”.
+                  Dopo una esperienza di Start-up, Jay Chen è ora Rappresentante di SACE, l’Export Credit Agency
+                  Italiana, coprendo Cina, Corea del Sud, Giappone, e Mongolia.
+                </p>
+                <div class="read-more"><a href="news/intervistajaychen.php"><i class="icofont-arrow-right"></i> Read
+                    More</a></div>
               </div>
+            </div>
+          </div>
+          <div class="col-md-6 d-flex align-items-stretch" data-aos="fade-up">
+            <div class="card">
+              <div class="card-body">
+                <h5 class="card-title"><a href="news/intervistajiamingchen.php">Intervista Jiaming Chen - ICPN</a></h5>
+                <p class="card-text">Jiaming, per gli amici "Mingo", viene dal Friuli-Venezia Giulia. Frequentò
+                  l’università Politecnico di Milano e double master degree alla Xi’an Jiaotong University in Ingegneria
+                  Elettrica. Durante il periodo universitario ha fatto un tirocinio presso ABB in Svizzera. Dopo la
+                  laurea si è spostato a Shanghai dove è ora Global Product Manager ad Hilti Group.
+                </p>
+                <div class="read-more"><a href="news/intervistajiamingchen.php"><i class="icofont-arrow-right"></i> Read
+                    More</a></div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <br><br>
+
+        <div class="row">
+          <div class="col-md-6 d-flex align-items-stretch" data-aos="fade-up">
+            <div class="card">
+              <div class="card-body">
+                <h5 class="card-title"><a href="news/intervistamarcomarazzi.php">Intervista avv. Marco Marazzi -
+                    ICPN</a></h5>
+                <p class="card-text">Quali sono secondo te i settori e le opportunità d'investimento in crescita in
+                  questo momento? Perché?
+                  Se si guarda agli investimenti italiani in Cina, direi senz'altro tutto quello che ha a che fare con
+                  la salute (farmaceutica, dispositivi medici, assistenza medica di alto livello, etc.) ma anche quello
+                  delle energie alternative e tecnologie green.</p>
+                <div class="read-more"><a href="news/intervistamarcomarazzi.php"><i class="icofont-arrow-right"></i>
+                    Read More</a></div>
+              </div>
+            </div>
+          </div>
           <div class="col-md-6 d-flex align-items-stretch" data-aos="fade-up">
             <div class="card">
               <div class="card-body">
                 <h5 class="card-title"><a href="news/esports.php">E-Sport: da passione a lavoro</a></h5>
                 <p class="card-text">L’E-Sport, la disciplina legata ai videogiochi praticato a livello
                   competitivo, nutre da diversi decenni un grande interesse e attenzione da parte dei
-                  giovani. <br>In questo articolo parleremo di Zhiqiang Zhao conosciuto anche come Shadow, atleta della squadra posizionata al primo posto nella classifica europea!</p>
-                <div class="read-more"><a href="news/esports.php"><i class="icofont-arrow-right"></i> Read More</a></div>
+                  giovani. <br>In questo articolo parleremo di Zhiqiang Zhao conosciuto anche come Shadow, atleta della
+                  squadra posizionata al primo posto nella classifica europea!</p>
+                <div class="read-more"><a href="news/esports.php"><i class="icofont-arrow-right"></i> Read More</a>
+                </div>
               </div>
             </div>
           </div>
-          </div>
+        </div>
 
-          <br><br>
+        <br><br>
 
-          <div class="row">
+        <div class="row">
           <div class="col-md-6 d-flex align-items-stretch" data-aos="fade-up">
             <div class="card">
               <div class="card-body">
@@ -92,7 +140,8 @@
                   l’obiettivo di creare una rete estesa a livello nazionale che possa unire studenti
                   di origini italo-cinesi o con uno spiccato interesse verso la Cina in un’unica
                   piattaforma.</p>
-                <div class="read-more"><a href="news/highschoolhub.php"><i class="icofont-arrow-right"></i> Read More</a></div>
+                <div class="read-more"><a href="news/highschoolhub.php"><i class="icofont-arrow-right"></i> Read
+                    More</a></div>
               </div>
             </div>
           </div>
@@ -105,15 +154,16 @@
                   che hanno subito una risonanza globale, l’avvento di un nuovo virus di veloce
                   contagio che si è sparso velocemente in tutto il mondo in poco più di qualche mese,
                   stiamo parlando del coronavirus Sars-CoV-2.</p>
-                <div class="read-more"><a href="initiatives/progettodonazioni.php"><i class="icofont-arrow-right"></i> Read More</a></div>
+                <div class="read-more"><a href="initiatives/progettodonazioni.php"><i class="icofont-arrow-right"></i>
+                    Read More</a></div>
               </div>
             </div>
           </div>
-      </div>
+        </div>
 
-          <br/><br/>
+        <br /><br />
 
-          <div class="row">
+        <div class="row">
           <div class="col-md-6 d-flex align-items-stretch" data-aos="fade-up">
             <div class="card">
               <div class="card-body">
@@ -123,7 +173,8 @@
                   dalle autorità sanitarie. Maggiori informazioni sulla possibilità di altri contagi
                   verranno, molto probabilmente, annunciati tra circa 14 giorni, poiché quello è il
                   tempo d’incubazione del virus.</p>
-                <div class="read-more"><a href="news/comunicato3101.php"><i class="icofont-arrow-right"></i> Read More</a></div>
+                <div class="read-more"><a href="news/comunicato3101.php"><i class="icofont-arrow-right"></i> Read
+                    More</a></div>
               </div>
             </div>
           </div>
@@ -135,15 +186,16 @@
                 <p class="card-text">In riferimento alla recente emergenza sanitaria che ha colpito la
                   Cina desideriamo esprimere la nostra vicinanza a tutti coloro che ne sono stati
                   colpiti, anche in modo indiretto.</p>
-                <div class="read-more"><a href="news/comunicatocongiunto.php"><i class="icofont-arrow-right"></i> Read More</a></div>
+                <div class="read-more"><a href="news/comunicatocongiunto.php"><i class="icofont-arrow-right"></i> Read
+                    More</a></div>
               </div>
             </div>
           </div>
         </div>
 
-              <br/><br/>
+        <br /><br />
 
-          <div class="row">
+        <div class="row">
           <div class="col-md-6 d-flex align-items-stretch" data-aos="fade-up">
             <div class="card">
               <div class="card-body">
@@ -152,7 +204,8 @@
                 <p class="card-text">Crediamo fermamente che nella capacità di comprendere, accettare e
                   fondere le diversità culturali e professionali sia dell’Italia che della Cina,
                   risieda una delle chiavi principali per costruire il proprio futuro.</p>
-                <div class="read-more"><a href="news/nuovepartnership.php"><i class="icofont-arrow-right"></i> Read More</a></div>
+                <div class="read-more"><a href="news/nuovepartnership.php"><i class="icofont-arrow-right"></i> Read
+                    More</a></div>
               </div>
             </div>
           </div>
@@ -168,11 +221,11 @@
               </div>
             </div>
           </div>
-          </div>
+        </div>
 
-          <br/><br/>
+        <br /><br />
 
-          <div class="row">
+        <div class="row">
           <div class="col-md-6 d-flex align-items-stretch" data-aos="fade-up">
             <div class="card">
               <div class="card-body">
@@ -182,7 +235,8 @@
                   ha sancito l’adesione dell’Italia al progetto One Belt One Road annunciato dalla
                   Cina nel 2013. Il progetto per la Cina risulta sicuramente molto interessante, non
                   solo da un punto di vista economico ma anche politico.</p>
-                <div class="read-more"><a href="news/nuovaviadiseta.php"><i class="icofont-arrow-right"></i> Read More</a></div>
+                <div class="read-more"><a href="news/nuovaviadiseta.php"><i class="icofont-arrow-right"></i> Read
+                    More</a></div>
               </div>
             </div>
           </div>
@@ -195,15 +249,16 @@
                   società internazionali di primissimo livello come Huawei Italia e lo
                   studio大成-Dentons, l’università LUISS e l’associazione degli studenti cinesi della
                   Bocconi (BCSA).</p>
-                <div class="read-more"><a href="news/education4future.php"><i class="icofont-arrow-right"></i> Read More</a></div>
+                <div class="read-more"><a href="news/education4future.php"><i class="icofont-arrow-right"></i> Read
+                    More</a></div>
               </div>
             </div>
           </div>
-          </div>
+        </div>
 
-          <br/><br/>
-          
-          <div class="row">
+        <br /><br />
+
+        <div class="row">
           <div class="col-md-6 d-flex align-items-stretch" data-aos="fade-up">
             <div class="card">
               <div class="card-body">
@@ -212,7 +267,8 @@
                 <p class="card-text">Sentirsi 100% Italiani e 100% Cinesi, il modo c’è e si chiama ICPN.
                   Nell’intervista rilasciata a RadioPopolareMilano molti i temi toccati: dalla nascita
                   di ICPN al mostruoso tasso d’abbandono degli studenti Italo-Cinesi.</p>
-                <div class="read-more"><a href="news/intervistaradiopopolare.php"><i class="icofont-arrow-right"></i> Read More</a></div>
+                <div class="read-more"><a href="news/intervistaradiopopolare.php"><i class="icofont-arrow-right"></i>
+                    Read More</a></div>
               </div>
             </div>
           </div>

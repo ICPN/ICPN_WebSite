@@ -391,6 +391,66 @@
               </div>
             </div>
 
+            <div class="col-lg-2 col-md-5 d-flex align-items-stretch">
+              <div class="member">
+                <div class="member-img rounded-circle">
+                  <img src="assets/img/team/associate/elisahu.jpg" class="img-fluid" alt="">
+                  <div class="social">
+                    <a href="https://www.linkedin.com/in/elisa-hu-77191a1b7/" target="_blank"><i class="icofont-linkedin"></i></a>
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>Elisa Hu - 胡佳琪</h4>
+                  <span>Area IT</span>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-lg-2 col-md-5 d-flex align-items-stretch">
+              <div class="member">
+                <div class="member-img rounded-circle">
+                  <img src="assets/img/team/associate/giorgio.jpg" class="img-fluid" alt="">
+                  <div class="social">
+                    <a href="https://www.linkedin.com/in/giorgio-fu-1a3089133/" target="_blank"><i class="icofont-linkedin"></i></a>
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>Giorgio Fu- 傅乔治</h4>
+                  <span>Area IT</span>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-lg-2 col-md-5 d-flex align-items-stretch">
+              <div class="member">
+                <div class="member-img rounded-circle">
+                  <img src="assets/img/team/associate/yimiyang.jpg" class="img-fluid" alt="">
+                  <div class="social">
+                    <a href="https://www.linkedin.com/in/yimiyang/" target="_blank"><i class="icofont-linkedin"></i></a>
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>Yang Yimeng - 杨忆梦</h4>
+                  <span>Area IT</span>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-lg-2 col-md-5 d-flex align-items-stretch">
+              <div class="member">
+                <div class="member-img rounded-circle">
+                  <img src="assets/img/team/associate/giovannayu.jfif" class="img-fluid" alt="">
+                  <div class="social">
+                    <a href="https://www.linkedin.com/in/giovanna-yu/" target="_blank"><i class="icofont-linkedin"></i></a>
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>Giovanna Yu - 余忠智</h4>
+                  <span>Area IT</span>
+                </div>
+              </div>
+            </div>
+
           </div>
         </div>
 
